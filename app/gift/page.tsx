@@ -122,10 +122,7 @@ export default function GiftPage() {
           </motion.div>
         ))}
       </div>
-      <div className="min-h-screen flex flex-col items-center justify-center px-4 py-8 md:py-16 bg-gradient-to-br
-                from-[#550000]
-                via-[#7a1f1f]
-                to-[#2d0000]">
+      <div className="min-h-screen flex flex-col items-center justify-center px-4 py-8 md:py-16 bg-[#550000]">
           <div className="absolute -top-32 -left-32 w-96 h-96 bg-black-400/10 blur-3xl rounded-full" />
 
           <div className="absolute -bottom-0 -right-0 w-96 h-96 bg-red-300/10 blur-3xl rounded-full" />
