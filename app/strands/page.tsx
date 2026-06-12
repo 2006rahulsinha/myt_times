@@ -65,7 +65,7 @@ export default function StrandsPage() {
   const handleStart = (row: number, col: number) => {
     if (isReadonly || gameState !== "playing") return;
 
-    const cell = { row, col, letter: strandsData.grid[row][col] };
+    const cell = { row, col, letter: strandsData.grid[row][col]! };
     setSelectedCells([cell]);
     setIsSelecting(true);
   };
@@ -73,7 +73,7 @@ export default function StrandsPage() {
   const handleMove = (row: number, col: number) => {
     if (!isSelecting || isReadonly || gameState !== "playing") return;
 
-    const cell = { row, col, letter: strandsData.grid[row][col] };
+    const cell = { row, col, letter: strandsData.grid[row][col]! };
 
     const lastSelected = selectedCells[selectedCells.length - 1];
     if (lastSelected.row === row && lastSelected.col === col) return;
@@ -179,7 +179,7 @@ export default function StrandsPage() {
       const row = Math.floor(firstLetterIndex / GRID_COLS);
       const col = firstLetterIndex % GRID_COLS;
 
-      const cell = { row, col, letter: strandsData.grid[row][col] };
+      const cell = { row, col, letter: strandsData.grid[row][col]! };
       setSelectedCells([cell]);
       setTimeout(() => setSelectedCells([]), 1000);
     }
