@@ -1,43 +1,43 @@
 export const connectionsData = {
   "groups": [
     {
-      "name": "SECRET IDENTITIES",
+      "name": "CLASSIC LITERARY REALMS",
       "color": "yellow",
       "words": [
-        "CLARK KENT",
-        "BRUCE WAYNE",
-        "PETER PARKER",
-        "DIANA PRINCE"
+        "MIDDLE EARTH",
+        "NARNIA",
+        "OZ",
+        "NEVERLAND"
       ]
     },
     {
-      "name": "SIDEKICKS",
+      "name": "VIDEO GAME KINGDOMS",
       "color": "green",
       "words": [
-        "ROBIN",
-        "KID FLASH",
-        "BUCKY BARNES",
-        "FALCON"
+        "HYRULE",
+        "SKYRIM",
+        "AZEROTH",
+        "EORZEA"
       ]
     },
     {
-      "name": "ARCH ENEMIES",
+      "name": "FILM AND TV REALMS",
       "color": "blue",
       "words": [
-        "JOKER",
-        "LEX LUTHOR",
-        "MAGNETO",
-        "DOCTOR DOOM"
+        "WESTEROS",
+        "PANDORA",
+        "KRYPTON",
+        "GOTHAM"
       ]
     },
     {
-      "name": "SUPERHERO TEAMS",
+      "name": "MYTHIC LANDS",
       "color": "purple",
       "words": [
-        "JUSTICE LEAGUE",
-        "AVENGERS",
-        "X MEN",
-        "FANTASTIC FOUR"
+        "AVALON",
+        "ASGARD",
+        "VALHALLA",
+        "ELYSIUM"
       ]
     }
   ]

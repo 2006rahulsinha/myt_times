@@ -1,84 +1,85 @@
 export const strandsData = {
-  "themeClue": "Cape clad defenders",
+  "themeClue": "Realm of wonder",
   "grid": [
     [
-      "I",
-      "F",
-      "F",
-      "W",
-      "B",
+      "M",
       "D",
-      "C",
-      "Q"
-    ],
-    [
-      "L",
-      "G",
-      "T",
-      "I",
-      "A",
-      "P",
-      "G",
-      "O"
-    ],
-    [
-      "G",
-      "H",
-      "T",
-      "C",
-      "C",
+      "N",
+      "U",
       "O",
-      "M",
-      "A"
-    ],
-    [
-      "L",
-      "S",
-      "A",
+      "B",
       "P",
-      "M",
-      "S",
-      "W",
       "S"
     ],
     [
+      "A",
+      "G",
+      "H",
       "T",
-      "U",
-      "J",
-      "P",
-      "I",
-      "S",
-      "K",
+      "N",
+      "E",
+      "L",
       "E"
     ],
     [
       "I",
+      "I",
+      "C",
+      "N",
+      "Y",
+      "C",
       "S",
-      "E",
-      "O",
-      "B",
-      "S",
-      "R",
-      "H"
+      "L"
     ],
     [
       "C",
+      "A",
       "E",
+      "U",
+      "T",
+      "M",
       "H",
+      "R"
+    ],
+    [
+      "D",
+      "L",
+      "V",
+      "R",
       "E",
       "R",
-      "J",
-      "H",
-      "V"
+      "A",
+      "E"
+    ],
+    [
+      "R",
+      "O",
+      "A",
+      "D",
+      "E",
+      "T",
+      "N",
+      "R"
+    ],
+    [
+      "A",
+      "G",
+      "N",
+      "S",
+      "O",
+      "R",
+      "C",
+      "E"
     ]
   ],
   "answers": [
-    "HEROISM",
-    "POWERS",
-    "CAPES",
-    "MASK",
-    "FLIGHT",
-    "JUSTICE"
+    "SPELLBOUND",
+    "MAGIC",
+    "DRAGON",
+    "SORCERERS",
+    "ENCHANTER",
+    "MYTHICAL",
+    "ADVENTURE"
   ],
-  "spangram": "HEROISM"
+  "spangram": "SPELLBOUND"
 };
