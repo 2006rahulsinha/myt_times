@@ -1,24 +1,44 @@
 export const connectionsData = {
-  groups: [
+  "groups": [
     {
-      name: "TYPES OF LOVE",
-      color: "yellow",
-      words: ["ROMANCE", "PASSION", "DEVOTION", "AFFECTION"],
+      "name": "FIRST PERSON SHOOTERS",
+      "color": "yellow",
+      "words": [
+        "DOOM",
+        "HALF LIFE",
+        "COUNTER STRIKE",
+        "OVERWATCH"
+      ]
     },
     {
-      name: "GIFT WRAPPING",
-      color: "green",
-      words: ["RIBBON", "BOW", "TISSUE", "PAPER"],
+      "name": "NINTENDO FRANCHISES",
+      "color": "green",
+      "words": [
+        "MARIO",
+        "ZELDA",
+        "METROID",
+        "KIRBY"
+      ]
     },
     {
-      name: "ROMANTIC GESTURES",
-      color: "blue",
-      words: ["FLOWERS", "CHOCOLATES", "LETTER", "CANDLES"],
+      "name": "ARCADE CLASSICS",
+      "color": "blue",
+      "words": [
+        "PAC MAN",
+        "SPACE INVADERS",
+        "DONKEY KONG",
+        "GALAGA"
+      ]
     },
     {
-      name: "SPECIAL OCCASIONS",
-      color: "purple",
-      words: ["ANNIVERSARY", "BIRTHDAY", "VALENTINE", "PROPOSAL"],
-    },
-  ],
+      "name": "ROLE PLAYING GAMES",
+      "color": "purple",
+      "words": [
+        "FINAL FANTASY",
+        "ELDER SCROLLS",
+        "MASS EFFECT",
+        "DRAGON AGE"
+      ]
+    }
+  ]
 };

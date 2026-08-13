@@ -1,26 +1,84 @@
 export const strandsData = {
-  themeClue: "Love in all its forms",
-
-  grid: [
-    ["I","L","O","V","E","Y","O","U"],
-    ["H","E","A","R","T","R","E","V"],
-    [,"D","E","V","O","T","E","R","E"],
-    ["R","O","N","O","I","R","O","F"],
-    ["A","M","P","A","S","E","V","E"],
-    ["N","C","E","S","I","O","N","R"],
-    ["S","O","U","L","M","A","T","E"],
+  "themeClue": "Press start for fun",
+  "grid": [
+    [
+      "M",
+      "L",
+      "A",
+      "I",
+      "E",
+      "T",
+      "Q",
+      "A"
+    ],
+    [
+      "E",
+      "L",
+      "X",
+      "P",
+      "S",
+      "U",
+      "R",
+      "C"
+    ],
+    [
+      "E",
+      "V",
+      "E",
+      "D",
+      "J",
+      "D",
+      "D",
+      "A"
+    ],
+    [
+      "L",
+      "S",
+      "Y",
+      "O",
+      "A",
+      "C",
+      "R",
+      "E"
+    ],
+    [
+      "G",
+      "O",
+      "S",
+      "D",
+      "N",
+      "O",
+      "E",
+      "I"
+    ],
+    [
+      "H",
+      "S",
+      "B",
+      "V",
+      "T",
+      "L",
+      "L",
+      "C"
+    ],
+    [
+      "C",
+      "D",
+      "B",
+      "R",
+      "O",
+      "W",
+      "V",
+      "G"
+    ]
   ],
-
-  answers: [
-    "HEART",
-    "REVERE",
-    "DEVOTION",
-    "ROMANCE",
-    "FOREVER",
-    "PASSION",
-    "SOULMATE",
-    "ILOVEYOU"
+  "answers": [
+    "CONTROLLER",
+    "PIXEL",
+    "ARCADE",
+    "LEVEL",
+    "BOSS",
+    "QUEST"
   ],
-
-  spangram: "ILOVEYOU",
+  "spangram": "CONTROLLER"
 };
