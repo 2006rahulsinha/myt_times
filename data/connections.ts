@@ -1,43 +1,43 @@
 export const connectionsData = {
   "groups": [
     {
-      "name": "FIRST PERSON SHOOTERS",
+      "name": "SECRET IDENTITIES",
       "color": "yellow",
       "words": [
-        "DOOM",
-        "HALF LIFE",
-        "COUNTER STRIKE",
-        "OVERWATCH"
+        "CLARK KENT",
+        "BRUCE WAYNE",
+        "PETER PARKER",
+        "DIANA PRINCE"
       ]
     },
     {
-      "name": "NINTENDO FRANCHISES",
+      "name": "SIDEKICKS",
       "color": "green",
       "words": [
-        "MARIO",
-        "ZELDA",
-        "METROID",
-        "KIRBY"
+        "ROBIN",
+        "KID FLASH",
+        "BUCKY BARNES",
+        "FALCON"
       ]
     },
     {
-      "name": "ARCADE CLASSICS",
+      "name": "ARCH ENEMIES",
       "color": "blue",
       "words": [
-        "PAC MAN",
-        "SPACE INVADERS",
-        "DONKEY KONG",
-        "GALAGA"
+        "JOKER",
+        "LEX LUTHOR",
+        "MAGNETO",
+        "DOCTOR DOOM"
       ]
     },
     {
-      "name": "ROLE PLAYING GAMES",
+      "name": "SUPERHERO TEAMS",
       "color": "purple",
       "words": [
-        "FINAL FANTASY",
-        "ELDER SCROLLS",
-        "MASS EFFECT",
-        "DRAGON AGE"
+        "JUSTICE LEAGUE",
+        "AVENGERS",
+        "X MEN",
+        "FANTASTIC FOUR"
       ]
     }
   ]

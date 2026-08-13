@@ -1,84 +1,84 @@
 export const strandsData = {
-  "themeClue": "Press start for fun",
+  "themeClue": "Cape clad defenders",
   "grid": [
     [
-      "M",
-      "L",
-      "A",
       "I",
-      "E",
-      "T",
-      "Q",
-      "A"
-    ],
-    [
-      "E",
-      "L",
-      "X",
-      "P",
-      "S",
-      "U",
-      "R",
-      "C"
-    ],
-    [
-      "E",
-      "V",
-      "E",
+      "F",
+      "F",
+      "W",
+      "B",
       "D",
-      "J",
-      "D",
-      "D",
-      "A"
-    ],
-    [
-      "L",
-      "S",
-      "Y",
-      "O",
-      "A",
       "C",
-      "R",
-      "E"
+      "Q"
+    ],
+    [
+      "L",
+      "G",
+      "T",
+      "I",
+      "A",
+      "P",
+      "G",
+      "O"
     ],
     [
       "G",
+      "H",
+      "T",
+      "C",
+      "C",
       "O",
-      "S",
-      "D",
-      "N",
-      "O",
-      "E",
-      "I"
+      "M",
+      "A"
     ],
     [
-      "H",
+      "L",
       "S",
-      "B",
-      "V",
+      "A",
+      "P",
+      "M",
+      "S",
+      "W",
+      "S"
+    ],
+    [
       "T",
-      "L",
-      "L",
-      "C"
+      "U",
+      "J",
+      "P",
+      "I",
+      "S",
+      "K",
+      "E"
+    ],
+    [
+      "I",
+      "S",
+      "E",
+      "O",
+      "B",
+      "S",
+      "R",
+      "H"
     ],
     [
       "C",
-      "D",
-      "B",
+      "E",
+      "H",
+      "E",
       "R",
-      "O",
-      "W",
-      "V",
-      "G"
+      "J",
+      "H",
+      "V"
     ]
   ],
   "answers": [
-    "CONTROLLER",
-    "PIXEL",
-    "ARCADE",
-    "LEVEL",
-    "BOSS",
-    "QUEST"
+    "HEROISM",
+    "POWERS",
+    "CAPES",
+    "MASK",
+    "FLIGHT",
+    "JUSTICE"
   ],
-  "spangram": "CONTROLLER"
+  "spangram": "HEROISM"
 };
