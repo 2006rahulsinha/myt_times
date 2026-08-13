@@ -298,140 +298,177 @@ async function generateCrossword(theme: string): Promise<CrosswordData> {
 }
 
 // ---------------------------------------------------------------------------
-// Strands — LLM proposes theme/words, custom self-avoiding-walk placement
+// Strands — words must fully tile the grid with zero overlap and zero unused
+// cells. Rather than randomly placing words and hoping they happen to cover
+// everything, we build one random Hamiltonian path that visits every cell of
+// the grid exactly once, then cut it into contiguous chunks (one per word).
+// Every chunk is adjacent-cell-valid and cell-disjoint by construction, and
+// the chunks always sum to the full grid — so coverage is guaranteed rather
+// than hoped for. Word *lengths* are therefore fixed locally first (so they
+// sum to exactly 56), and the LLM is asked to fill in words of those exact
+// lengths.
 // ---------------------------------------------------------------------------
 
 const STRANDS_ROWS = 7;
 const STRANDS_COLS = 8;
-const STRANDS_MAX_STEPS_PER_WORD = 15000;
+const STRANDS_CELL_COUNT = STRANDS_ROWS * STRANDS_COLS;
+const STRANDS_HAMPATH_MAX_STEPS = 20000;
+const STRANDS_HAMPATH_ATTEMPTS = 8;
+const STRANDS_WORD_MIN_LEN = 4;
+const STRANDS_WORD_MAX_LEN = 9;
 
-const StrandsWordsSchema = z.object({
-  themeClue: z.string().min(3).max(60),
-  spangram: z.string().regex(/^[A-Za-z]{6,10}$/),
-  words: z.array(z.string().regex(/^[A-Za-z]{4,7}$/)).min(4).max(6),
-});
+type Cell = { row: number; col: number };
 
-function neighborsOf(row: number, col: number): { row: number; col: number }[] {
-  const out: { row: number; col: number }[] = [];
-  for (let dr = -1; dr <= 1; dr++) {
-    for (let dc = -1; dc <= 1; dc++) {
-      if (dr === 0 && dc === 0) continue;
-      const nr = row + dr;
-      const nc = col + dc;
-      if (nr >= 0 && nr < STRANDS_ROWS && nc >= 0 && nc < STRANDS_COLS) {
+function buildHamiltonianPath(): Cell[] {
+  function unvisitedNeighbors(visited: Set<string>, row: number, col: number): Cell[] {
+    const out: Cell[] = [];
+    for (let dr = -1; dr <= 1; dr++) {
+      for (let dc = -1; dc <= 1; dc++) {
+        if (dr === 0 && dc === 0) continue;
+        const nr = row + dr;
+        const nc = col + dc;
+        if (nr < 0 || nr >= STRANDS_ROWS || nc < 0 || nc >= STRANDS_COLS) continue;
+        if (visited.has(`${nr},${nc}`)) continue;
         out.push({ row: nr, col: nc });
       }
     }
+    return out;
   }
-  return shuffle(out);
-}
 
-function tryPlaceStrandsWord(
-  grid: (string | null)[][],
-  word: string
-): { row: number; col: number }[] | null {
-  const startCells = shuffle(
-    Array.from({ length: STRANDS_ROWS * STRANDS_COLS }, (_, i) => ({
-      row: Math.floor(i / STRANDS_COLS),
-      col: i % STRANDS_COLS,
-    }))
-  );
-
-  let steps = 0;
-
-  for (const start of startCells) {
-    const existing = grid[start.row][start.col];
-    if (existing !== null && existing !== word[0]) continue;
-
-    const path: { row: number; col: number }[] = [];
+  function attempt(): Cell[] | null {
     const visited = new Set<string>();
+    const path: Cell[] = [];
+    let steps = 0;
 
-    const backtrack = (index: number, row: number, col: number): boolean => {
+    function backtrack(row: number, col: number): boolean {
       steps++;
-      if (steps > STRANDS_MAX_STEPS_PER_WORD) return false;
+      if (steps > STRANDS_HAMPATH_MAX_STEPS) return false;
 
-      path.push({ row, col });
       visited.add(`${row},${col}`);
+      path.push({ row, col });
+      if (path.length === STRANDS_CELL_COUNT) return true;
 
-      if (index === word.length - 1) return true;
+      // Warnsdorff's rule: try the neighbor with the fewest onward options
+      // first — this alone solves grid Hamiltonian-path problems almost
+      // every time without needing real backtracking.
+      const candidates = shuffle(unvisitedNeighbors(visited, row, col)).sort(
+        (a, b) =>
+          unvisitedNeighbors(visited, a.row, a.col).length -
+          unvisitedNeighbors(visited, b.row, b.col).length
+      );
 
-      for (const next of neighborsOf(row, col)) {
-        const key = `${next.row},${next.col}`;
-        if (visited.has(key)) continue;
-        const needed = word[index + 1];
-        const cellVal = grid[next.row][next.col];
-        if (cellVal !== null && cellVal !== needed) continue;
-        if (backtrack(index + 1, next.row, next.col)) return true;
+      for (const next of candidates) {
+        if (backtrack(next.row, next.col)) return true;
       }
 
       path.pop();
       visited.delete(`${row},${col}`);
       return false;
-    };
+    }
 
-    if (backtrack(0, start.row, start.col)) return path;
-    if (steps > STRANDS_MAX_STEPS_PER_WORD) return null;
+    const startRow = Math.floor(Math.random() * STRANDS_ROWS);
+    const startCol = Math.floor(Math.random() * STRANDS_COLS);
+    return backtrack(startRow, startCol) ? path : null;
   }
 
-  return null;
+  for (let i = 0; i < STRANDS_HAMPATH_ATTEMPTS; i++) {
+    const result = attempt();
+    if (result) return result;
+  }
+
+  // Guaranteed-correct fallback: a plain boustrophedon (snake) traversal is
+  // always a valid Hamiltonian path over a rectangular grid.
+  const fallback: Cell[] = [];
+  for (let r = 0; r < STRANDS_ROWS; r++) {
+    if (r % 2 === 0) {
+      for (let c = 0; c < STRANDS_COLS; c++) fallback.push({ row: r, col: c });
+    } else {
+      for (let c = STRANDS_COLS - 1; c >= 0; c--) fallback.push({ row: r, col: c });
+    }
+  }
+  return fallback;
 }
 
-function attemptStrandsLayout(
-  spangram: string,
-  words: string[]
-): { grid: string[][]; answers: string[] } | null {
-  const grid: (string | null)[][] = Array.from({ length: STRANDS_ROWS }, () =>
-    Array<string | null>(STRANDS_COLS).fill(null)
-  );
+function pickStrandsWordLengths(): { spangramLength: number; wordLengths: number[] } {
+  const spangramLength = 8 + Math.floor(Math.random() * 5); // 8-12
+  const remaining = STRANDS_CELL_COUNT - spangramLength;
 
-  const placementOrder = [spangram, ...shuffle(words)];
+  const minCount = Math.max(4, Math.ceil(remaining / STRANDS_WORD_MAX_LEN));
+  const maxCount = Math.min(6, Math.floor(remaining / STRANDS_WORD_MIN_LEN));
+  const wordCount = minCount + Math.floor(Math.random() * (maxCount - minCount + 1));
 
-  for (const word of placementOrder) {
-    const path = tryPlaceStrandsWord(grid, word);
-    if (!path) return null;
-    path.forEach((cell, i) => {
-      grid[cell.row][cell.col] = word[i];
-    });
+  const lengths = Array(wordCount).fill(STRANDS_WORD_MIN_LEN);
+  let leftover = remaining - STRANDS_WORD_MIN_LEN * wordCount;
+  while (leftover > 0) {
+    const idx = Math.floor(Math.random() * wordCount);
+    if (lengths[idx] < STRANDS_WORD_MAX_LEN) {
+      lengths[idx]++;
+      leftover--;
+    }
   }
 
-  const filledGrid: string[][] = grid.map((row) =>
-    row.map((cell) => cell ?? String.fromCharCode(65 + Math.floor(Math.random() * 26)))
-  );
+  return { spangramLength, wordLengths: shuffle(lengths) };
+}
 
-  return { grid: filledGrid, answers: [spangram, ...words] };
+function buildStrandsSchema(spangramLength: number, wordLengths: number[]) {
+  return z
+    .object({
+      themeClue: z.string().min(3).max(60),
+      spangram: z.string().regex(/^[A-Za-z]+$/).length(spangramLength),
+      words: z.array(z.string().regex(/^[A-Za-z]+$/)).length(wordLengths.length),
+    })
+    .refine((data) => data.words.every((w, i) => w.length === wordLengths[i]), {
+      message: "Word lengths must match the required lengths, in order",
+    });
 }
 
 async function generateStrands(theme: string): Promise<StrandsData> {
   for (let round = 1; round <= 3; round++) {
-    const { themeClue, spangram, words } = await askGroqForJSON(
-      `Give me content for a word-search puzzle called Strands, played on a ${STRANDS_ROWS}x${STRANDS_COLS} ` +
-        `letter grid, all related to the theme "${theme}". Give me: a short theme clue phrase, one "spangram" ` +
-        `word (6-10 letters) that captures the theme, and 4-6 supporting words (4-7 letters each) that all relate ` +
-        `to the same theme. All words letters-only, no proper nouns, no spaces or hyphens. ` +
-        `Respond with ONLY JSON, no markdown, no commentary: ` +
-        `{"themeClue":"...","spangram":"...","words":["...", ...]}`,
-      StrandsWordsSchema
-    );
+    const { spangramLength, wordLengths } = pickStrandsWordLengths();
+    const schema = buildStrandsSchema(spangramLength, wordLengths);
 
-    const upperSpangram = spangram.toUpperCase();
-    const upperWords = words.map((w) => w.toUpperCase());
+    try {
+      const { themeClue, spangram, words } = await askGroqForJSON(
+        `Give me content for a word-search puzzle called Strands, related to the theme "${theme}". ` +
+          `Give me a short theme clue phrase, one "spangram" word/phrase (letters only, no spaces) that is ` +
+          `EXACTLY ${spangramLength} letters long and captures the theme, and exactly ${wordLengths.length} ` +
+          `more theme-related words with these EXACT letter counts, in this exact order: ` +
+          `[${wordLengths.join(", ")}]. All words letters-only, no proper nouns, no spaces or hyphens, and the ` +
+          `letter counts must match precisely. Respond with ONLY JSON, no markdown, no commentary: ` +
+          `{"themeClue":"...","spangram":"...","words":["...", ...]}`,
+        schema,
+        5
+      );
 
-    for (let attempt = 0; attempt < 25; attempt++) {
-      const result = attemptStrandsLayout(upperSpangram, upperWords);
-      if (result) {
-        return {
-          themeClue,
-          grid: result.grid,
-          answers: result.answers,
-          spangram: upperSpangram,
-        };
+      const upperSpangram = spangram.toUpperCase();
+      const upperWords = words.map((w) => w.toUpperCase());
+      const segments = [upperSpangram, ...upperWords];
+      const path = buildHamiltonianPath();
+
+      const grid: string[][] = Array.from({ length: STRANDS_ROWS }, () =>
+        Array<string>(STRANDS_COLS).fill("")
+      );
+
+      let cursor = 0;
+      for (const word of segments) {
+        for (const letter of word) {
+          const cell = path[cursor];
+          grid[cell.row][cell.col] = letter;
+          cursor++;
+        }
       }
-    }
 
-    console.warn(`Strands round ${round} failed to place all words, retrying with new words...`);
+      if (grid.some((row) => row.some((cell) => cell === ""))) {
+        throw new Error("Hamiltonian path did not fully cover the grid");
+      }
+
+      return { themeClue, grid, answers: segments, spangram: upperSpangram };
+    } catch (err) {
+      console.warn(`Strands round ${round} failed:`, err);
+    }
   }
 
-  throw new Error("Could not place Strands words into the grid after multiple attempts");
+  throw new Error("Could not generate a fully-covering Strands layout after multiple attempts");
 }
 
 // ---------------------------------------------------------------------------
