@@ -1,43 +1,43 @@
 export const connectionsData = {
   "groups": [
     {
-      "name": "CLASSIC LITERARY REALMS",
+      "name": "TRAIL TYPES",
       "color": "yellow",
       "words": [
-        "MIDDLE EARTH",
-        "NARNIA",
-        "OZ",
-        "NEVERLAND"
+        "APPALACHIAN",
+        "INCA",
+        "CAMINO",
+        "PACIFIC"
       ]
     },
     {
-      "name": "VIDEO GAME KINGDOMS",
+      "name": "AIR TRAVEL MODES",
       "color": "green",
       "words": [
-        "HYRULE",
-        "SKYRIM",
-        "AZEROTH",
-        "EORZEA"
+        "JET",
+        "GLIDER",
+        "HOT AIR BALLOON",
+        "SEAPLANE"
       ]
     },
     {
-      "name": "FILM AND TV REALMS",
+      "name": "FAMOUS EXPLORERS",
       "color": "blue",
       "words": [
-        "WESTEROS",
-        "PANDORA",
-        "KRYPTON",
-        "GOTHAM"
+        "MARCO POLO",
+        "AMELIA EARHART",
+        "ERNEST SHACKLETON",
+        "ZHENG HE"
       ]
     },
     {
-      "name": "MYTHIC LANDS",
+      "name": "ADVENTURE SPORTS",
       "color": "purple",
       "words": [
-        "AVALON",
-        "ASGARD",
-        "VALHALLA",
-        "ELYSIUM"
+        "WHITEWATER RAFTING",
+        "BUNGEE JUMPING",
+        "PARAGLIDING",
+        "CAVE DIVING"
       ]
     }
   ]

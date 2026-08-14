@@ -1,85 +1,85 @@
 export const strandsData = {
-  "themeClue": "Realm of wonder",
+  "themeClue": "Wander the world",
   "grid": [
     [
-      "M",
-      "D",
-      "N",
-      "U",
-      "O",
-      "B",
-      "P",
-      "S"
-    ],
-    [
+      "Y",
       "A",
       "G",
-      "H",
-      "T",
-      "N",
-      "E",
-      "L",
-      "E"
-    ],
-    [
-      "I",
-      "I",
-      "C",
-      "N",
-      "Y",
-      "C",
+      "D",
       "S",
-      "L"
+      "S",
+      "P",
+      "I"
     ],
     [
-      "C",
-      "A",
+      "O",
       "E",
-      "U",
-      "T",
-      "M",
-      "H",
+      "N",
+      "C",
+      "P",
+      "A",
+      "S",
       "R"
     ],
     [
-      "D",
-      "L",
       "V",
       "R",
-      "E",
-      "R",
       "A",
-      "E"
+      "A",
+      "T",
+      "P",
+      "S",
+      "T"
     ],
     [
+      "G",
+      "A",
+      "L",
+      "P",
+      "O",
+      "R",
+      "D",
+      "A"
+    ],
+    [
+      "K",
+      "N",
+      "D",
+      "L",
+      "E",
       "R",
       "O",
-      "A",
-      "D",
-      "E",
-      "T",
-      "N",
       "R"
     ],
     [
-      "A",
-      "G",
+      "K",
+      "I",
+      "V",
       "N",
-      "S",
-      "O",
+      "E",
+      "V",
+      "A",
+      "T"
+    ],
+    [
+      "E",
       "R",
-      "C",
+      "T",
+      "E",
+      "T",
+      "U",
+      "R",
       "E"
     ]
   ],
   "answers": [
-    "SPELLBOUND",
-    "MAGIC",
-    "DRAGON",
-    "SORCERERS",
-    "ENCHANTER",
-    "MYTHICAL",
-    "ADVENTURE"
+    "TREKKING",
+    "VOYAGER",
+    "ADVENTURE",
+    "TRAVEL",
+    "LANDSCAPE",
+    "ROADTRIPS",
+    "PASSPORT"
   ],
-  "spangram": "SPELLBOUND"
+  "spangram": "TREKKING"
 };
