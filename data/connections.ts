@@ -1,43 +1,43 @@
 export const connectionsData = {
   "groups": [
     {
-      "name": "TRAIL TYPES",
+      "name": "TOOLS",
       "color": "yellow",
       "words": [
-        "APPALACHIAN",
-        "INCA",
-        "CAMINO",
-        "PACIFIC"
+        "TROWEL",
+        "PRUNER",
+        "HOE",
+        "RAKE"
       ]
     },
     {
-      "name": "AIR TRAVEL MODES",
+      "name": "PLANTS",
       "color": "green",
       "words": [
-        "JET",
-        "GLIDER",
-        "HOT AIR BALLOON",
-        "SEAPLANE"
+        "LAVENDER",
+        "TOMATO",
+        "ROSE",
+        "ZUCCHINI"
       ]
     },
     {
-      "name": "FAMOUS EXPLORERS",
+      "name": "SOIL AMENDMENTS",
       "color": "blue",
       "words": [
-        "MARCO POLO",
-        "AMELIA EARHART",
-        "ERNEST SHACKLETON",
-        "ZHENG HE"
+        "COMPOST",
+        "PEAT",
+        "MANURE",
+        "PERLITE"
       ]
     },
     {
-      "name": "ADVENTURE SPORTS",
+      "name": "GARDEN PESTS",
       "color": "purple",
       "words": [
-        "WHITEWATER RAFTING",
-        "BUNGEE JUMPING",
-        "PARAGLIDING",
-        "CAVE DIVING"
+        "APHID",
+        "SNAIL",
+        "WEEVIL",
+        "CATERPILLAR"
       ]
     }
   ]

@@ -1,85 +1,85 @@
 export const strandsData = {
-  "themeClue": "Wander the world",
+  "themeClue": "Plants, soil, and sunshine",
   "grid": [
     [
-      "Y",
-      "A",
+      "E",
       "G",
-      "D",
-      "S",
-      "S",
-      "P",
-      "I"
-    ],
-    [
-      "O",
       "E",
-      "N",
-      "C",
-      "P",
-      "A",
       "S",
-      "R"
+      "E",
+      "E",
+      "D",
+      "B"
     ],
     [
       "V",
-      "R",
-      "A",
-      "A",
       "T",
-      "P",
+      "T",
       "S",
-      "T"
-    ],
-    [
-      "G",
-      "A",
+      "O",
       "L",
-      "P",
-      "O",
-      "R",
-      "D",
-      "A"
+      "F",
+      "E"
     ],
     [
-      "K",
-      "N",
-      "D",
-      "L",
-      "E",
-      "R",
-      "O",
-      "R"
-    ],
-    [
-      "K",
-      "I",
-      "V",
-      "N",
-      "E",
-      "V",
+      "S",
       "A",
-      "T"
+      "S",
+      "W",
+      "R",
+      "B",
+      "E",
+      "D"
     ],
     [
-      "E",
       "R",
-      "T",
+      "B",
+      "O",
       "E",
-      "T",
+      "N",
       "U",
       "R",
+      "D"
+    ],
+    [
+      "E",
+      "G",
+      "L",
+      "P",
+      "E",
+      "T",
+      "E",
+      "P"
+    ],
+    [
+      "A",
+      "N",
+      "E",
+      "M",
+      "H",
+      "D",
+      "S",
       "E"
+    ],
+    [
+      "R",
+      "D",
+      "E",
+      "C",
+      "O",
+      "A",
+      "R",
+      "V"
     ]
   ],
   "answers": [
-    "TREKKING",
-    "VOYAGER",
-    "ADVENTURE",
-    "TRAVEL",
-    "LANDSCAPE",
-    "ROADTRIPS",
-    "PASSPORT"
+    "GARDENERS",
+    "VEGETABLE",
+    "COMPOSTS",
+    "SEEDBED",
+    "FLOWERBED",
+    "PRUNE",
+    "HARVESTED"
   ],
-  "spangram": "TREKKING"
+  "spangram": "GARDENERS"
 };
