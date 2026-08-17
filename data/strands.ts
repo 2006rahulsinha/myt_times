@@ -1,85 +1,85 @@
 export const strandsData = {
-  "themeClue": "Plants, soil, and sunshine",
+  "themeClue": "Interwoven nature",
   "grid": [
     [
-      "E",
-      "G",
-      "E",
-      "S",
-      "E",
-      "E",
-      "D",
-      "B"
-    ],
-    [
-      "V",
-      "T",
-      "T",
-      "S",
-      "O",
-      "L",
-      "F",
-      "E"
-    ],
-    [
-      "S",
-      "A",
-      "S",
-      "W",
-      "R",
-      "B",
-      "E",
-      "D"
-    ],
-    [
-      "R",
-      "B",
-      "O",
-      "E",
-      "N",
       "U",
+      "F",
+      "F",
+      "G",
+      "T",
+      "M",
+      "E",
+      "A"
+    ],
+    [
+      "B",
+      "A",
+      "I",
+      "H",
       "R",
+      "G",
+      "O",
       "D"
     ],
     [
-      "E",
-      "G",
+      "K",
       "L",
-      "P",
-      "E",
-      "T",
-      "E",
-      "P"
+      "L",
+      "A",
+      "D",
+      "N",
+      "W",
+      "R"
     ],
     [
-      "A",
       "N",
+      "O",
+      "N",
+      "S",
+      "A",
+      "L",
+      "I",
+      "S"
+    ],
+    [
+      "D",
+      "A",
+      "S",
+      "U",
+      "S",
+      "V",
+      "N",
+      "T"
+    ],
+    [
+      "L",
+      "L",
+      "B",
+      "R",
+      "E",
+      "I",
+      "A",
+      "N"
+    ],
+    [
+      "I",
+      "W",
+      "I",
+      "F",
       "E",
       "M",
-      "H",
-      "D",
-      "S",
-      "E"
-    ],
-    [
-      "R",
-      "D",
-      "E",
-      "C",
       "O",
-      "A",
-      "R",
-      "V"
+      "U"
     ]
   ],
   "answers": [
-    "GARDENERS",
-    "VEGETABLE",
-    "COMPOSTS",
-    "SEEDBED",
-    "FLOWERBED",
-    "PRUNE",
-    "HARVESTED"
+    "WILDLIFE",
+    "MOUNTAINS",
+    "RIVERBANK",
+    "BUFFALO",
+    "SUNLIGHT",
+    "MEADOW",
+    "GRASSLAND"
   ],
-  "spangram": "GARDENERS"
+  "spangram": "WILDLIFE"
 };

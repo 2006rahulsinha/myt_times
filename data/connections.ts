@@ -1,43 +1,43 @@
 export const connectionsData = {
   "groups": [
     {
-      "name": "TOOLS",
+      "name": "BIG CATS",
       "color": "yellow",
       "words": [
-        "TROWEL",
-        "PRUNER",
-        "HOE",
-        "RAKE"
+        "LION",
+        "TIGER",
+        "LEOPARD",
+        "JAGUAR"
       ]
     },
     {
-      "name": "PLANTS",
+      "name": "BIRDS OF PREY",
       "color": "green",
       "words": [
-        "LAVENDER",
-        "TOMATO",
-        "ROSE",
-        "ZUCCHINI"
+        "EAGLE",
+        "HAWK",
+        "FALCON",
+        "OWL"
       ]
     },
     {
-      "name": "SOIL AMENDMENTS",
+      "name": "MARINE MAMMALS",
       "color": "blue",
       "words": [
-        "COMPOST",
-        "PEAT",
-        "MANURE",
-        "PERLITE"
+        "DOLPHIN",
+        "SEAL",
+        "MANATEE",
+        "WALRUS"
       ]
     },
     {
-      "name": "GARDEN PESTS",
+      "name": "FOREST TREES",
       "color": "purple",
       "words": [
-        "APHID",
-        "SNAIL",
-        "WEEVIL",
-        "CATERPILLAR"
+        "OAK",
+        "PINE",
+        "BIRCH",
+        "MAPLE"
       ]
     }
   ]
