@@ -1,43 +1,43 @@
 export const connectionsData = {
   "groups": [
     {
-      "name": "BIG CATS",
+      "name": "FILM GENRES",
       "color": "yellow",
       "words": [
-        "LION",
-        "TIGER",
-        "LEOPARD",
-        "JAGUAR"
+        "DRAMA",
+        "COMEDY",
+        "THRILLER",
+        "WESTERN"
       ]
     },
     {
-      "name": "BIRDS OF PREY",
+      "name": "ICONIC DIRECTORS",
       "color": "green",
       "words": [
-        "EAGLE",
-        "HAWK",
-        "FALCON",
-        "OWL"
+        "SPIELBERG",
+        "KUBRICK",
+        "TARANTINO",
+        "HITCHCOCK"
       ]
     },
     {
-      "name": "MARINE MAMMALS",
+      "name": "OSCAR CATEGORIES",
       "color": "blue",
       "words": [
-        "DOLPHIN",
-        "SEAL",
-        "MANATEE",
-        "WALRUS"
+        "BEST PICTURE",
+        "BEST DIRECTOR",
+        "BEST ACTOR",
+        "BEST CINEMATOGRAPHY"
       ]
     },
     {
-      "name": "FOREST TREES",
+      "name": "CINEMA TERMS",
       "color": "purple",
       "words": [
-        "OAK",
-        "PINE",
-        "BIRCH",
-        "MAPLE"
+        "BOX OFFICE",
+        "RED CARPET",
+        "FILM REEL",
+        "OPENING NIGHT"
       ]
     }
   ]

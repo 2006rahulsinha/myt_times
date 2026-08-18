@@ -1,85 +1,84 @@
 export const strandsData = {
-  "themeClue": "Interwoven nature",
+  "themeClue": "Lights, camera, action!",
   "grid": [
     [
-      "U",
-      "F",
-      "F",
-      "G",
-      "T",
-      "M",
       "E",
-      "A"
-    ],
-    [
-      "B",
-      "A",
+      "E",
+      "C",
+      "S",
+      "M",
+      "M",
       "I",
-      "H",
-      "R",
-      "G",
-      "O",
-      "D"
+      "F"
     ],
     [
-      "K",
-      "L",
-      "L",
-      "A",
-      "D",
+      "G",
       "N",
-      "W",
+      "R",
+      "C",
+      "I",
+      "A",
+      "L",
       "R"
     ],
     [
       "N",
-      "O",
-      "N",
-      "S",
-      "A",
-      "L",
       "I",
-      "S"
+      "L",
+      "U",
+      "T",
+      "A",
+      "K",
+      "O"
+    ],
+    [
+      "I",
+      "O",
+      "L",
+      "C",
+      "E",
+      "M",
+      "E",
+      "T"
     ],
     [
       "D",
       "A",
-      "S",
-      "U",
-      "S",
-      "V",
+      "E",
+      "L",
       "N",
-      "T"
-    ],
-    [
-      "L",
-      "L",
-      "B",
+      "I",
       "R",
-      "E",
-      "I",
-      "A",
-      "N"
+      "C"
     ],
     [
-      "I",
-      "W",
-      "I",
-      "F",
-      "E",
-      "M",
+      "R",
+      "R",
       "O",
-      "U"
+      "C",
+      "O",
+      "C",
+      "E",
+      "R"
+    ],
+    [
+      "T",
+      "P",
+      "J",
+      "E",
+      "T",
+      "R",
+      "D",
+      "I"
     ]
   ],
   "answers": [
-    "WILDLIFE",
-    "MOUNTAINS",
-    "RIVERBANK",
-    "BUFFALO",
-    "SUNLIGHT",
-    "MEADOW",
-    "GRASSLAND"
+    "CELLULOIDART",
+    "PROJECTOR",
+    "DIRECTOR",
+    "FILMMAKER",
+    "CINEMATIC",
+    "SCREENING"
   ],
-  "spangram": "WILDLIFE"
+  "spangram": "CELLULOIDART"
 };
