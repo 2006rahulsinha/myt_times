@@ -1,43 +1,43 @@
 export const connectionsData = {
   "groups": [
     {
-      "name": "FILM GENRES",
+      "name": "PAINTING MEDIUMS",
       "color": "yellow",
       "words": [
-        "DRAMA",
-        "COMEDY",
-        "THRILLER",
-        "WESTERN"
+        "OIL",
+        "ACRYLIC",
+        "WATERCOLOR",
+        "GOUACHE"
       ]
     },
     {
-      "name": "ICONIC DIRECTORS",
+      "name": "FAMOUS ARTISTS",
       "color": "green",
       "words": [
-        "SPIELBERG",
-        "KUBRICK",
-        "TARANTINO",
-        "HITCHCOCK"
+        "PICASSO",
+        "MONET",
+        "VAN GOGH",
+        "DA VINCI"
       ]
     },
     {
-      "name": "OSCAR CATEGORIES",
+      "name": "ART MOVEMENTS",
       "color": "blue",
       "words": [
-        "BEST PICTURE",
-        "BEST DIRECTOR",
-        "BEST ACTOR",
-        "BEST CINEMATOGRAPHY"
+        "IMPRESSIONISM",
+        "CUBISM",
+        "SURREALISM",
+        "BAROQUE"
       ]
     },
     {
-      "name": "CINEMA TERMS",
+      "name": "TOOLS AND SUPPLIES",
       "color": "purple",
       "words": [
-        "BOX OFFICE",
-        "RED CARPET",
-        "FILM REEL",
-        "OPENING NIGHT"
+        "PALETTE",
+        "EASEL",
+        "BRUSH",
+        "CANVAS"
       ]
     }
   ]

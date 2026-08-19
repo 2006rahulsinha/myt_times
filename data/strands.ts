@@ -1,84 +1,85 @@
 export const strandsData = {
-  "themeClue": "Lights, camera, action!",
+  "themeClue": "Brushes and colors",
   "grid": [
     [
-      "E",
-      "E",
-      "C",
       "S",
-      "M",
-      "M",
-      "I",
-      "F"
-    ],
-    [
-      "G",
-      "N",
-      "R",
       "C",
-      "I",
-      "A",
-      "L",
-      "R"
-    ],
-    [
-      "N",
-      "I",
-      "L",
-      "U",
       "T",
-      "A",
-      "K",
-      "O"
-    ],
-    [
+      "R",
+      "T",
       "I",
-      "O",
-      "L",
-      "C",
-      "E",
-      "M",
-      "E",
+      "S",
       "T"
     ],
     [
-      "D",
+      "E",
+      "H",
+      "E",
       "A",
-      "E",
       "L",
-      "N",
-      "I",
-      "R",
-      "C"
-    ],
-    [
-      "R",
-      "R",
-      "O",
-      "C",
-      "O",
-      "C",
-      "E",
+      "L",
+      "Y",
       "R"
     ],
     [
-      "T",
+      "S",
+      "K",
+      "L",
       "P",
-      "J",
+      "E",
+      "I",
+      "L",
+      "L"
+    ],
+    [
+      "T",
+      "C",
+      "E",
+      "L",
+      "A",
+      "F",
+      "I",
+      "A"
+    ],
+    [
+      "A",
+      "R",
+      "R",
+      "A",
+      "E",
+      "L",
+      "T",
+      "N"
+    ],
+    [
+      "T",
+      "S",
+      "Y",
+      "G",
+      "T",
+      "S",
+      "A",
+      "D"
+    ],
+    [
+      "B",
+      "A",
       "E",
       "T",
-      "R",
-      "D",
-      "I"
+      "E",
+      "P",
+      "C",
+      "S"
     ]
   ],
   "answers": [
-    "CELLULOIDART",
-    "PROJECTOR",
-    "DIRECTOR",
-    "FILMMAKER",
-    "CINEMATIC",
-    "SCREENING"
+    "ARTISTRY",
+    "LANDSCAPE",
+    "STILLLIFE",
+    "PALETTE",
+    "GALLERY",
+    "ABSTRACT",
+    "SKETCHES"
   ],
-  "spangram": "CELLULOIDART"
+  "spangram": "ARTISTRY"
 };
