@@ -1,43 +1,43 @@
 export const connectionsData = {
   "groups": [
     {
-      "name": "PAINTING MEDIUMS",
+      "name": "SNOW SPORTS",
       "color": "yellow",
       "words": [
-        "OIL",
-        "ACRYLIC",
-        "WATERCOLOR",
-        "GOUACHE"
+        "SKI",
+        "SNOWBOARDING",
+        "SLEDDING",
+        "ICE SKATING"
       ]
     },
     {
-      "name": "FAMOUS ARTISTS",
+      "name": "WINTER WEATHER",
       "color": "green",
       "words": [
-        "PICASSO",
-        "MONET",
-        "VAN GOGH",
-        "DA VINCI"
+        "BLIZZARD",
+        "SLEET",
+        "SNOWFALL",
+        "FREEZING RAIN"
       ]
     },
     {
-      "name": "ART MOVEMENTS",
+      "name": "HOLIDAY TREATS",
       "color": "blue",
       "words": [
-        "IMPRESSIONISM",
-        "CUBISM",
-        "SURREALISM",
-        "BAROQUE"
+        "GINGERBREAD",
+        "HOT COCOA",
+        "PEPPERMINT",
+        "MULLED WINE"
       ]
     },
     {
-      "name": "TOOLS AND SUPPLIES",
+      "name": "FROSTY FLORA",
       "color": "purple",
       "words": [
-        "PALETTE",
-        "EASEL",
-        "BRUSH",
-        "CANVAS"
+        "PINE",
+        "HOLLY",
+        "SNOWDROP",
+        "WINTER ROSE"
       ]
     }
   ]

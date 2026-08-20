@@ -1,85 +1,85 @@
 export const strandsData = {
-  "themeClue": "Brushes and colors",
+  "themeClue": "Cold and white",
   "grid": [
     [
+      "O",
+      "W",
+      "B",
       "S",
-      "C",
-      "T",
-      "R",
-      "T",
-      "I",
+      "N",
       "S",
-      "T"
+      "N",
+      "O"
     ],
     [
-      "E",
-      "H",
-      "E",
+      "N",
       "A",
-      "L",
-      "L",
-      "Y",
-      "R"
-    ],
-    [
-      "S",
       "K",
-      "L",
-      "P",
-      "E",
-      "I",
-      "L",
-      "L"
+      "O",
+      "N",
+      "R",
+      "D",
+      "W"
     ],
     [
-      "T",
+      "S",
+      "N",
+      "W",
+      "A",
+      "I",
       "C",
       "E",
-      "L",
-      "A",
+      "B"
+    ],
+    [
+      "I",
+      "D",
+      "R",
+      "M",
       "F",
       "I",
-      "A"
+      "R",
+      "E"
     ],
     [
-      "A",
-      "R",
-      "R",
-      "A",
-      "E",
       "L",
+      "Z",
+      "Z",
+      "A",
       "T",
-      "N"
-    ],
-    [
-      "T",
-      "S",
-      "Y",
       "G",
-      "T",
-      "S",
-      "A",
-      "D"
+      "W",
+      "H"
     ],
     [
+      "E",
       "B",
+      "L",
+      "F",
+      "S",
+      "O",
+      "E",
+      "I"
+    ],
+    [
+      "K",
       "A",
-      "E",
+      "W",
+      "O",
+      "N",
       "T",
-      "E",
-      "P",
-      "C",
-      "S"
+      "U",
+      "T"
     ]
   ],
   "answers": [
-    "ARTISTRY",
-    "LANDSCAPE",
-    "STILLLIFE",
-    "PALETTE",
-    "GALLERY",
-    "ABSTRACT",
-    "SKETCHES"
+    "SNOWFLAKE",
+    "BLIZZARD",
+    "SNOWBANK",
+    "SNOWMAN",
+    "SNOWDRIFT",
+    "ICEBERG",
+    "WHITEOUT"
   ],
-  "spangram": "ARTISTRY"
+  "spangram": "SNOWFLAKE"
 };
