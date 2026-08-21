@@ -1,85 +1,84 @@
 export const strandsData = {
-  "themeClue": "Cold and white",
+  "themeClue": "Road trip vibes",
   "grid": [
     [
-      "O",
-      "W",
-      "B",
-      "S",
-      "N",
-      "S",
-      "N",
-      "O"
-    ],
-    [
-      "N",
-      "A",
-      "K",
-      "O",
-      "N",
       "R",
-      "D",
-      "W"
-    ],
-    [
       "S",
-      "N",
-      "W",
-      "A",
-      "I",
-      "C",
-      "E",
-      "B"
-    ],
-    [
-      "I",
-      "D",
       "R",
-      "M",
-      "F",
-      "I",
-      "R",
-      "E"
-    ],
-    [
-      "L",
-      "Z",
-      "Z",
-      "A",
-      "T",
-      "G",
-      "W",
-      "H"
-    ],
-    [
-      "E",
-      "B",
-      "L",
-      "F",
-      "S",
-      "O",
-      "E",
-      "I"
-    ],
-    [
-      "K",
-      "A",
-      "W",
-      "O",
-      "N",
-      "T",
       "U",
+      "M",
+      "S",
+      "O",
       "T"
+    ],
+    [
+      "O",
+      "A",
+      "E",
+      "N",
+      "T",
+      "I",
+      "P",
+      "S"
+    ],
+    [
+      "D",
+      "S",
+      "K",
+      "P",
+      "S",
+      "S",
+      "L",
+      "T"
+    ],
+    [
+      "N",
+      "G",
+      "I",
+      "I",
+      "T",
+      "O",
+      "E",
+      "S"
+    ],
+    [
+      "S",
+      "R",
+      "O",
+      "I",
+      "H",
+      "P",
+      "E",
+      "R"
+    ],
+    [
+      "P",
+      "I",
+      "D",
+      "A",
+      "G",
+      "Y",
+      "E",
+      "D"
+    ],
+    [
+      "S",
+      "R",
+      "T",
+      "H",
+      "W",
+      "A",
+      "S",
+      "I"
     ]
   ],
   "answers": [
-    "SNOWFLAKE",
-    "BLIZZARD",
-    "SNOWBANK",
-    "SNOWMAN",
-    "SNOWDRIFT",
-    "ICEBERG",
-    "WHITEOUT"
+    "HIGHWAYSIDE",
+    "RESTSTOPS",
+    "MILEPOSTS",
+    "TURNPIKES",
+    "ROADSIGNS",
+    "ROADTRIPS"
   ],
-  "spangram": "SNOWFLAKE"
+  "spangram": "HIGHWAYSIDE"
 };
