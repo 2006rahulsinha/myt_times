@@ -1,84 +1,85 @@
 export const strandsData = {
-  "themeClue": "Road trip vibes",
+  "themeClue": "Night under stars",
   "grid": [
     [
-      "R",
-      "S",
-      "R",
-      "U",
-      "M",
-      "S",
-      "O",
-      "T"
-    ],
-    [
-      "O",
-      "A",
-      "E",
-      "N",
-      "T",
-      "I",
-      "P",
-      "S"
-    ],
-    [
-      "D",
-      "S",
+      "C",
       "K",
-      "P",
+      "A",
       "S",
-      "S",
-      "L",
-      "T"
-    ],
-    [
-      "N",
-      "G",
-      "I",
-      "I",
-      "T",
-      "O",
-      "E",
-      "S"
-    ],
-    [
-      "S",
-      "R",
-      "O",
-      "I",
       "H",
-      "P",
+      "D",
       "E",
       "R"
     ],
     [
-      "P",
-      "I",
-      "D",
       "A",
-      "G",
-      "Y",
-      "E",
-      "D"
+      "P",
+      "C",
+      "N",
+      "A",
+      "K",
+      "C",
+      "O"
     ],
     [
-      "S",
-      "R",
-      "T",
+      "E",
+      "B",
+      "K",
+      "U",
+      "C",
+      "L",
+      "P",
+      "G"
+    ],
+    [
       "H",
-      "W",
       "A",
+      "D",
       "S",
+      "I",
+      "M",
+      "I",
+      "N"
+    ],
+    [
+      "L",
+      "I",
+      "A",
+      "C",
+      "M",
+      "C",
+      "A",
       "I"
+    ],
+    [
+      "E",
+      "T",
+      "R",
+      "A",
+      "B",
+      "G",
+      "N",
+      "T"
+    ],
+    [
+      "R",
+      "I",
+      "F",
+      "P",
+      "M",
+      "T",
+      "E",
+      "N"
     ]
   ],
   "answers": [
-    "HIGHWAYSIDE",
-    "RESTSTOPS",
-    "MILEPOSTS",
-    "TURNPIKES",
-    "ROADSIGNS",
-    "ROADTRIPS"
+    "CAMPFIRE",
+    "TRAILHEAD",
+    "BACKPACK",
+    "SUNSHADE",
+    "ROCKCLIMB",
+    "TENTING",
+    "CAMPING"
   ],
-  "spangram": "HIGHWAYSIDE"
+  "spangram": "CAMPFIRE"
 };
