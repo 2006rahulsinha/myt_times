@@ -1,85 +1,85 @@
 export const strandsData = {
-  "themeClue": "Night under stars",
+  "themeClue": "Scenic highways and stops",
   "grid": [
     [
-      "C",
-      "K",
-      "A",
-      "S",
-      "H",
-      "D",
+      "T",
+      "O",
+      "Y",
+      "N",
+      "R",
       "E",
+      "S",
+      "D"
+    ],
+    [
+      "O",
+      "R",
+      "M",
+      "E",
+      "U",
+      "D",
+      "I",
+      "A"
+    ],
+    [
+      "H",
+      "O",
+      "M",
+      "R",
+      "D",
+      "O",
+      "O",
       "R"
     ],
     [
-      "A",
-      "P",
-      "C",
-      "N",
-      "A",
-      "K",
-      "C",
-      "O"
-    ],
-    [
+      "O",
+      "R",
       "E",
-      "B",
-      "K",
-      "U",
-      "C",
-      "L",
-      "P",
-      "G"
+      "A",
+      "O",
+      "J",
+      "D",
+      "A"
     ],
     [
-      "H",
       "A",
       "D",
+      "R",
+      "I",
+      "A",
+      "C",
+      "O",
+      "R"
+    ],
+    [
       "S",
-      "I",
-      "M",
-      "I",
-      "N"
-    ],
-    [
-      "L",
-      "I",
       "A",
-      "C",
-      "M",
-      "C",
-      "A",
-      "I"
-    ],
-    [
-      "E",
       "T",
-      "R",
-      "A",
-      "B",
-      "G",
-      "N",
-      "T"
-    ],
-    [
-      "R",
-      "I",
-      "F",
       "P",
-      "M",
+      "N",
+      "K",
+      "L",
+      "L"
+    ],
+    [
+      "R",
+      "O",
+      "D",
+      "S",
+      "S",
+      "S",
       "T",
-      "E",
-      "N"
+      "O"
     ]
   ],
   "answers": [
-    "CAMPFIRE",
-    "TRAILHEAD",
-    "BACKPACK",
-    "SUNSHADE",
-    "ROCKCLIMB",
-    "TENTING",
-    "CAMPING"
+    "ROADJOURNEY",
+    "MOTORHOME",
+    "ROADS",
+    "ROADTRIPS",
+    "SNACKS",
+    "TOLLROAD",
+    "ROADSIDE"
   ],
-  "spangram": "CAMPFIRE"
+  "spangram": "ROADJOURNEY"
 };

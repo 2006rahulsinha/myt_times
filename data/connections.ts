@@ -1,43 +1,43 @@
 export const connectionsData = {
   "groups": [
     {
-      "name": "SHELTER TYPES",
+      "name": "VEHICLE TYPES",
       "color": "yellow",
       "words": [
-        "TENT",
-        "CABIN",
-        "LEAN-TO",
-        "TREEHOUSE"
+        "CONVERTIBLE",
+        "RV",
+        "MOTORHOME",
+        "PICKUP"
       ]
     },
     {
-      "name": "CAMPING GEAR",
+      "name": "ROADSIDE EATS",
       "color": "green",
       "words": [
-        "SLEEPING BAG",
-        "CAMP STOVE",
-        "LANTERN",
-        "CAMP CHAIR"
+        "DINER",
+        "FOOD TRUCK",
+        "BBQ STAND",
+        "ICE CREAM PARLOR"
       ]
     },
     {
-      "name": "OUTDOOR ACTIVITIES",
+      "name": "SCENIC STOPS",
       "color": "blue",
       "words": [
-        "HIKING",
-        "FISHING",
-        "BIRDWATCHING",
-        "KAYAKING"
+        "MOUNTAIN PASS",
+        "STATE PARK",
+        "WATERFALL",
+        "LOOKOUT"
       ]
     },
     {
-      "name": "NATURE ELEMENTS",
+      "name": "TRAVEL ESSENTIALS",
       "color": "purple",
       "words": [
-        "PINE",
-        "RIVER",
-        "ROCKY TRAIL",
-        "STARRY SKY"
+        "MAP",
+        "SNACKS",
+        "PLAYLIST",
+        "SUNSCREEN"
       ]
     }
   ]
