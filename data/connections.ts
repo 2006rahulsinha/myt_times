@@ -1,43 +1,43 @@
 export const connectionsData = {
   "groups": [
     {
-      "name": "VEHICLE TYPES",
+      "name": "BAKING INGREDIENTS",
       "color": "yellow",
       "words": [
-        "CONVERTIBLE",
-        "RV",
-        "MOTORHOME",
-        "PICKUP"
+        "FLOUR",
+        "SUGAR",
+        "BUTTER",
+        "EGGS"
       ]
     },
     {
-      "name": "ROADSIDE EATS",
+      "name": "HERBS AND SPICES",
       "color": "green",
       "words": [
-        "DINER",
-        "FOOD TRUCK",
-        "BBQ STAND",
-        "ICE CREAM PARLOR"
+        "BASIL",
+        "OREGANO",
+        "THYME",
+        "ROSEMARY"
       ]
     },
     {
-      "name": "SCENIC STOPS",
+      "name": "COOKING TECHNIQUES",
       "color": "blue",
       "words": [
-        "MOUNTAIN PASS",
-        "STATE PARK",
-        "WATERFALL",
-        "LOOKOUT"
+        "SAUTE",
+        "GRILL",
+        "BAKE",
+        "ROAST"
       ]
     },
     {
-      "name": "TRAVEL ESSENTIALS",
+      "name": "KITCHEN TOOLS",
       "color": "purple",
       "words": [
-        "MAP",
-        "SNACKS",
-        "PLAYLIST",
-        "SUNSCREEN"
+        "WHISK",
+        "SPATULA",
+        "LADLE",
+        "TONGS"
       ]
     }
   ]

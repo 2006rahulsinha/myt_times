@@ -1,85 +1,85 @@
 export const strandsData = {
-  "themeClue": "Scenic highways and stops",
+  "themeClue": "Kitchen word hunt",
   "grid": [
     [
+      "S",
+      "A",
+      "O",
+      "A",
+      "E",
+      "I",
+      "L",
+      "U"
+    ],
+    [
       "T",
+      "S",
+      "B",
+      "R",
+      "S",
+      "S",
+      "N",
+      "C"
+    ],
+    [
+      "S",
+      "A",
+      "E",
+      "R",
+      "R",
       "O",
       "Y",
-      "N",
-      "R",
-      "E",
-      "S",
-      "D"
-    ],
-    [
-      "O",
-      "R",
-      "M",
-      "E",
-      "U",
-      "D",
-      "I",
       "A"
     ],
     [
-      "H",
-      "O",
-      "M",
-      "R",
-      "D",
-      "O",
-      "O",
-      "R"
-    ],
-    [
-      "O",
-      "R",
-      "E",
-      "A",
-      "O",
-      "J",
-      "D",
-      "A"
-    ],
-    [
-      "A",
-      "D",
-      "R",
-      "I",
-      "A",
+      "T",
       "C",
-      "O",
+      "F",
+      "A",
+      "E",
+      "N",
+      "N",
       "R"
     ],
     [
-      "S",
-      "A",
       "T",
-      "P",
-      "N",
+      "E",
+      "H",
       "K",
-      "L",
-      "L"
+      "M",
+      "A",
+      "I",
+      "I"
     ],
     [
-      "R",
+      "A",
+      "L",
       "O",
+      "M",
+      "S",
       "D",
+      "R",
+      "N"
+    ],
+    [
+      "O",
+      "C",
+      "I",
       "S",
-      "S",
-      "S",
-      "T",
-      "O"
+      "E",
+      "A",
+      "M",
+      "G"
     ]
   ],
   "answers": [
-    "ROADJOURNEY",
-    "MOTORHOME",
-    "ROADS",
-    "ROADTRIPS",
-    "SNACKS",
-    "TOLLROAD",
-    "ROADSIDE"
+    "CULINARY",
+    "SEASONING",
+    "MARINADES",
+    "SIMMER",
+    "ROASTS",
+    "BREAKFAST",
+    "CHOCOLATE"
   ],
-  "spangram": "ROADJOURNEY"
+  "spangram": "CULINARY"
 };
