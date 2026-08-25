@@ -1,43 +1,43 @@
 export const connectionsData = {
   "groups": [
     {
-      "name": "BAKING INGREDIENTS",
+      "name": "PAINTING TECHNIQUES",
       "color": "yellow",
       "words": [
-        "FLOUR",
-        "SUGAR",
-        "BUTTER",
-        "EGGS"
+        "IMPASTO",
+        "GLAZING",
+        "SCUMBLING",
+        "SFUMATO"
       ]
     },
     {
-      "name": "HERBS AND SPICES",
+      "name": "FAMOUS ARTISTS",
       "color": "green",
       "words": [
-        "BASIL",
-        "OREGANO",
-        "THYME",
-        "ROSEMARY"
+        "DA VINCI",
+        "PICASSO",
+        "MONET",
+        "KAHLO"
       ]
     },
     {
-      "name": "COOKING TECHNIQUES",
+      "name": "COLOR TERMS",
       "color": "blue",
       "words": [
-        "SAUTE",
-        "GRILL",
-        "BAKE",
-        "ROAST"
+        "CYAN",
+        "MAGENTA",
+        "OCHRE",
+        "UMBER"
       ]
     },
     {
-      "name": "KITCHEN TOOLS",
+      "name": "ART MOVEMENTS",
       "color": "purple",
       "words": [
-        "WHISK",
-        "SPATULA",
-        "LADLE",
-        "TONGS"
+        "CUBISM",
+        "IMPRESSIONISM",
+        "SURREALISM",
+        "FAUVISM"
       ]
     }
   ]

@@ -1,85 +1,85 @@
 export const strandsData = {
-  "themeClue": "Kitchen word hunt",
+  "themeClue": "Colors on canvas",
   "grid": [
     [
-      "S",
-      "A",
+      "K",
       "O",
-      "A",
-      "E",
-      "I",
-      "L",
-      "U"
-    ],
-    [
       "T",
       "S",
-      "B",
+      "L",
+      "L",
+      "L",
+      "I"
+    ],
+    [
+      "E",
+      "S",
       "R",
+      "H",
+      "I",
+      "A",
+      "W",
+      "T"
+    ],
+    [
+      "L",
+      "A",
       "S",
+      "U",
+      "F",
+      "R",
+      "D",
+      "S"
+    ],
+    [
+      "N",
+      "D",
+      "R",
+      "B",
+      "M",
+      "E",
       "S",
+      "T"
+    ],
+    [
+      "S",
+      "C",
+      "E",
+      "L",
+      "G",
+      "E",
       "N",
       "C"
     ],
     [
+      "A",
+      "E",
       "S",
-      "A",
-      "E",
       "R",
-      "R",
-      "O",
-      "Y",
-      "A"
-    ],
-    [
-      "T",
-      "C",
-      "F",
-      "A",
-      "E",
-      "N",
-      "N",
-      "R"
-    ],
-    [
-      "T",
-      "E",
-      "H",
-      "K",
-      "M",
-      "A",
+      "L",
       "I",
+      "P",
       "I"
     ],
     [
-      "A",
-      "L",
-      "O",
-      "M",
-      "S",
-      "D",
-      "R",
-      "N"
-    ],
-    [
-      "O",
-      "C",
-      "I",
-      "S",
+      "P",
       "E",
       "A",
-      "M",
-      "G"
+      "E",
+      "A",
+      "I",
+      "S",
+      "T"
     ]
   ],
   "answers": [
-    "CULINARY",
-    "SEASONING",
-    "MARINADES",
-    "SIMMER",
-    "ROASTS",
-    "BREAKFAST",
-    "CHOCOLATE"
+    "BRUSHSTROKES",
+    "LANDSCAPE",
+    "EASEL",
+    "REALISTIC",
+    "PIGMENTS",
+    "STILLLIFE",
+    "DRAW"
   ],
-  "spangram": "CULINARY"
+  "spangram": "BRUSHSTROKES"
 };
