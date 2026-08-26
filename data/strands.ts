@@ -1,85 +1,85 @@
 export const strandsData = {
-  "themeClue": "Colors on canvas",
+  "themeClue": "Tools and plants",
   "grid": [
     [
-      "K",
+      "D",
+      "E",
+      "F",
+      "R",
       "O",
       "T",
       "S",
-      "L",
-      "L",
-      "L",
-      "I"
+      "E"
     ],
     [
+      "A",
+      "L",
       "E",
-      "S",
-      "R",
-      "H",
-      "I",
-      "A",
-      "W",
-      "T"
-    ],
-    [
-      "L",
-      "A",
-      "S",
-      "U",
-      "F",
-      "R",
-      "D",
-      "S"
-    ],
-    [
+      "P",
       "N",
-      "D",
-      "R",
-      "B",
-      "M",
-      "E",
+      "I",
+      "L",
+      "E"
+    ],
+    [
+      "P",
+      "O",
+      "W",
+      "G",
+      "V",
+      "C",
       "S",
-      "T"
+      "D"
     ],
     [
       "S",
-      "C",
-      "E",
-      "L",
+      "S",
       "G",
       "E",
-      "N",
-      "C"
+      "G",
+      "P",
+      "A",
+      "D"
     ],
     [
-      "A",
-      "E",
-      "S",
       "R",
-      "L",
+      "A",
+      "G",
+      "D",
       "I",
-      "P",
-      "I"
+      "N",
+      "E",
+      "N"
     ],
     [
-      "P",
+      "R",
+      "E",
       "E",
       "A",
       "E",
-      "A",
-      "I",
-      "S",
-      "T"
+      "E",
+      "W",
+      "A"
+    ],
+    [
+      "D",
+      "E",
+      "N",
+      "T",
+      "B",
+      "L",
+      "E",
+      "L"
     ]
   ],
   "answers": [
-    "BRUSHSTROKES",
+    "GARDENERS",
+    "SPADE",
+    "FLOWERPOT",
+    "SEEDLING",
+    "VEGETABLE",
     "LANDSCAPE",
-    "EASEL",
-    "REALISTIC",
-    "PIGMENTS",
-    "STILLLIFE",
-    "DRAW"
+    "WEEDING"
   ],
-  "spangram": "BRUSHSTROKES"
+  "spangram": "GARDENERS"
 };

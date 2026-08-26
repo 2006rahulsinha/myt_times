@@ -1,43 +1,43 @@
 export const connectionsData = {
   "groups": [
     {
-      "name": "PAINTING TECHNIQUES",
+      "name": "PLANT TYPES",
       "color": "yellow",
       "words": [
-        "IMPASTO",
-        "GLAZING",
-        "SCUMBLING",
-        "SFUMATO"
+        "ANNUAL",
+        "PERENNIAL",
+        "BULB",
+        "SHRUB"
       ]
     },
     {
-      "name": "FAMOUS ARTISTS",
+      "name": "GARDEN TOOLS",
       "color": "green",
       "words": [
-        "DA VINCI",
-        "PICASSO",
-        "MONET",
-        "KAHLO"
+        "SPADE",
+        "HOE",
+        "RAKE",
+        "TROWEL"
       ]
     },
     {
-      "name": "COLOR TERMS",
+      "name": "SOIL AMENDMENTS",
       "color": "blue",
       "words": [
-        "CYAN",
-        "MAGENTA",
-        "OCHRE",
-        "UMBER"
+        "COMPOST",
+        "PEAT",
+        "MANURE",
+        "VERMICULITE"
       ]
     },
     {
-      "name": "ART MOVEMENTS",
+      "name": "PEST CONTROL",
       "color": "purple",
       "words": [
-        "CUBISM",
-        "IMPRESSIONISM",
-        "SURREALISM",
-        "FAUVISM"
+        "NEEM",
+        "TRAP CROP",
+        "COPPER TAPE",
+        "BENEFICIAL NEMATODES"
       ]
     }
   ]
