@@ -1,85 +1,85 @@
 export const strandsData = {
-  "themeClue": "Tools and plants",
+  "themeClue": "Future tech & interstellar travel",
   "grid": [
     [
-      "D",
-      "E",
-      "F",
-      "R",
-      "O",
-      "T",
       "S",
-      "E"
-    ],
-    [
+      "T",
       "A",
+      "M",
+      "O",
       "L",
       "E",
-      "P",
-      "N",
-      "I",
-      "L",
       "E"
     ],
     [
+      "T",
+      "R",
+      "R",
+      "H",
       "P",
+      "A",
       "O",
-      "W",
-      "G",
-      "V",
+      "X"
+    ],
+    [
+      "O",
+      "S",
+      "O",
+      "S",
       "C",
-      "S",
-      "D"
-    ],
-    [
-      "S",
-      "S",
-      "G",
-      "E",
-      "G",
-      "P",
-      "A",
-      "D"
-    ],
-    [
-      "R",
-      "A",
-      "G",
-      "D",
-      "I",
-      "N",
-      "E",
-      "N"
-    ],
-    [
-      "R",
-      "E",
-      "E",
-      "A",
-      "E",
-      "E",
       "W",
-      "A"
+      "P",
+      "P"
     ],
     [
-      "D",
+      "B",
+      "H",
+      "W",
+      "T",
+      "E",
+      "A",
+      "R",
+      "L"
+    ],
+    [
+      "C",
+      "O",
+      "I",
+      "P",
       "E",
       "N",
-      "T",
-      "B",
-      "L",
+      "A",
+      "E"
+    ],
+    [
+      "A",
       "E",
-      "L"
+      "R",
+      "N",
+      "U",
+      "G",
+      "R",
+      "S"
+    ],
+    [
+      "S",
+      "P",
+      "S",
+      "H",
+      "I",
+      "P",
+      "L",
+      "A"
     ]
   ],
   "answers": [
-    "GARDENERS",
-    "SPADE",
-    "FLOWERPOT",
-    "SEEDLING",
-    "VEGETABLE",
-    "LANDSCAPE",
-    "WEEDING"
+    "SPACESHIP",
+    "LASERGUN",
+    "ROBOT",
+    "STARSHIP",
+    "WORMHOLE",
+    "EXOPLANET",
+    "SPACEWARP"
   ],
-  "spangram": "GARDENERS"
+  "spangram": "SPACESHIP"
 };

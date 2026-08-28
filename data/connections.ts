@@ -1,43 +1,43 @@
 export const connectionsData = {
   "groups": [
     {
-      "name": "PLANT TYPES",
+      "name": "CLASSIC SF AUTHORS",
       "color": "yellow",
       "words": [
-        "ANNUAL",
-        "PERENNIAL",
-        "BULB",
-        "SHRUB"
+        "ASIMOV",
+        "CLARKE",
+        "BRADBURY",
+        "HEINLEIN"
       ]
     },
     {
-      "name": "GARDEN TOOLS",
+      "name": "FAMOUS STARSHIPS",
       "color": "green",
       "words": [
-        "SPADE",
-        "HOE",
-        "RAKE",
-        "TROWEL"
+        "ENTERPRISE",
+        "MILLENNIUM FALCON",
+        "SERENITY",
+        "BATTLESTAR GALACTICA"
       ]
     },
     {
-      "name": "SOIL AMENDMENTS",
+      "name": "AI CHARACTERS",
       "color": "blue",
       "words": [
-        "COMPOST",
-        "PEAT",
-        "MANURE",
-        "VERMICULITE"
+        "HAL9000",
+        "R2D2",
+        "DATA",
+        "SKYNET"
       ]
     },
     {
-      "name": "PEST CONTROL",
+      "name": "CYBERPUNK MEDIA",
       "color": "purple",
       "words": [
-        "NEEM",
-        "TRAP CROP",
-        "COPPER TAPE",
-        "BENEFICIAL NEMATODES"
+        "NEUROMANCER",
+        "BLADE RUNNER",
+        "AKIRA",
+        "SNOW CRASH"
       ]
     }
   ]
