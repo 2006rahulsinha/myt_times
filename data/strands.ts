@@ -1,85 +1,84 @@
 export const strandsData = {
-  "themeClue": "Future tech & interstellar travel",
+  "themeClue": "Hidden flavors",
   "grid": [
     [
-      "S",
-      "T",
-      "A",
-      "M",
-      "O",
-      "L",
-      "E",
-      "E"
-    ],
-    [
-      "T",
-      "R",
-      "R",
-      "H",
-      "P",
-      "A",
-      "O",
-      "X"
-    ],
-    [
-      "O",
-      "S",
-      "O",
-      "S",
-      "C",
-      "W",
-      "P",
-      "P"
-    ],
-    [
-      "B",
-      "H",
-      "W",
-      "T",
-      "E",
-      "A",
-      "R",
-      "L"
-    ],
-    [
-      "C",
-      "O",
       "I",
-      "P",
-      "E",
-      "N",
-      "A",
-      "E"
-    ],
-    [
+      "M",
+      "M",
       "A",
       "E",
-      "R",
-      "N",
-      "U",
-      "G",
-      "R",
+      "D",
+      "S",
       "S"
     ],
     [
       "S",
-      "P",
+      "E",
+      "N",
+      "T",
       "S",
-      "H",
+      "T",
+      "E",
+      "E"
+    ],
+    [
+      "E",
+      "R",
       "I",
-      "P",
+      "E",
+      "I",
+      "S",
+      "R",
+      "D"
+    ],
+    [
       "L",
+      "I",
+      "R",
+      "A",
+      "N",
+      "N",
+      "G",
+      "A"
+    ],
+    [
+      "E",
+      "B",
+      "N",
+      "A",
+      "S",
+      "O",
+      "N",
+      "L"
+    ],
+    [
+      "G",
+      "T",
+      "A",
+      "G",
+      "M",
+      "N",
+      "P",
+      "L"
+    ],
+    [
+      "E",
+      "V",
+      "G",
+      "N",
+      "I",
+      "M",
+      "E",
       "A"
     ]
   ],
   "answers": [
-    "SPACESHIP",
-    "LASERGUN",
-    "ROBOT",
-    "STARSHIP",
-    "WORMHOLE",
-    "EXOPLANET",
-    "SPACEWARP"
+    "MEALPLANNING",
+    "VEGETABLE",
+    "SIMMERING",
+    "MARINATED",
+    "SEASONING",
+    "DESSERTS"
   ],
-  "spangram": "SPACESHIP"
+  "spangram": "MEALPLANNING"
 };

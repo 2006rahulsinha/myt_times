@@ -1,43 +1,43 @@
 export const connectionsData = {
   "groups": [
     {
-      "name": "CLASSIC SF AUTHORS",
+      "name": "HERBS",
       "color": "yellow",
       "words": [
-        "ASIMOV",
-        "CLARKE",
-        "BRADBURY",
-        "HEINLEIN"
+        "BASIL",
+        "THYME",
+        "OREGANO",
+        "SAGE"
       ]
     },
     {
-      "name": "FAMOUS STARSHIPS",
+      "name": "COOKING TECHNIQUES",
       "color": "green",
       "words": [
-        "ENTERPRISE",
-        "MILLENNIUM FALCON",
-        "SERENITY",
-        "BATTLESTAR GALACTICA"
+        "SAUTE",
+        "BRAISE",
+        "STEAM",
+        "GRILL"
       ]
     },
     {
-      "name": "AI CHARACTERS",
+      "name": "KITCHEN TOOLS",
       "color": "blue",
       "words": [
-        "HAL9000",
-        "R2D2",
-        "DATA",
-        "SKYNET"
+        "WHISK",
+        "SPATULA",
+        "COLANDER",
+        "TONGS"
       ]
     },
     {
-      "name": "CYBERPUNK MEDIA",
+      "name": "TYPES OF PASTA",
       "color": "purple",
       "words": [
-        "NEUROMANCER",
-        "BLADE RUNNER",
-        "AKIRA",
-        "SNOW CRASH"
+        "FETTUCCINE",
+        "RAVIOLI",
+        "PENNE",
+        "ORZO"
       ]
     }
   ]
