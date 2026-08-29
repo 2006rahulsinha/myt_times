@@ -1,84 +1,85 @@
 export const strandsData = {
-  "themeClue": "Hidden flavors",
+  "themeClue": "Under the stars",
   "grid": [
     [
-      "I",
-      "M",
-      "M",
       "A",
+      "L",
       "E",
+      "H",
       "D",
-      "S",
-      "S"
-    ],
-    [
-      "S",
-      "E",
-      "N",
-      "T",
-      "S",
-      "T",
-      "E",
-      "E"
-    ],
-    [
-      "E",
+      "A",
       "R",
-      "I",
-      "E",
-      "I",
-      "S",
-      "R",
-      "D"
+      "T"
     ],
     [
       "L",
-      "I",
+      "F",
       "R",
-      "A",
-      "N",
-      "N",
-      "G",
-      "A"
-    ],
-    [
-      "E",
-      "B",
-      "N",
-      "A",
+      "L",
       "S",
-      "O",
-      "N",
-      "L"
-    ],
-    [
-      "G",
-      "T",
       "A",
-      "G",
-      "M",
-      "N",
-      "P",
-      "L"
+      "I",
+      "T"
     ],
     [
+      "T",
       "E",
-      "V",
-      "G",
+      "T",
+      "W",
+      "T",
+      "E",
+      "L",
+      "S"
+    ],
+    [
+      "R",
+      "E",
+      "A",
+      "R",
+      "E",
+      "H",
+      "E",
+      "R"
+    ],
+    [
+      "A",
+      "T",
       "N",
-      "I",
-      "M",
-      "E",
+      "N",
+      "G",
+      "F",
+      "O",
       "A"
+    ],
+    [
+      "I",
+      "L",
+      "E",
+      "T",
+      "I",
+      "P",
+      "M",
+      "C"
+    ],
+    [
+      "L",
+      "B",
+      "A",
+      "Z",
+      "P",
+      "O",
+      "L",
+      "E"
     ]
   ],
   "answers": [
-    "MEALPLANNING",
-    "VEGETABLE",
-    "SIMMERING",
-    "MARINATED",
-    "SEASONING",
-    "DESSERTS"
+    "TRAILBLAZE",
+    "TENTPOLE",
+    "CAMPING",
+    "FOREST",
+    "TRAILHEAD",
+    "SHELTER",
+    "WATERFALL"
   ],
-  "spangram": "MEALPLANNING"
+  "spangram": "TRAILBLAZE"
 };
