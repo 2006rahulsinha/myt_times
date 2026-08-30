@@ -1,85 +1,85 @@
 export const strandsData = {
-  "themeClue": "Under the stars",
+  "themeClue": "Explore beyond horizons",
   "grid": [
     [
-      "A",
-      "L",
-      "E",
-      "H",
       "D",
-      "A",
-      "R",
-      "T"
-    ],
-    [
+      "N",
       "L",
-      "F",
-      "R",
-      "L",
+      "U",
       "S",
+      "O",
+      "U",
+      "N"
+    ],
+    [
+      "E",
+      "R",
       "A",
+      "T",
+      "M",
       "I",
+      "A",
       "T"
     ],
     [
-      "T",
+      "O",
+      "R",
       "E",
-      "T",
       "W",
+      "N",
+      "S",
       "T",
-      "E",
-      "L",
-      "S"
-    ],
-    [
-      "R",
-      "E",
-      "A",
-      "R",
-      "E",
-      "H",
-      "E",
       "R"
     ],
     [
-      "A",
-      "T",
-      "N",
-      "N",
-      "G",
-      "F",
       "O",
-      "A"
+      "D",
+      "R",
+      "G",
+      "Y",
+      "I",
+      "K",
+      "E"
     ],
     [
-      "I",
-      "L",
-      "E",
       "T",
+      "U",
+      "O",
+      "A",
+      "C",
+      "E",
+      "N",
+      "K"
+    ],
+    [
+      "V",
+      "O",
+      "Y",
+      "F",
+      "A",
+      "N",
+      "U",
+      "G"
+    ],
+    [
+      "E",
+      "R",
       "I",
       "P",
       "M",
-      "C"
-    ],
-    [
-      "L",
-      "B",
-      "A",
-      "Z",
-      "P",
+      "R",
       "O",
-      "L",
-      "E"
+      "J"
     ]
   ],
   "answers": [
-    "TRAILBLAZE",
-    "TENTPOLE",
-    "CAMPING",
-    "FOREST",
-    "TRAILHEAD",
-    "SHELTER",
-    "WATERFALL"
+    "WANDERLUST",
+    "MOUNTAINS",
+    "TREKKING",
+    "JOURNEY",
+    "CAMPFIRE",
+    "VOYAGER",
+    "OUTDOOR"
   ],
-  "spangram": "TRAILBLAZE"
+  "spangram": "WANDERLUST"
 };
