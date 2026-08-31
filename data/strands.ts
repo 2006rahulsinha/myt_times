@@ -1,85 +1,85 @@
 export const strandsData = {
-  "themeClue": "Explore beyond horizons",
+  "themeClue": "Interstellar word hunt",
   "grid": [
     [
-      "D",
-      "N",
-      "L",
-      "U",
+      "P",
       "S",
-      "O",
-      "U",
-      "N"
-    ],
-    [
-      "E",
-      "R",
-      "A",
-      "T",
-      "M",
-      "I",
-      "A",
-      "T"
-    ],
-    [
-      "O",
-      "R",
-      "E",
-      "W",
-      "N",
-      "S",
-      "T",
-      "R"
-    ],
-    [
-      "O",
-      "D",
-      "R",
-      "G",
-      "Y",
-      "I",
-      "K",
-      "E"
-    ],
-    [
-      "T",
-      "U",
-      "O",
       "A",
       "C",
       "E",
-      "N",
-      "K"
+      "S",
+      "H",
+      "I"
     ],
     [
-      "V",
-      "O",
-      "Y",
-      "F",
-      "A",
-      "N",
-      "U",
-      "G"
-    ],
-    [
-      "E",
       "R",
+      "P",
+      "I",
+      "O",
+      "R",
+      "D",
+      "N",
+      "P"
+    ],
+    [
+      "A",
+      "D",
+      "S",
+      "S",
       "I",
       "P",
-      "M",
+      "S",
+      "A"
+    ],
+    [
+      "W",
+      "G",
       "R",
+      "H",
+      "B",
       "O",
-      "J"
+      "A",
+      "N"
+    ],
+    [
+      "R",
+      "A",
+      "A",
+      "O",
+      "T",
+      "C",
+      "R",
+      "N"
+    ],
+    [
+      "A",
+      "L",
+      "X",
+      "T",
+      "I",
+      "S",
+      "H",
+      "O"
+    ],
+    [
+      "T",
+      "S",
+      "A",
+      "Y",
+      "S",
+      "C",
+      "E",
+      "T"
     ]
   ],
   "answers": [
-    "WANDERLUST",
-    "MOUNTAINS",
-    "TREKKING",
-    "JOURNEY",
-    "CAMPFIRE",
-    "VOYAGER",
-    "OUTDOOR"
+    "STARWARP",
+    "SPACESHIP",
+    "ANDROIDS",
+    "GALAXY",
+    "STARSHIPS",
+    "NANOTECH",
+    "ROBOTICS"
   ],
-  "spangram": "WANDERLUST"
+  "spangram": "STARWARP"
 };

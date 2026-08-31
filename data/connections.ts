@@ -1,43 +1,43 @@
 export const connectionsData = {
   "groups": [
     {
-      "name": "MODES OF TRANSPORT",
+      "name": "CLASSIC AUTHORS",
       "color": "yellow",
       "words": [
-        "AIRPLANE",
-        "TRAIN",
-        "BICYCLE",
-        "SAILBOAT"
+        "ASIMOV",
+        "CLARKE",
+        "BRADBURY",
+        "HEINLEIN"
       ]
     },
     {
-      "name": "ADVENTURE SPORTS",
+      "name": "ICONIC SPACESHIPS",
       "color": "green",
       "words": [
-        "ROCK CLIMBING",
-        "KAYAKING",
-        "PARAGLIDING",
-        "CAVING"
+        "ENTERPRISE",
+        "MILLENNIUMFALCON",
+        "NOSTROMO",
+        "SERENITY"
       ]
     },
     {
-      "name": "FAMOUS TRAILS",
+      "name": "FUTURISTIC GADGETS",
       "color": "blue",
       "words": [
-        "INCA TRAIL",
-        "CAMINO DE SANTIAGO",
-        "APPALACHIAN TRAIL",
-        "GREAT OCEAN WALK"
+        "LIGHTSABER",
+        "PHASER",
+        "WARPDRIVE",
+        "HOLODECK"
       ]
     },
     {
-      "name": "TRAVEL ESSENTIALS",
+      "name": "FAMOUS AIS",
       "color": "purple",
       "words": [
-        "PASSPORT",
-        "BACKPACK",
-        "MAP",
-        "COMPASS"
+        "HAL9000",
+        "SKYNET",
+        "DATA",
+        "CORTANA"
       ]
     }
   ]

@@ -1,7 +1,8 @@
 export const wordleData = {
-  "answer": "QUEST",
+  "answer": "ALIEN",
   "validGuesses": [
     "ADORE",
+    "ALIEN",
     "AMAZE",
     "ANGEL",
     "BELLE",
