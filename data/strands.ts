@@ -1,85 +1,84 @@
 export const strandsData = {
-  "themeClue": "Interstellar word hunt",
+  "themeClue": "Big top fun",
   "grid": [
     [
-      "P",
-      "S",
+      "N",
+      "I",
+      "A",
       "A",
       "C",
-      "E",
-      "S",
-      "H",
-      "I"
-    ],
-    [
       "R",
-      "P",
-      "I",
       "O",
-      "R",
-      "D",
-      "N",
-      "P"
+      "B"
     ],
     [
-      "A",
-      "D",
-      "S",
-      "S",
-      "I",
-      "P",
-      "S",
+      "R",
+      "V",
+      "L",
+      "O",
+      "H",
+      "C",
+      "T",
       "A"
     ],
     [
-      "W",
-      "G",
-      "R",
-      "H",
-      "B",
-      "O",
-      "A",
-      "N"
-    ],
-    [
-      "R",
-      "A",
-      "A",
-      "O",
-      "T",
-      "C",
-      "R",
-      "N"
-    ],
-    [
-      "A",
       "L",
-      "X",
-      "T",
-      "I",
+      "A",
+      "N",
       "S",
-      "H",
+      "W",
+      "C",
+      "I",
+      "P"
+    ],
+    [
+      "C",
+      "E",
+      "C",
+      "W",
+      "O",
+      "L",
+      "E",
       "O"
     ],
     [
-      "T",
-      "S",
       "A",
-      "Y",
-      "S",
+      "T",
       "C",
       "E",
+      "P",
+      "S",
+      "R",
       "T"
+    ],
+    [
+      "R",
+      "C",
+      "E",
+      "L",
+      "D",
+      "E",
+      "H",
+      "G"
+    ],
+    [
+      "A",
+      "O",
+      "U",
+      "S",
+      "R",
+      "I",
+      "T",
+      "I"
     ]
   ],
   "answers": [
-    "STARWARP",
-    "SPACESHIP",
-    "ANDROIDS",
-    "GALAXY",
-    "STARSHIPS",
-    "NANOTECH",
-    "ROBOTICS"
+    "CAROUSELRIDE",
+    "TIGHTROPE",
+    "SPECTACLE",
+    "CARNIVAL",
+    "ACROBATIC",
+    "CLOWNSHOW"
   ],
-  "spangram": "STARWARP"
+  "spangram": "CAROUSELRIDE"
 };

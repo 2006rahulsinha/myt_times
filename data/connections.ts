@@ -1,43 +1,43 @@
 export const connectionsData = {
   "groups": [
     {
-      "name": "CLASSIC AUTHORS",
+      "name": "BIG TOP ACTS",
       "color": "yellow",
       "words": [
-        "ASIMOV",
-        "CLARKE",
-        "BRADBURY",
-        "HEINLEIN"
+        "ACROBATS",
+        "TRAPEZE",
+        "LION TAMER",
+        "RINGMASTER"
       ]
     },
     {
-      "name": "ICONIC SPACESHIPS",
+      "name": "FOOD STALLS",
       "color": "green",
       "words": [
-        "ENTERPRISE",
-        "MILLENNIUMFALCON",
-        "NOSTROMO",
-        "SERENITY"
+        "COTTON CANDY",
+        "CORN DOG",
+        "POPCORN",
+        "FUNNEL CAKE"
       ]
     },
     {
-      "name": "FUTURISTIC GADGETS",
+      "name": "RIDE ATTRACTIONS",
       "color": "blue",
       "words": [
-        "LIGHTSABER",
-        "PHASER",
-        "WARPDRIVE",
-        "HOLODECK"
+        "FERRIS WHEEL",
+        "CAROUSEL",
+        "BUMPER CARS",
+        "FUNHOUSE"
       ]
     },
     {
-      "name": "FAMOUS AIS",
+      "name": "CARNIVAL GAMES",
       "color": "purple",
       "words": [
-        "HAL9000",
-        "SKYNET",
-        "DATA",
-        "CORTANA"
+        "RING TOSS",
+        "SHOOTING GALLERY",
+        "DUCK POND",
+        "BALLOON DARTS"
       ]
     }
   ]
