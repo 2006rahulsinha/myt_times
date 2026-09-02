@@ -1,10 +1,11 @@
 export const wordleData = {
-  "answer": "CLOWN",
+  "answer": "BEACH",
   "validGuesses": [
     "ADORE",
     "ALIEN",
     "AMAZE",
     "ANGEL",
+    "BEACH",
     "BELLE",
     "BLISS",
     "BLOOM",

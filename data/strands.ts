@@ -1,84 +1,85 @@
 export const strandsData = {
-  "themeClue": "Big top fun",
+  "themeClue": "sun kissed fun",
   "grid": [
     [
-      "N",
-      "I",
+      "B",
+      "E",
       "A",
       "A",
-      "C",
-      "R",
-      "O",
-      "B"
+      "L",
+      "L",
+      "S",
+      "E"
     ],
     [
-      "R",
-      "V",
-      "L",
-      "O",
-      "H",
-      "C",
       "T",
+      "C",
+      "B",
+      "F",
+      "P",
+      "E",
+      "H",
       "A"
     ],
     [
+      "E",
+      "H",
       "L",
-      "A",
-      "N",
+      "P",
       "S",
-      "W",
-      "C",
       "I",
-      "P"
+      "L",
+      "S"
     ],
     [
-      "C",
       "E",
-      "C",
-      "W",
+      "S",
       "O",
-      "L",
+      "W",
+      "V",
       "E",
+      "L",
+      "L"
+    ],
+    [
+      "B",
+      "S",
+      "N",
+      "A",
+      "S",
+      "N",
+      "L",
+      "F"
+    ],
+    [
+      "V",
+      "I",
+      "S",
+      "U",
+      "U",
+      "F",
+      "W",
       "O"
     ],
     [
-      "A",
-      "T",
-      "C",
-      "E",
-      "P",
-      "S",
       "R",
-      "T"
-    ],
-    [
-      "R",
-      "C",
       "E",
-      "L",
-      "D",
-      "E",
-      "H",
-      "G"
-    ],
-    [
-      "A",
-      "O",
+      "M",
+      "M",
       "U",
       "S",
       "R",
-      "I",
-      "T",
-      "I"
+      "E"
     ]
   ],
   "answers": [
-    "CAROUSELRIDE",
-    "TIGHTROPE",
-    "SPECTACLE",
-    "CARNIVAL",
-    "ACROBATIC",
-    "CLOWNSHOW"
+    "SUMMERVIBES",
+    "SUNSET",
+    "BEACHBALL",
+    "SEASHELL",
+    "FLIPFLOPS",
+    "WAVE",
+    "SUNFLOWER"
   ],
-  "spangram": "CAROUSELRIDE"
+  "spangram": "SUMMERVIBES"
 };

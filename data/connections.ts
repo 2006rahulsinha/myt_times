@@ -1,43 +1,43 @@
 export const connectionsData = {
   "groups": [
     {
-      "name": "BIG TOP ACTS",
+      "name": "BEACH ACTIVITIES",
       "color": "yellow",
       "words": [
-        "ACROBATS",
-        "TRAPEZE",
-        "LION TAMER",
-        "RINGMASTER"
+        "SURFING",
+        "VOLLEYBALL",
+        "SUNBATHING",
+        "BUILDING SANDCASTLES"
       ]
     },
     {
-      "name": "FOOD STALLS",
+      "name": "REFRESHING DRINKS",
       "color": "green",
       "words": [
-        "COTTON CANDY",
-        "CORN DOG",
-        "POPCORN",
-        "FUNNEL CAKE"
+        "LEMONADE",
+        "ICED TEA",
+        "SMOOTHIE",
+        "FRUIT PUNCH"
       ]
     },
     {
-      "name": "RIDE ATTRACTIONS",
+      "name": "SUMMER FRUITS",
       "color": "blue",
       "words": [
-        "FERRIS WHEEL",
-        "CAROUSEL",
-        "BUMPER CARS",
-        "FUNHOUSE"
+        "WATERMELON",
+        "PINEAPPLE",
+        "PEACH",
+        "CHERRIES"
       ]
     },
     {
-      "name": "CARNIVAL GAMES",
+      "name": "WARM WEATHER MUSIC",
       "color": "purple",
       "words": [
-        "RING TOSS",
-        "SHOOTING GALLERY",
-        "DUCK POND",
-        "BALLOON DARTS"
+        "REGGAE",
+        "CALYPSO",
+        "TROPICAL HOUSE",
+        "SURF ROCK"
       ]
     }
   ]
