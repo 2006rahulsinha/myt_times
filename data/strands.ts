@@ -1,85 +1,85 @@
 export const strandsData = {
-  "themeClue": "sun kissed fun",
+  "themeClue": "Falling leaves and cozy vibes",
   "grid": [
     [
-      "B",
-      "E",
-      "A",
-      "A",
-      "L",
-      "L",
-      "S",
-      "E"
-    ],
-    [
-      "T",
-      "C",
-      "B",
-      "F",
-      "P",
-      "E",
-      "H",
-      "A"
-    ],
-    [
-      "E",
-      "H",
-      "L",
-      "P",
-      "S",
+      "G",
+      "N",
       "I",
-      "L",
-      "S"
+      "K",
+      "E",
+      "N",
+      "S",
+      "I"
     ],
     [
-      "E",
-      "S",
+      "B",
       "O",
-      "W",
-      "V",
+      "N",
+      "L",
+      "C",
+      "S",
+      "P",
+      "R"
+    ],
+    [
+      "S",
       "E",
-      "L",
-      "L"
-    ],
-    [
-      "B",
-      "S",
-      "N",
-      "A",
-      "S",
-      "N",
-      "L",
-      "F"
-    ],
-    [
-      "V",
-      "I",
-      "S",
-      "U",
-      "U",
+      "R",
       "F",
-      "W",
-      "O"
+      "A",
+      "C",
+      "S",
+      "C"
     ],
     [
+      "S",
+      "P",
+      "I",
+      "I",
       "R",
+      "S",
+      "H",
+      "H"
+    ],
+    [
+      "K",
+      "I",
       "E",
-      "M",
+      "C",
+      "T",
+      "V",
+      "A",
+      "C"
+    ],
+    [
+      "N",
+      "P",
+      "P",
+      "S",
+      "E",
+      "R",
+      "N",
+      "U"
+    ],
+    [
       "M",
       "U",
-      "S",
-      "R",
-      "E"
+      "L",
+      "E",
+      "A",
+      "F",
+      "C",
+      "R"
     ]
   ],
   "answers": [
-    "SUMMERVIBES",
-    "SUNSET",
-    "BEACHBALL",
-    "SEASHELL",
-    "FLIPFLOPS",
-    "WAVE",
-    "SUNFLOWER"
+    "LEAFCRUNCH",
+    "CRISPNESS",
+    "HARVESTS",
+    "CRACKLING",
+    "BONFIRES",
+    "SPICE",
+    "PUMPKIN"
   ],
-  "spangram": "SUMMERVIBES"
+  "spangram": "LEAFCRUNCH"
 };

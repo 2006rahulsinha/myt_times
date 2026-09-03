@@ -1,43 +1,43 @@
 export const connectionsData = {
   "groups": [
     {
-      "name": "BEACH ACTIVITIES",
+      "name": "HARVEST CROPS",
       "color": "yellow",
       "words": [
-        "SURFING",
-        "VOLLEYBALL",
-        "SUNBATHING",
-        "BUILDING SANDCASTLES"
+        "PUMPKIN",
+        "APPLE",
+        "CORN",
+        "SQUASH"
       ]
     },
     {
-      "name": "REFRESHING DRINKS",
+      "name": "AUTUMN COLORS",
       "color": "green",
       "words": [
-        "LEMONADE",
-        "ICED TEA",
-        "SMOOTHIE",
-        "FRUIT PUNCH"
+        "AMBER",
+        "CRIMSON",
+        "GOLDEN",
+        "RUST"
       ]
     },
     {
-      "name": "SUMMER FRUITS",
+      "name": "SEASONAL ACTIVITIES",
       "color": "blue",
       "words": [
-        "WATERMELON",
-        "PINEAPPLE",
-        "PEACH",
-        "CHERRIES"
+        "LEAFPEEPING",
+        "HAYRIDE",
+        "PUMPKINPATCH",
+        "APPLEPICKING"
       ]
     },
     {
-      "name": "WARM WEATHER MUSIC",
+      "name": "FALL WEATHER",
       "color": "purple",
       "words": [
-        "REGGAE",
-        "CALYPSO",
-        "TROPICAL HOUSE",
-        "SURF ROCK"
+        "MIST",
+        "CHILL",
+        "DRIZZLE",
+        "GUST"
       ]
     }
   ]
