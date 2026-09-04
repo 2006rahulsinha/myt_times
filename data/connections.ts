@@ -1,43 +1,43 @@
 export const connectionsData = {
   "groups": [
     {
-      "name": "HARVEST CROPS",
+      "name": "MARINE MAMMALS",
       "color": "yellow",
       "words": [
-        "PUMPKIN",
-        "APPLE",
-        "CORN",
-        "SQUASH"
+        "DOLPHIN",
+        "WHALE",
+        "SEAL",
+        "MANATEE"
       ]
     },
     {
-      "name": "AUTUMN COLORS",
+      "name": "REEF FISH",
       "color": "green",
       "words": [
-        "AMBER",
-        "CRIMSON",
-        "GOLDEN",
-        "RUST"
+        "CLOWNFISH",
+        "SURGEONFISH",
+        "PARROTFISH",
+        "ANGELFISH"
       ]
     },
     {
-      "name": "SEASONAL ACTIVITIES",
+      "name": "OCEANIC PLANTS",
       "color": "blue",
       "words": [
-        "LEAFPEEPING",
-        "HAYRIDE",
-        "PUMPKINPATCH",
-        "APPLEPICKING"
+        "KELP",
+        "SEAGRASS",
+        "ALGAE",
+        "SARGASSUM"
       ]
     },
     {
-      "name": "FALL WEATHER",
+      "name": "DEEP SEA CREATURES",
       "color": "purple",
       "words": [
-        "MIST",
-        "CHILL",
-        "DRIZZLE",
-        "GUST"
+        "ANGLERFISH",
+        "GIANT SQUID",
+        "VAMPIRE SQUID",
+        "GOBLIN SHARK"
       ]
     }
   ]

@@ -1,85 +1,85 @@
 export const strandsData = {
-  "themeClue": "Falling leaves and cozy vibes",
+  "themeClue": "Life beneath the waves",
   "grid": [
     [
-      "G",
-      "N",
+      "O",
+      "D",
+      "A",
+      "R",
+      "C",
+      "O",
+      "P",
+      "E"
+    ],
+    [
+      "L",
+      "P",
       "I",
-      "K",
       "E",
+      "U",
+      "K",
+      "O",
+      "D"
+    ],
+    [
+      "U",
       "N",
+      "H",
+      "C",
       "S",
+      "R",
+      "L",
       "I"
     ],
     [
-      "B",
-      "O",
-      "N",
-      "L",
-      "C",
-      "S",
       "P",
-      "R"
-    ],
-    [
       "S",
-      "E",
-      "R",
-      "F",
       "A",
-      "C",
+      "T",
+      "A",
       "S",
-      "C"
-    ],
-    [
-      "S",
-      "P",
-      "I",
-      "I",
-      "R",
-      "S",
-      "H",
+      "T",
       "H"
     ],
     [
-      "K",
       "I",
+      "O",
+      "S",
+      "H",
+      "O",
       "E",
-      "C",
-      "T",
-      "V",
-      "A",
-      "C"
+      "O",
+      "A"
     ],
     [
-      "N",
-      "P",
-      "P",
-      "S",
-      "E",
       "R",
       "N",
-      "U"
+      "T",
+      "C",
+      "S",
+      "R",
+      "E",
+      "S"
     ],
     [
-      "M",
-      "U",
-      "L",
-      "E",
       "A",
-      "F",
-      "C",
-      "R"
+      "M",
+      "E",
+      "W",
+      "O",
+      "R",
+      "L",
+      "D"
     ]
   ],
   "answers": [
-    "LEAFCRUNCH",
-    "CRISPNESS",
-    "HARVESTS",
-    "CRACKLING",
-    "BONFIRES",
-    "SPICE",
-    "PUMPKIN"
+    "MARINEWORLD",
+    "SEAHORSE",
+    "TIDEPOOLS",
+    "OCTOPUS",
+    "SHARK",
+    "CRUSTACEA",
+    "DOLPHIN"
   ],
-  "spangram": "LEAFCRUNCH"
+  "spangram": "MARINEWORLD"
 };
