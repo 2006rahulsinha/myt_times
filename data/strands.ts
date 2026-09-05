@@ -1,85 +1,85 @@
 export const strandsData = {
-  "themeClue": "Life beneath the waves",
+  "themeClue": "Sun sand surf",
   "grid": [
     [
-      "O",
-      "D",
-      "A",
-      "R",
-      "C",
-      "O",
-      "P",
-      "E"
-    ],
-    [
-      "L",
-      "P",
-      "I",
-      "E",
-      "U",
-      "K",
-      "O",
-      "D"
-    ],
-    [
-      "U",
-      "N",
-      "H",
-      "C",
-      "S",
-      "R",
-      "L",
-      "I"
-    ],
-    [
-      "P",
-      "S",
-      "A",
-      "T",
-      "A",
-      "S",
-      "T",
-      "H"
-    ],
-    [
       "I",
       "O",
+      "O",
+      "L",
       "S",
-      "H",
-      "O",
       "E",
-      "O",
+      "L",
       "A"
     ],
     [
-      "R",
-      "N",
       "T",
+      "N",
+      "O",
+      "I",
+      "B",
+      "A",
+      "B",
+      "L"
+    ],
+    [
       "C",
-      "S",
-      "R",
+      "A",
+      "P",
+      "D",
       "E",
-      "S"
+      "C",
+      "H",
+      "I"
+    ],
+    [
+      "H",
+      "A",
+      "V",
+      "N",
+      "W",
+      "O",
+      "G",
+      "L"
+    ],
+    [
+      "E",
+      "E",
+      "U",
+      "N",
+      "D",
+      "H",
+      "N",
+      "H"
     ],
     [
       "A",
-      "M",
-      "E",
+      "V",
+      "F",
+      "S",
+      "T",
+      "U",
+      "S",
+      "C"
+    ],
+    [
+      "T",
       "W",
-      "O",
-      "R",
-      "L",
-      "D"
+      "A",
+      "U",
+      "N",
+      "B",
+      "E",
+      "A"
     ]
   ],
   "answers": [
-    "MARINEWORLD",
-    "SEAHORSE",
-    "TIDEPOOLS",
-    "OCTOPUS",
-    "SHARK",
-    "CRUSTACEA",
-    "DOLPHIN"
+    "HEATWAVEFUN",
+    "BEACH",
+    "SUNLIGHT",
+    "SUNDOWN",
+    "VACATION",
+    "POOLSIDE",
+    "BEACHBALL"
   ],
-  "spangram": "MARINEWORLD"
+  "spangram": "HEATWAVEFUN"
 };

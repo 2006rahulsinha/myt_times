@@ -1,43 +1,43 @@
 export const connectionsData = {
   "groups": [
     {
-      "name": "MARINE MAMMALS",
+      "name": "BEACH ACTIVITIES",
       "color": "yellow",
       "words": [
-        "DOLPHIN",
-        "WHALE",
-        "SEAL",
-        "MANATEE"
+        "SURFING",
+        "SANDCASTLE",
+        "BEACHVOLLEYBALL",
+        "SUNBATHING"
       ]
     },
     {
-      "name": "REEF FISH",
+      "name": "COOL TREATS",
       "color": "green",
       "words": [
-        "CLOWNFISH",
-        "SURGEONFISH",
-        "PARROTFISH",
-        "ANGELFISH"
+        "ICE CREAM",
+        "FROZEN LEMONADE",
+        "WATERMELON POPSICLE",
+        "SLUSHIE"
       ]
     },
     {
-      "name": "OCEANIC PLANTS",
+      "name": "SEASONAL FRUITS",
       "color": "blue",
       "words": [
-        "KELP",
-        "SEAGRASS",
-        "ALGAE",
-        "SARGASSUM"
+        "MANGO",
+        "PEACH",
+        "PINEAPPLE",
+        "STRAWBERRY"
       ]
     },
     {
-      "name": "DEEP SEA CREATURES",
+      "name": "SUNNY SOUNDS",
       "color": "purple",
       "words": [
-        "ANGLERFISH",
-        "GIANT SQUID",
-        "VAMPIRE SQUID",
-        "GOBLIN SHARK"
+        "SEAGULL CRY",
+        "UKULELE STRUM",
+        "OCEAN WAVES",
+        "LAWNMOWER"
       ]
     }
   ]
