@@ -1,85 +1,84 @@
 export const strandsData = {
-  "themeClue": "Sun sand surf",
+  "themeClue": "Cosmic connections",
   "grid": [
     [
+      "R",
+      "A",
       "I",
-      "O",
-      "O",
-      "L",
-      "S",
-      "E",
-      "L",
-      "A"
-    ],
-    [
+      "N",
       "T",
-      "N",
-      "O",
-      "I",
-      "B",
-      "A",
-      "B",
-      "L"
-    ],
-    [
-      "C",
-      "A",
-      "P",
-      "D",
       "E",
-      "C",
-      "H",
-      "I"
+      "R",
+      "S"
     ],
     [
-      "H",
-      "A",
-      "V",
-      "N",
-      "W",
-      "O",
+      "E",
+      "Y",
+      "T",
+      "T",
+      "S",
+      "R",
+      "E",
+      "T"
+    ],
+    [
+      "I",
       "G",
+      "H",
+      "C",
+      "S",
+      "T",
+      "A",
       "L"
     ],
     [
-      "E",
-      "E",
+      "L",
+      "P",
+      "I",
+      "M",
+      "O",
       "U",
-      "N",
-      "D",
+      "A",
+      "L"
+    ],
+    [
+      "T",
       "H",
-      "N",
-      "H"
+      "S",
+      "I",
+      "S",
+      "D",
+      "C",
+      "R"
     ],
     [
+      "S",
       "A",
-      "V",
-      "F",
-      "S",
+      "R",
+      "C",
       "T",
-      "U",
-      "S",
-      "C"
+      "O",
+      "D",
+      "F"
     ],
     [
-      "T",
-      "W",
+      "Y",
       "A",
-      "U",
-      "N",
-      "B",
+      "R",
       "E",
-      "A"
+      "M",
+      "L",
+      "E",
+      "I"
     ]
   ],
   "answers": [
-    "HEATWAVEFUN",
-    "BEACH",
-    "SUNLIGHT",
-    "SUNDOWN",
-    "VACATION",
-    "POOLSIDE",
-    "BEACHBALL"
+    "INTERSTELLAR",
+    "STARFIELD",
+    "COMETDUST",
+    "COSMICRAY",
+    "STARSHIP",
+    "LIGHTYEAR"
   ],
-  "spangram": "HEATWAVEFUN"
+  "spangram": "INTERSTELLAR"
 };

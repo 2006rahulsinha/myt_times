@@ -1,43 +1,43 @@
 export const connectionsData = {
   "groups": [
     {
-      "name": "BEACH ACTIVITIES",
+      "name": "SOLAR SYSTEM PLANETS",
       "color": "yellow",
       "words": [
-        "SURFING",
-        "SANDCASTLE",
-        "BEACHVOLLEYBALL",
-        "SUNBATHING"
+        "MARS",
+        "VENUS",
+        "JUPITER",
+        "SATURN"
       ]
     },
     {
-      "name": "COOL TREATS",
+      "name": "FAMOUS SPACECRAFT",
       "color": "green",
       "words": [
-        "ICE CREAM",
-        "FROZEN LEMONADE",
-        "WATERMELON POPSICLE",
-        "SLUSHIE"
+        "VOYAGER",
+        "APOLLO",
+        "HUBBLE",
+        "CASSINI"
       ]
     },
     {
-      "name": "SEASONAL FRUITS",
+      "name": "ASTRONOMICAL PHENOMENA",
       "color": "blue",
       "words": [
-        "MANGO",
-        "PEACH",
-        "PINEAPPLE",
-        "STRAWBERRY"
+        "SOLAR FLARE",
+        "AURORA BOREALIS",
+        "SUPERNOVA",
+        "BLACK HOLE"
       ]
     },
     {
-      "name": "SUNNY SOUNDS",
+      "name": "PROMINENT CONSTELLATIONS",
       "color": "purple",
       "words": [
-        "SEAGULL CRY",
-        "UKULELE STRUM",
-        "OCEAN WAVES",
-        "LAWNMOWER"
+        "ORION",
+        "CASSIOPEIA",
+        "ANDROMEDA",
+        "CYGNUS"
       ]
     }
   ]
