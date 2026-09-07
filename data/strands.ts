@@ -1,84 +1,85 @@
 export const strandsData = {
-  "themeClue": "Cosmic connections",
+  "themeClue": "Roll the dice",
   "grid": [
     [
-      "R",
+      "B",
       "A",
-      "I",
-      "N",
-      "T",
-      "E",
       "R",
+      "D",
+      "G",
+      "A",
+      "M",
+      "E"
+    ],
+    [
+      "O",
+      "M",
+      "A",
+      "G",
+      "Z",
+      "Z",
+      "S",
       "S"
     ],
     [
       "E",
-      "Y",
-      "T",
-      "T",
-      "S",
+      "A",
+      "A",
       "R",
       "E",
+      "L",
+      "U",
       "T"
     ],
     [
-      "I",
       "G",
-      "H",
-      "C",
-      "S",
-      "T",
-      "A",
-      "L"
-    ],
-    [
-      "L",
-      "P",
-      "I",
       "M",
       "O",
-      "U",
-      "A",
-      "L"
-    ],
-    [
-      "T",
-      "H",
-      "S",
-      "I",
-      "S",
       "D",
       "C",
+      "E",
+      "P",
       "R"
     ],
     [
-      "S",
-      "A",
       "R",
-      "C",
-      "T",
-      "O",
-      "D",
-      "F"
+      "E",
+      "B",
+      "I",
+      "S",
+      "S",
+      "L",
+      "A"
     ],
     [
+      "O",
       "Y",
-      "A",
+      "D",
+      "V",
       "R",
+      "A",
+      "P",
+      "T"
+    ],
+    [
+      "T",
+      "C",
+      "I",
       "E",
-      "M",
-      "L",
-      "E",
-      "I"
+      "Y",
+      "Y",
+      "G",
+      "E"
     ]
   ],
   "answers": [
-    "INTERSTELLAR",
-    "STARFIELD",
-    "COMETDUST",
-    "COSMICRAY",
-    "STARSHIP",
-    "LIGHTYEAR"
+    "BOARDGAMES",
+    "STRATEGY",
+    "PLAYERS",
+    "PUZZLES",
+    "VICTORY",
+    "DICEGAME",
+    "GAMEBOARD"
   ],
-  "spangram": "INTERSTELLAR"
+  "spangram": "BOARDGAMES"
 };

@@ -1,43 +1,43 @@
 export const connectionsData = {
   "groups": [
     {
-      "name": "SOLAR SYSTEM PLANETS",
+      "name": "CLASSIC STRATEGY",
       "color": "yellow",
       "words": [
-        "MARS",
-        "VENUS",
-        "JUPITER",
-        "SATURN"
+        "CHESS",
+        "CHECKERS",
+        "GO",
+        "BACKGAMMON"
       ]
     },
     {
-      "name": "FAMOUS SPACECRAFT",
+      "name": "DICE ROLLERS",
       "color": "green",
       "words": [
-        "VOYAGER",
-        "APOLLO",
-        "HUBBLE",
-        "CASSINI"
+        "MONOPOLY",
+        "RISK",
+        "LUDO",
+        "SETTLERS OF CATAN"
       ]
     },
     {
-      "name": "ASTRONOMICAL PHENOMENA",
+      "name": "WORD GAMES",
       "color": "blue",
       "words": [
-        "SOLAR FLARE",
-        "AURORA BOREALIS",
-        "SUPERNOVA",
-        "BLACK HOLE"
+        "SCRABBLE",
+        "BOGGLE",
+        "UPWORDS",
+        "BANANAGRAMS"
       ]
     },
     {
-      "name": "PROMINENT CONSTELLATIONS",
+      "name": "TILE LAYING",
       "color": "purple",
       "words": [
-        "ORION",
-        "CASSIOPEIA",
-        "ANDROMEDA",
-        "CYGNUS"
+        "CARCASSONNE",
+        "AZUL",
+        "DOMINOES",
+        "MAHJONG"
       ]
     }
   ]
