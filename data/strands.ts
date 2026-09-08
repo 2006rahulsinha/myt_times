@@ -1,85 +1,85 @@
 export const strandsData = {
-  "themeClue": "Roll the dice",
+  "themeClue": "Roll, move, win",
   "grid": [
     [
+      "A",
       "B",
-      "A",
-      "R",
-      "D",
-      "G",
-      "A",
-      "M",
-      "E"
-    ],
-    [
-      "O",
-      "M",
-      "A",
-      "G",
-      "Z",
-      "Z",
-      "S",
-      "S"
-    ],
-    [
       "E",
-      "A",
-      "A",
-      "R",
-      "E",
-      "L",
-      "U",
-      "T"
-    ],
-    [
-      "G",
-      "M",
-      "O",
-      "D",
-      "C",
-      "E",
-      "P",
-      "R"
-    ],
-    [
-      "R",
-      "E",
-      "B",
       "I",
-      "S",
-      "S",
+      "D",
       "L",
+      "G",
+      "N"
+    ],
+    [
+      "G",
+      "G",
+      "A",
+      "C",
+      "S",
+      "A",
+      "P",
+      "I"
+    ],
+    [
+      "O",
+      "B",
+      "E",
+      "M",
+      "R",
+      "Y",
+      "M",
       "A"
     ],
     [
-      "O",
-      "Y",
-      "D",
-      "V",
-      "R",
       "A",
-      "P",
-      "T"
+      "D",
+      "S",
+      "T",
+      "E",
+      "B",
+      "G",
+      "D"
     ],
     [
-      "T",
-      "C",
-      "I",
+      "R",
       "E",
-      "Y",
-      "Y",
+      "T",
+      "A",
+      "R",
+      "O",
+      "A",
+      "R"
+    ],
+    [
       "G",
-      "E"
+      "C",
+      "R",
+      "E",
+      "P",
+      "U",
+      "Z",
+      "S"
+    ],
+    [
+      "Y",
+      "A",
+      "D",
+      "S",
+      "T",
+      "Z",
+      "E",
+      "L"
     ]
   ],
   "answers": [
-    "BOARDGAMES",
-    "STRATEGY",
+    "BOARDGAMING",
     "PLAYERS",
-    "PUZZLES",
-    "VICTORY",
-    "DICEGAME",
-    "GAMEBOARD"
+    "DICEBAG",
+    "GAMEBOARD",
+    "STRATEGY",
+    "CARDSET",
+    "PUZZLES"
   ],
-  "spangram": "BOARDGAMES"
+  "spangram": "BOARDGAMING"
 };

@@ -1,43 +1,43 @@
 export const connectionsData = {
   "groups": [
     {
-      "name": "CLASSIC STRATEGY",
+      "name": "MONOPOLY TOKENS",
       "color": "yellow",
       "words": [
-        "CHESS",
-        "CHECKERS",
-        "GO",
-        "BACKGAMMON"
+        "TOPHAT",
+        "DOG",
+        "CAR",
+        "THIMBLE"
       ]
     },
     {
-      "name": "DICE ROLLERS",
+      "name": "EUROGAME DESIGNERS",
       "color": "green",
       "words": [
-        "MONOPOLY",
-        "RISK",
-        "LUDO",
-        "SETTLERS OF CATAN"
+        "REINER",
+        "UWE",
+        "WOLFGANG",
+        "JEROEN"
       ]
     },
     {
-      "name": "WORD GAMES",
+      "name": "DICE ROLLING GAMES",
       "color": "blue",
       "words": [
-        "SCRABBLE",
-        "BOGGLE",
-        "UPWORDS",
-        "BANANAGRAMS"
+        "YAHTZEE",
+        "BACKGAMMON",
+        "LIARSDICE",
+        "RISK"
       ]
     },
     {
-      "name": "TILE LAYING",
+      "name": "DECKBUILDING GAMES",
       "color": "purple",
       "words": [
-        "CARCASSONNE",
-        "AZUL",
-        "DOMINOES",
-        "MAHJONG"
+        "DOMINION",
+        "ASCENSION",
+        "MARVELLEGENDARY",
+        "STARREALMS"
       ]
     }
   ]
