@@ -1,85 +1,85 @@
 export const strandsData = {
-  "themeClue": "Roll, move, win",
+  "themeClue": "Notes woven together",
   "grid": [
     [
-      "A",
-      "B",
-      "E",
       "I",
-      "D",
-      "L",
-      "G",
-      "N"
+      "C",
+      "E",
+      "A",
+      "T",
+      "S",
+      "T",
+      "E"
     ],
     [
-      "G",
-      "G",
-      "A",
+      "D",
+      "B",
       "C",
-      "S",
-      "A",
-      "P",
-      "I"
+      "N",
+      "O",
+      "C",
+      "O",
+      "M"
     ],
     [
       "O",
-      "B",
       "E",
-      "M",
-      "R",
+      "T",
       "Y",
       "M",
+      "Y",
+      "L",
+      "P"
+    ],
+    [
+      "L",
+      "R",
+      "S",
+      "P",
+      "O",
+      "C",
+      "R",
       "A"
     ],
     [
+      "E",
+      "M",
+      "H",
       "A",
-      "D",
+      "R",
       "S",
-      "T",
-      "E",
-      "B",
-      "G",
-      "D"
-    ],
-    [
-      "R",
-      "E",
-      "T",
-      "A",
-      "R",
-      "O",
-      "A",
+      "I",
       "R"
     ],
     [
-      "G",
-      "C",
+      "Y",
+      "O",
       "R",
-      "E",
-      "P",
-      "U",
-      "Z",
+      "O",
+      "C",
+      "C",
+      "T",
       "S"
     ],
     [
-      "Y",
+      "N",
+      "H",
       "A",
-      "D",
-      "S",
-      "T",
-      "Z",
-      "E",
-      "L"
+      "M",
+      "N",
+      "I",
+      "H",
+      "E"
     ]
   ],
   "answers": [
-    "BOARDGAMING",
-    "PLAYERS",
-    "DICEBAG",
-    "GAMEBOARD",
-    "STRATEGY",
-    "CARDSET",
-    "PUZZLES"
+    "MELODICBEATS",
+    "TEMPO",
+    "CONCERT",
+    "SYMPHONY",
+    "HARMONICA",
+    "ORCHESTRA",
+    "LYRICS"
   ],
-  "spangram": "BOARDGAMING"
+  "spangram": "MELODICBEATS"
 };

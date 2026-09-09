@@ -1,43 +1,43 @@
 export const connectionsData = {
   "groups": [
     {
-      "name": "MONOPOLY TOKENS",
+      "name": "CLASSICAL COMPOSERS",
       "color": "yellow",
       "words": [
-        "TOPHAT",
-        "DOG",
-        "CAR",
-        "THIMBLE"
+        "MOZART",
+        "BEETHOVEN",
+        "BACH",
+        "CHOPIN"
       ]
     },
     {
-      "name": "EUROGAME DESIGNERS",
+      "name": "MUSIC GENRES",
       "color": "green",
       "words": [
-        "REINER",
-        "UWE",
-        "WOLFGANG",
-        "JEROEN"
+        "JAZZ",
+        "BLUES",
+        "REGGAE",
+        "HIP HOP"
       ]
     },
     {
-      "name": "DICE ROLLING GAMES",
+      "name": "STRING INSTRUMENTS",
       "color": "blue",
       "words": [
-        "YAHTZEE",
-        "BACKGAMMON",
-        "LIARSDICE",
-        "RISK"
+        "VIOLIN",
+        "CELLO",
+        "VIOLA",
+        "DOUBLE BASS"
       ]
     },
     {
-      "name": "DECKBUILDING GAMES",
+      "name": "MUSICAL NOTATION",
       "color": "purple",
       "words": [
-        "DOMINION",
-        "ASCENSION",
-        "MARVELLEGENDARY",
-        "STARREALMS"
+        "TREBLE CLEF",
+        "BASS CLEF",
+        "SHARP",
+        "FLAT"
       ]
     }
   ]
