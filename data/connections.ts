@@ -1,43 +1,43 @@
 export const connectionsData = {
   "groups": [
     {
-      "name": "CLASSICAL COMPOSERS",
+      "name": "OSCAR BEST PICTURE WINNERS",
       "color": "yellow",
       "words": [
-        "MOZART",
-        "BEETHOVEN",
-        "BACH",
-        "CHOPIN"
+        "CASABLANCA",
+        "GONE WITH THE WIND",
+        "THE GODFATHER",
+        "SPOTLIGHT"
       ]
     },
     {
-      "name": "MUSIC GENRES",
+      "name": "FILM GENRES",
       "color": "green",
       "words": [
-        "JAZZ",
-        "BLUES",
-        "REGGAE",
-        "HIP HOP"
+        "FILM NOIR",
+        "ROMANTIC COMEDY",
+        "SCI FI",
+        "WESTERN"
       ]
     },
     {
-      "name": "STRING INSTRUMENTS",
+      "name": "FAMOUS DIRECTORS",
       "color": "blue",
       "words": [
-        "VIOLIN",
-        "CELLO",
-        "VIOLA",
-        "DOUBLE BASS"
+        "ALFRED HITCHCOCK",
+        "STEVEN SPIELBERG",
+        "KATHRYN BIGELOW",
+        "HAYAO MIYAZAKI"
       ]
     },
     {
-      "name": "MUSICAL NOTATION",
+      "name": "ICONIC FILM CHARACTERS",
       "color": "purple",
       "words": [
-        "TREBLE CLEF",
-        "BASS CLEF",
-        "SHARP",
-        "FLAT"
+        "JAMES BOND",
+        "INDIANA JONES",
+        "DARTH VADER",
+        "FORREST GUMP"
       ]
     }
   ]

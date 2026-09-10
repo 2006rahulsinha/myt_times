@@ -1,85 +1,85 @@
 export const strandsData = {
-  "themeClue": "Notes woven together",
+  "themeClue": "Movie magic",
   "grid": [
     [
       "I",
-      "C",
+      "N",
       "E",
-      "A",
+      "R",
       "T",
-      "S",
-      "T",
-      "E"
+      "R",
+      "R",
+      "C"
     ],
     [
+      "L",
       "D",
-      "B",
-      "C",
-      "N",
-      "O",
       "C",
       "O",
+      "A",
+      "E",
+      "A",
       "M"
     ],
     [
-      "O",
+      "Y",
+      "I",
       "E",
       "T",
-      "Y",
-      "M",
-      "Y",
-      "L",
-      "P"
-    ],
-    [
-      "L",
-      "R",
-      "S",
-      "P",
-      "O",
-      "C",
-      "R",
-      "A"
-    ],
-    [
-      "E",
-      "M",
-      "H",
-      "A",
-      "R",
-      "S",
       "I",
+      "L",
+      "E",
       "R"
     ],
     [
-      "Y",
       "O",
       "R",
-      "O",
-      "C",
-      "C",
-      "T",
-      "S"
+      "R",
+      "E",
+      "S",
+      "R",
+      "A",
+      "A"
     ],
     [
+      "O",
+      "T",
+      "S",
       "N",
-      "H",
-      "A",
-      "M",
-      "N",
+      "E",
+      "C",
       "I",
-      "H",
-      "E"
+      "N"
+    ],
+    [
+      "C",
+      "R",
+      "N",
+      "Y",
+      "P",
+      "M",
+      "T",
+      "O"
+    ],
+    [
+      "P",
+      "O",
+      "P",
+      "A",
+      "L",
+      "A",
+      "I",
+      "N"
     ]
   ],
   "answers": [
-    "MELODICBEATS",
-    "TEMPO",
-    "CONCERT",
-    "SYMPHONY",
-    "HARMONICA",
-    "ORCHESTRA",
-    "LYRICS"
+    "SCREENPLAY",
+    "POPCORN",
+    "STORYLINE",
+    "DIRECTOR",
+    "TRAILER",
+    "CAMERA",
+    "ANIMATION"
   ],
-  "spangram": "MELODICBEATS"
+  "spangram": "SCREENPLAY"
 };

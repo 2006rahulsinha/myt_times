@@ -1,6 +1,7 @@
 export const wordleData = {
-  "answer": "CHORD",
+  "answer": "ACTOR",
   "validGuesses": [
+    "ACTOR",
     "ADORE",
     "ALIEN",
     "AMAZE",
