@@ -1,85 +1,85 @@
 export const strandsData = {
-  "themeClue": "Movie magic",
+  "themeClue": "Prehistoric reptile giants",
   "grid": [
     [
-      "I",
-      "N",
       "E",
-      "R",
-      "T",
-      "R",
+      "G",
+      "O",
+      "S",
+      "A",
+      "U",
       "R",
       "C"
     ],
     [
-      "L",
-      "D",
-      "C",
-      "O",
       "A",
-      "E",
-      "A",
-      "M"
+      "M",
+      "N",
+      "S",
+      "S",
+      "I",
+      "N",
+      "A"
     ],
     [
+      "F",
+      "I",
+      "O",
+      "I",
+      "R",
       "Y",
+      "V",
+      "R"
+    ],
+    [
+      "A",
+      "D",
+      "F",
+      "L",
+      "B",
+      "R",
+      "H",
+      "O"
+    ],
+    [
+      "U",
+      "L",
+      "N",
       "I",
       "E",
-      "T",
-      "I",
-      "L",
+      "R",
       "E",
       "R"
     ],
     [
-      "O",
-      "R",
-      "R",
-      "E",
-      "S",
-      "R",
-      "A",
-      "A"
-    ],
-    [
-      "O",
-      "T",
-      "S",
       "N",
-      "E",
-      "C",
-      "I",
-      "N"
-    ],
-    [
-      "C",
-      "R",
-      "N",
-      "Y",
-      "P",
-      "M",
-      "T",
-      "O"
-    ],
-    [
-      "P",
       "O",
-      "P",
-      "A",
-      "L",
-      "A",
       "I",
-      "N"
+      "A",
+      "V",
+      "O",
+      "U",
+      "E"
+    ],
+    [
+      "A",
+      "F",
+      "S",
+      "S",
+      "I",
+      "R",
+      "A",
+      "S"
     ]
   ],
   "answers": [
-    "SCREENPLAY",
-    "POPCORN",
-    "STORYLINE",
-    "DIRECTOR",
-    "TRAILER",
-    "CAMERA",
-    "ANIMATION"
+    "MEGAFAUNA",
+    "FOSSIL",
+    "DINOSAUR",
+    "CARNIVORE",
+    "SAURIAN",
+    "FOSSILRY",
+    "HERBIVORE"
   ],
-  "spangram": "SCREENPLAY"
+  "spangram": "MEGAFAUNA"
 };

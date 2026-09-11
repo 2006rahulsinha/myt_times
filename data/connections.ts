@@ -1,43 +1,43 @@
 export const connectionsData = {
   "groups": [
     {
-      "name": "OSCAR BEST PICTURE WINNERS",
+      "name": "THEROPOD PREDATORS",
       "color": "yellow",
       "words": [
-        "CASABLANCA",
-        "GONE WITH THE WIND",
-        "THE GODFATHER",
-        "SPOTLIGHT"
+        "TYRANNOSAURUS",
+        "VELOCIRAPTOR",
+        "ALLOSAURUS",
+        "SPINOSAURUS"
       ]
     },
     {
-      "name": "FILM GENRES",
+      "name": "HERBIVOROUS GIANTS",
       "color": "green",
       "words": [
-        "FILM NOIR",
-        "ROMANTIC COMEDY",
-        "SCI FI",
-        "WESTERN"
+        "TRICERATOPS",
+        "BRACHIOSAURUS",
+        "ANKYLOSAURUS",
+        "STEGOSAURUS"
       ]
     },
     {
-      "name": "FAMOUS DIRECTORS",
+      "name": "GEOLOGIC PERIODS",
       "color": "blue",
       "words": [
-        "ALFRED HITCHCOCK",
-        "STEVEN SPIELBERG",
-        "KATHRYN BIGELOW",
-        "HAYAO MIYAZAKI"
+        "TRIASSIC",
+        "JURASSIC",
+        "CRETACEOUS",
+        "PERMIAN"
       ]
     },
     {
-      "name": "ICONIC FILM CHARACTERS",
+      "name": "DINOSAUR MOVIE TITLES",
       "color": "purple",
       "words": [
-        "JAMES BOND",
-        "INDIANA JONES",
-        "DARTH VADER",
-        "FORREST GUMP"
+        "JURASSIC PARK",
+        "THE LOST WORLD",
+        "DINOSAUR",
+        "LAND BEFORE TIME"
       ]
     }
   ]
