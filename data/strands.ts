@@ -1,85 +1,85 @@
 export const strandsData = {
-  "themeClue": "Prehistoric reptile giants",
+  "themeClue": "Gold leaves fall",
   "grid": [
     [
-      "E",
-      "G",
+      "F",
+      "L",
+      "L",
+      "F",
       "O",
-      "S",
-      "A",
-      "U",
-      "R",
-      "C"
-    ],
-    [
-      "A",
-      "M",
-      "N",
-      "S",
-      "S",
+      "L",
       "I",
-      "N",
       "A"
     ],
     [
-      "F",
-      "I",
-      "O",
-      "I",
-      "R",
-      "Y",
+      "A",
+      "S",
+      "T",
+      "S",
+      "E",
       "V",
-      "R"
+      "E",
+      "G"
     ],
     [
+      "P",
+      "U",
       "A",
-      "D",
       "F",
-      "L",
-      "B",
+      "E",
+      "A",
       "R",
+      "H"
+    ],
+    [
+      "M",
+      "E",
+      "C",
+      "W",
+      "T",
+      "R",
+      "C",
+      "A"
+    ],
+    [
+      "P",
+      "L",
+      "R",
+      "S",
+      "E",
+      "R",
+      "S",
+      "P"
+    ],
+    [
+      "K",
+      "S",
+      "K",
+      "U",
       "H",
-      "O"
-    ],
-    [
-      "U",
-      "L",
-      "N",
       "I",
-      "E",
-      "R",
-      "E",
-      "R"
-    ],
-    [
       "N",
-      "O",
-      "I",
-      "A",
-      "V",
-      "O",
-      "U",
       "E"
     ],
     [
-      "A",
-      "F",
-      "S",
-      "S",
       "I",
-      "R",
+      "N",
+      "O",
       "A",
+      "N",
+      "C",
+      "S",
       "S"
     ]
   ],
   "answers": [
-    "MEGAFAUNA",
-    "FOSSIL",
-    "DINOSAUR",
-    "CARNIVORE",
-    "SAURIAN",
-    "FOSSILRY",
-    "HERBIVORE"
+    "FALLFOLIAGE",
+    "HARVESTS",
+    "PUMPKINS",
+    "OAKLEAF",
+    "CRUNCH",
+    "SWEATER",
+    "CRISPNESS"
   ],
-  "spangram": "MEGAFAUNA"
+  "spangram": "FALLFOLIAGE"
 };

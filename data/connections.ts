@@ -1,43 +1,43 @@
 export const connectionsData = {
   "groups": [
     {
-      "name": "THEROPOD PREDATORS",
+      "name": "AUTUMN COLORS",
       "color": "yellow",
       "words": [
-        "TYRANNOSAURUS",
-        "VELOCIRAPTOR",
-        "ALLOSAURUS",
-        "SPINOSAURUS"
+        "CRIMSON",
+        "AMBER",
+        "GOLDEN",
+        "RUST"
       ]
     },
     {
-      "name": "HERBIVOROUS GIANTS",
+      "name": "HARVEST FOODS",
       "color": "green",
       "words": [
-        "TRICERATOPS",
-        "BRACHIOSAURUS",
-        "ANKYLOSAURUS",
-        "STEGOSAURUS"
+        "PUMPKIN",
+        "APPLE",
+        "SQUASH",
+        "CRANBERRY"
       ]
     },
     {
-      "name": "GEOLOGIC PERIODS",
+      "name": "FALL TRADITIONS",
       "color": "blue",
       "words": [
-        "TRIASSIC",
-        "JURASSIC",
-        "CRETACEOUS",
-        "PERMIAN"
+        "HALLOWEEN",
+        "THANKSGIVING",
+        "BONFIRE",
+        "LEAFPEEPING"
       ]
     },
     {
-      "name": "DINOSAUR MOVIE TITLES",
+      "name": "SEASONAL WEATHER",
       "color": "purple",
       "words": [
-        "JURASSIC PARK",
-        "THE LOST WORLD",
-        "DINOSAUR",
-        "LAND BEFORE TIME"
+        "CHILL",
+        "FOG",
+        "RAIN",
+        "GUST"
       ]
     }
   ]
