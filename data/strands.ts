@@ -1,85 +1,85 @@
 export const strandsData = {
-  "themeClue": "Gold leaves fall",
+  "themeClue": "Roll, move, win",
   "grid": [
     [
-      "F",
-      "L",
-      "L",
-      "F",
+      "C",
+      "E",
+      "H",
+      "C",
+      "S",
       "O",
-      "L",
-      "I",
-      "A"
-    ],
-    [
-      "A",
-      "S",
       "T",
-      "S",
-      "E",
-      "V",
-      "E",
-      "G"
+      "L"
     ],
     [
-      "P",
-      "U",
+      "K",
+      "M",
       "A",
-      "F",
+      "Y",
       "E",
+      "N",
+      "K",
+      "L"
+    ],
+    [
       "A",
+      "L",
+      "O",
+      "A",
+      "D",
       "R",
-      "H"
+      "E",
+      "O"
     ],
     [
+      "T",
+      "P",
+      "B",
+      "R",
+      "G",
+      "A",
+      "S",
+      "R"
+    ],
+    [
+      "E",
+      "Y",
+      "E",
+      "S",
       "M",
       "E",
       "C",
-      "W",
-      "T",
-      "R",
-      "C",
-      "A"
-    ],
-    [
-      "P",
-      "L",
-      "R",
-      "S",
-      "E",
-      "R",
-      "S",
-      "P"
-    ],
-    [
-      "K",
-      "S",
-      "K",
-      "U",
-      "H",
-      "I",
-      "N",
       "E"
     ],
     [
-      "I",
-      "N",
-      "O",
-      "A",
-      "N",
-      "C",
       "S",
-      "S"
+      "A",
+      "G",
+      "M",
+      "A",
+      "G",
+      "A",
+      "C"
+    ],
+    [
+      "T",
+      "R",
+      "T",
+      "E",
+      "D",
+      "R",
+      "D",
+      "I"
     ]
   ],
   "answers": [
-    "FALLFOLIAGE",
-    "HARVESTS",
-    "PUMPKINS",
-    "OAKLEAF",
-    "CRUNCH",
-    "SWEATER",
-    "CRISPNESS"
+    "DICEROLL",
+    "TOKENS",
+    "CHECKMATE",
+    "STRATEGY",
+    "PLAYERS",
+    "CARDGAMES",
+    "BOARDGAME"
   ],
-  "spangram": "FALLFOLIAGE"
+  "spangram": "DICEROLL"
 };

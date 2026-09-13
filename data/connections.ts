@@ -1,43 +1,43 @@
 export const connectionsData = {
   "groups": [
     {
-      "name": "AUTUMN COLORS",
+      "name": "EUROGAME CLASSICS",
       "color": "yellow",
       "words": [
-        "CRIMSON",
-        "AMBER",
-        "GOLDEN",
-        "RUST"
+        "CATAN",
+        "CARCASSONNE",
+        "TICKET TO RIDE",
+        "PANDEMIC"
       ]
     },
     {
-      "name": "HARVEST FOODS",
+      "name": "AMERITRASH CLASSICS",
       "color": "green",
       "words": [
-        "PUMPKIN",
-        "APPLE",
-        "SQUASH",
-        "CRANBERRY"
+        "RISK",
+        "MONOPOLY",
+        "CLUE",
+        "AXIS AND ALLIES"
       ]
     },
     {
-      "name": "FALL TRADITIONS",
+      "name": "GAME MECHANICS",
       "color": "blue",
       "words": [
-        "HALLOWEEN",
-        "THANKSGIVING",
-        "BONFIRE",
-        "LEAFPEEPING"
+        "DECK BUILDING",
+        "WORKER PLACEMENT",
+        "AREA CONTROL",
+        "SET COLLECTION"
       ]
     },
     {
-      "name": "SEASONAL WEATHER",
+      "name": "GAME COMPONENTS",
       "color": "purple",
       "words": [
-        "CHILL",
-        "FOG",
-        "RAIN",
-        "GUST"
+        "DICE",
+        "MEEPLE",
+        "CARD",
+        "BOARD"
       ]
     }
   ]
