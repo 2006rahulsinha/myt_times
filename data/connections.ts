@@ -1,43 +1,43 @@
 export const connectionsData = {
   "groups": [
     {
-      "name": "EUROGAME CLASSICS",
+      "name": "OSCAR BEST PICTURE WINNERS",
       "color": "yellow",
       "words": [
-        "CATAN",
-        "CARCASSONNE",
-        "TICKET TO RIDE",
-        "PANDEMIC"
+        "CASABLANCA",
+        "TITANIC",
+        "SPOTLIGHT",
+        "PARASITE"
       ]
     },
     {
-      "name": "AMERITRASH CLASSICS",
+      "name": "FILM GENRES",
       "color": "green",
       "words": [
-        "RISK",
-        "MONOPOLY",
-        "CLUE",
-        "AXIS AND ALLIES"
+        "FILM NOIR",
+        "WESTERN",
+        "SCIENCE FICTION",
+        "MUSICAL"
       ]
     },
     {
-      "name": "GAME MECHANICS",
+      "name": "FAMOUS DIRECTORS",
       "color": "blue",
       "words": [
-        "DECK BUILDING",
-        "WORKER PLACEMENT",
-        "AREA CONTROL",
-        "SET COLLECTION"
+        "SPIELBERG",
+        "KUBRICK",
+        "ALMODOVAR",
+        "COPPOLA"
       ]
     },
     {
-      "name": "GAME COMPONENTS",
+      "name": "CINEMA TECHNICAL TERMS",
       "color": "purple",
       "words": [
-        "DICE",
-        "MEEPLE",
-        "CARD",
-        "BOARD"
+        "MONTAGE",
+        "FADE",
+        "DOLLY",
+        "CLOSEUP"
       ]
     }
   ]

@@ -1,85 +1,85 @@
 export const strandsData = {
-  "themeClue": "Roll, move, win",
+  "themeClue": "Lights, camera, action",
   "grid": [
     [
-      "C",
-      "E",
-      "H",
-      "C",
-      "S",
-      "O",
       "T",
-      "L"
-    ],
-    [
-      "K",
-      "M",
-      "A",
-      "Y",
-      "E",
-      "N",
-      "K",
-      "L"
-    ],
-    [
-      "A",
+      "O",
+      "F",
+      "I",
       "L",
-      "O",
-      "A",
-      "D",
-      "R",
-      "E",
-      "O"
-    ],
-    [
-      "T",
-      "P",
-      "B",
-      "R",
-      "G",
-      "A",
-      "S",
+      "M",
+      "C",
       "R"
     ],
     [
-      "E",
-      "Y",
-      "E",
-      "S",
-      "M",
-      "E",
       "C",
+      "R",
+      "M",
+      "C",
+      "C",
+      "C",
+      "W",
       "E"
     ],
     [
-      "S",
+      "E",
       "A",
-      "G",
-      "M",
+      "E",
       "A",
-      "G",
+      "I",
+      "T",
       "A",
-      "C"
+      "S"
     ],
     [
-      "T",
       "R",
+      "N",
+      "R",
+      "G",
+      "A",
+      "I",
       "T",
+      "T"
+    ],
+    [
+      "I",
+      "I",
+      "E",
+      "M",
+      "O",
+      "O",
+      "H",
+      "I"
+    ],
+    [
       "E",
       "D",
+      "C",
+      "N",
       "R",
-      "D",
-      "I"
+      "G",
+      "E",
+      "V"
+    ],
+    [
+      "N",
+      "I",
+      "L",
+      "Y",
+      "I",
+      "N",
+      "M",
+      "O"
     ]
   ],
   "answers": [
-    "DICEROLL",
-    "TOKENS",
-    "CHECKMATE",
-    "STRATEGY",
-    "PLAYERS",
-    "CARDGAMES",
-    "BOARDGAME"
+    "MOVIENIGHT",
+    "STORYLINE",
+    "DIRECTOR",
+    "FILMCREW",
+    "ACTION",
+    "CINEMAGIC",
+    "CAMERA"
   ],
-  "spangram": "DICEROLL"
+  "spangram": "MOVIENIGHT"
 };
