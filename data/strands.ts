@@ -1,85 +1,85 @@
 export const strandsData = {
-  "themeClue": "Lights, camera, action",
+  "themeClue": "Intertwined natural wonders",
   "grid": [
     [
-      "T",
-      "O",
+      "G",
+      "R",
+      "I",
+      "N",
+      "N",
+      "H",
+      "S",
+      "N"
+    ],
+    [
+      "E",
+      "A",
+      "W",
+      "A",
       "F",
       "I",
-      "L",
-      "M",
-      "C",
-      "R"
-    ],
-    [
-      "C",
-      "R",
-      "M",
-      "C",
-      "C",
-      "C",
-      "W",
-      "E"
-    ],
-    [
-      "E",
-      "A",
-      "E",
-      "A",
       "I",
+      "U"
+    ],
+    [
+      "E",
       "T",
+      "I",
+      "L",
+      "L",
       "A",
+      "N",
       "S"
     ],
     [
-      "R",
       "N",
-      "R",
-      "G",
-      "A",
-      "I",
-      "T",
-      "T"
-    ],
-    [
-      "I",
-      "I",
-      "E",
-      "M",
-      "O",
-      "O",
-      "H",
-      "I"
-    ],
-    [
-      "E",
-      "D",
-      "C",
       "N",
-      "R",
-      "G",
-      "E",
-      "V"
-    ],
-    [
-      "N",
-      "I",
       "L",
-      "Y",
+      "L",
+      "R",
+      "E",
+      "E",
+      "A"
+    ],
+    [
+      "H",
+      "O",
+      "U",
+      "D",
       "I",
-      "N",
+      "F",
+      "G",
+      "E"
+    ],
+    [
+      "A",
+      "T",
       "M",
-      "O"
+      "S",
+      "E",
+      "L",
+      "T",
+      "S"
+    ],
+    [
+      "B",
+      "I",
+      "A",
+      "T",
+      "F",
+      "O",
+      "R",
+      "E"
     ]
   ],
   "answers": [
-    "MOVIENIGHT",
-    "STORYLINE",
-    "DIRECTOR",
-    "FILMCREW",
-    "ACTION",
-    "CINEMAGIC",
-    "CAMERA"
+    "GREENHABITAT",
+    "FOREST",
+    "EAGLES",
+    "MOUNTAIN",
+    "WILDLIFE",
+    "SUNSHINE",
+    "RAINFALL"
   ],
-  "spangram": "MOVIENIGHT"
+  "spangram": "GREENHABITAT"
 };
