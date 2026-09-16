@@ -1,85 +1,85 @@
 export const strandsData = {
-  "themeClue": "Intertwined natural wonders",
+  "themeClue": "Prehistoric giants",
   "grid": [
     [
-      "G",
-      "R",
       "I",
-      "N",
-      "N",
-      "H",
+      "L",
       "S",
-      "N"
-    ],
-    [
-      "E",
-      "A",
-      "W",
-      "A",
-      "F",
-      "I",
-      "I",
-      "U"
-    ],
-    [
-      "E",
-      "T",
-      "I",
-      "L",
-      "L",
-      "A",
-      "N",
-      "S"
-    ],
-    [
-      "N",
-      "N",
-      "L",
-      "L",
+      "R",
       "R",
       "E",
-      "E",
-      "A"
+      "P",
+      "T"
     ],
     [
+      "S",
       "H",
       "O",
-      "U",
-      "D",
-      "I",
-      "F",
-      "G",
-      "E"
+      "E",
+      "A",
+      "C",
+      "E",
+      "I"
     ],
     [
-      "A",
-      "T",
+      "S",
+      "E",
+      "V",
+      "R",
+      "I",
+      "V",
+      "O",
+      "L"
+    ],
+    [
+      "O",
+      "R",
+      "I",
+      "N",
+      "G",
+      "E",
       "M",
-      "S",
-      "E",
-      "L",
-      "T",
-      "S"
+      "R"
     ],
     [
-      "B",
-      "I",
-      "A",
-      "T",
       "F",
-      "O",
       "R",
+      "B",
+      "A",
+      "A",
+      "U",
+      "U",
       "E"
+    ],
+    [
+      "N",
+      "D",
+      "U",
+      "F",
+      "N",
+      "A",
+      "A",
+      "R"
+    ],
+    [
+      "I",
+      "O",
+      "S",
+      "A",
+      "A",
+      "S",
+      "I",
+      "N"
     ]
   ],
   "answers": [
-    "GREENHABITAT",
-    "FOREST",
-    "EAGLES",
-    "MOUNTAIN",
-    "WILDLIFE",
-    "SUNSHINE",
-    "RAINFALL"
+    "DINOSAUR",
+    "FOSSILS",
+    "HERBIVORE",
+    "REPTILE",
+    "CARNIVORE",
+    "MEGAFAUNA",
+    "SAURIAN"
   ],
-  "spangram": "GREENHABITAT"
+  "spangram": "DINOSAUR"
 };
