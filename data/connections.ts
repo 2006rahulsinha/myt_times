@@ -1,43 +1,43 @@
 export const connectionsData = {
   "groups": [
     {
-      "name": "THEROPOD PREDATORS",
+      "name": "MARINE MAMMALS",
       "color": "yellow",
       "words": [
-        "TYRANNOSAURUS",
-        "VELOCIRAPTOR",
-        "ALLOSAURUS",
-        "SPINOSAURUS"
+        "WHALE",
+        "DOLPHIN",
+        "SEAL",
+        "MANATEE"
       ]
     },
     {
-      "name": "HERBIVOROUS TITANS",
+      "name": "CORAL REEF CREATURES",
       "color": "green",
       "words": [
-        "BRACHIOSAURUS",
-        "TRICERATOPS",
-        "STEGOSAURUS",
-        "ANKYLOSAURUS"
+        "CLOWNFISH",
+        "SEA ANEMONE",
+        "PARROTFISH",
+        "LIONFISH"
       ]
     },
     {
-      "name": "GEOLOGIC PERIODS",
+      "name": "OCEANIC BIRDS",
       "color": "blue",
       "words": [
-        "TRIASSIC",
-        "JURASSIC",
-        "CRETACEOUS",
-        "PERMIAN"
+        "ALBATROSS",
+        "PELICAN",
+        "GULL",
+        "PUFFIN"
       ]
     },
     {
-      "name": "FAMOUS FOSSIL SITES",
+      "name": "SEA PLANTS",
       "color": "purple",
       "words": [
-        "MORRISON",
-        "HELL CREEK",
-        "SOLNHOFEN",
-        "GOBI"
+        "KELP",
+        "SEAGRASS",
+        "ALGAE",
+        "PHYTOPLANKTON"
       ]
     }
   ]

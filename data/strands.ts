@@ -1,85 +1,85 @@
 export const strandsData = {
-  "themeClue": "Prehistoric giants",
+  "themeClue": "Life beneath the waves",
   "grid": [
     [
       "I",
-      "L",
+      "T",
       "S",
-      "R",
-      "R",
-      "E",
-      "P",
-      "T"
-    ],
-    [
-      "S",
-      "H",
-      "O",
-      "E",
-      "A",
-      "C",
-      "E",
-      "I"
-    ],
-    [
-      "S",
-      "E",
-      "V",
-      "R",
       "I",
-      "V",
+      "C",
       "O",
+      "R",
+      "A"
+    ],
+    [
+      "N",
+      "R",
+      "A",
+      "N",
+      "H",
+      "I",
+      "R",
       "L"
     ],
     [
-      "O",
-      "R",
-      "I",
-      "N",
       "G",
       "E",
-      "M",
-      "R"
-    ],
-    [
+      "J",
+      "Y",
+      "C",
+      "S",
       "F",
-      "R",
-      "B",
-      "A",
-      "A",
-      "U",
-      "U",
       "E"
     ],
     [
-      "N",
       "D",
-      "U",
-      "F",
-      "N",
-      "A",
-      "A",
-      "R"
+      "P",
+      "O",
+      "E",
+      "R",
+      "H",
+      "R",
+      "E"
     ],
     [
       "I",
       "O",
+      "L",
+      "L",
+      "U",
+      "A",
+      "R",
+      "F"
+    ],
+    [
+      "H",
+      "T",
+      "F",
+      "L",
+      "T",
       "S",
-      "A",
-      "A",
+      "O",
+      "S"
+    ],
+    [
       "S",
       "I",
-      "N"
+      "Y",
+      "S",
+      "E",
+      "H",
+      "A",
+      "E"
     ]
   ],
   "answers": [
-    "DINOSAUR",
-    "FOSSILS",
-    "HERBIVORE",
-    "REPTILE",
-    "CARNIVORE",
-    "MEGAFAUNA",
-    "SAURIAN"
+    "CORALREEF",
+    "SEAHORSE",
+    "STARFISH",
+    "URCHIN",
+    "STINGRAY",
+    "JELLYFISH",
+    "TIDEPOOL"
   ],
-  "spangram": "DINOSAUR"
+  "spangram": "CORALREEF"
 };
