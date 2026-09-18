@@ -1,43 +1,43 @@
 export const connectionsData = {
   "groups": [
     {
-      "name": "MARINE MAMMALS",
+      "name": "MIDDLE EARTH REALMS",
       "color": "yellow",
       "words": [
-        "WHALE",
-        "DOLPHIN",
-        "SEAL",
-        "MANATEE"
+        "SHIRE",
+        "ROHAN",
+        "MORDOR",
+        "GONDOR"
       ]
     },
     {
-      "name": "CORAL REEF CREATURES",
+      "name": "WESTEROS REGIONS",
       "color": "green",
       "words": [
-        "CLOWNFISH",
-        "SEA ANEMONE",
-        "PARROTFISH",
-        "LIONFISH"
+        "WINTERFELL",
+        "KINGS LANDING",
+        "THE WALL",
+        "DORNE"
       ]
     },
     {
-      "name": "OCEANIC BIRDS",
+      "name": "NARNIA LOCATIONS",
       "color": "blue",
       "words": [
-        "ALBATROSS",
-        "PELICAN",
-        "GULL",
-        "PUFFIN"
+        "CAIR PARAVEL",
+        "LANTERN WASTE",
+        "SILVER SEA",
+        "STONE TABLE"
       ]
     },
     {
-      "name": "SEA PLANTS",
+      "name": "DISCWORLD AREAS",
       "color": "purple",
       "words": [
-        "KELP",
-        "SEAGRASS",
-        "ALGAE",
-        "PHYTOPLANKTON"
+        "ANKH MORPORK",
+        "UNSEEN UNIVERSITY",
+        "LANCRE",
+        "STO LAT"
       ]
     }
   ]

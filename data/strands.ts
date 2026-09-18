@@ -1,85 +1,84 @@
 export const strandsData = {
-  "themeClue": "Life beneath the waves",
+  "themeClue": "Mystic realms await",
   "grid": [
     [
-      "I",
-      "T",
-      "S",
-      "I",
-      "C",
-      "O",
+      "E",
+      "N",
+      "Y",
+      "W",
+      "L",
+      "L",
       "R",
-      "A"
+      "T"
     ],
     [
-      "N",
+      "S",
+      "T",
+      "O",
       "R",
-      "A",
       "N",
+      "K",
+      "O",
+      "K"
+    ],
+    [
+      "O",
+      "M",
       "H",
+      "T",
+      "M",
       "I",
-      "R",
+      "L",
       "L"
     ],
     [
-      "G",
+      "R",
+      "A",
+      "M",
       "E",
-      "J",
-      "Y",
+      "S",
+      "O",
+      "M",
+      "A"
+    ],
+    [
+      "R",
+      "T",
+      "R",
+      "L",
+      "F",
+      "E",
+      "R",
+      "E"
+    ],
+    [
       "C",
-      "S",
-      "F",
-      "E"
-    ],
-    [
-      "D",
-      "P",
-      "O",
       "E",
-      "R",
-      "H",
-      "R",
-      "E"
-    ],
-    [
-      "I",
-      "O",
-      "L",
-      "L",
-      "U",
       "A",
-      "R",
-      "F"
-    ],
-    [
-      "H",
-      "T",
-      "F",
+      "N",
       "L",
-      "T",
-      "S",
-      "O",
-      "S"
+      "L",
+      "M",
+      "G"
     ],
     [
-      "S",
-      "I",
-      "Y",
-      "S",
+      "A",
+      "N",
       "E",
-      "H",
+      "F",
       "A",
-      "E"
+      "C",
+      "I",
+      "A"
     ]
   ],
   "answers": [
-    "CORALREEF",
-    "SEAHORSE",
-    "STARFISH",
-    "URCHIN",
-    "STINGRAY",
-    "JELLYFISH",
-    "TIDEPOOL"
+    "MAGICALREALM",
+    "ELFENFOLK",
+    "TROLLKIN",
+    "WYRMSTONE",
+    "STORMHELM",
+    "ARCANEART"
   ],
-  "spangram": "CORALREEF"
+  "spangram": "MAGICALREALM"
 };
