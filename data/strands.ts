@@ -1,84 +1,85 @@
 export const strandsData = {
-  "themeClue": "Mystic realms await",
+  "themeClue": "Under the stars",
   "grid": [
     [
-      "E",
       "N",
-      "Y",
-      "W",
-      "L",
-      "L",
+      "G",
+      "I",
       "R",
+      "E",
+      "P",
+      "I",
       "T"
     ],
     [
-      "S",
-      "T",
-      "O",
-      "R",
-      "N",
-      "K",
-      "O",
-      "K"
-    ],
-    [
-      "O",
-      "M",
-      "H",
-      "T",
-      "M",
       "I",
+      "F",
+      "T",
+      "E",
       "L",
-      "L"
+      "K",
+      "L",
+      "T"
     ],
     [
+      "P",
+      "A",
+      "A",
+      "L",
       "R",
       "A",
-      "M",
-      "E",
-      "S",
-      "O",
-      "M",
-      "A"
+      "A",
+      "R"
     ],
     [
-      "R",
-      "T",
-      "R",
+      "M",
+      "W",
       "L",
       "F",
       "E",
+      "N",
+      "W",
+      "A"
+    ],
+    [
+      "C",
+      "A",
+      "N",
       "R",
+      "T",
+      "L",
+      "I",
       "E"
     ],
     [
-      "C",
-      "E",
       "A",
-      "N",
-      "L",
-      "L",
-      "M",
-      "G"
+      "K",
+      "C",
+      "A",
+      "B",
+      "D",
+      "A",
+      "H"
     ],
     [
-      "A",
-      "N",
-      "E",
-      "F",
-      "A",
+      "P",
+      "K",
       "C",
+      "T",
+      "R",
+      "A",
       "I",
-      "A"
+      "L"
     ]
   ],
   "answers": [
-    "MAGICALREALM",
-    "ELFENFOLK",
-    "TROLLKIN",
-    "WYRMSTONE",
-    "STORMHELM",
-    "ARCANEART"
+    "TRAILHEAD",
+    "BACKPACK",
+    "CAMPING",
+    "FIREPIT",
+    "TRAILWALK",
+    "LANTERN",
+    "WATERFALL"
   ],
-  "spangram": "MAGICALREALM"
+  "spangram": "TRAILHEAD"
 };

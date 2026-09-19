@@ -1,43 +1,43 @@
 export const connectionsData = {
   "groups": [
     {
-      "name": "MIDDLE EARTH REALMS",
+      "name": "TENT TYPES",
       "color": "yellow",
       "words": [
-        "SHIRE",
-        "ROHAN",
-        "MORDOR",
-        "GONDOR"
+        "DOME",
+        "CABIN",
+        "TUNNEL",
+        "POPUP"
       ]
     },
     {
-      "name": "WESTEROS REGIONS",
+      "name": "GEAR ESSENTIALS",
       "color": "green",
       "words": [
-        "WINTERFELL",
-        "KINGS LANDING",
-        "THE WALL",
-        "DORNE"
+        "SLEEPING BAG",
+        "CAMPING STOVE",
+        "BACKPACK",
+        "LANTERN"
       ]
     },
     {
-      "name": "NARNIA LOCATIONS",
+      "name": "OUTDOOR ACTIVITIES",
       "color": "blue",
       "words": [
-        "CAIR PARAVEL",
-        "LANTERN WASTE",
-        "SILVER SEA",
-        "STONE TABLE"
+        "HIKING",
+        "FISHING",
+        "KAYAKING",
+        "BIRDWATCHING"
       ]
     },
     {
-      "name": "DISCWORLD AREAS",
+      "name": "CAMPFIRE FOOD",
       "color": "purple",
       "words": [
-        "ANKH MORPORK",
-        "UNSEEN UNIVERSITY",
-        "LANCRE",
-        "STO LAT"
+        "MARSHMALLOWS",
+        "HOT DOGS",
+        "CORN ON THE COB",
+        "BAKED BEANS"
       ]
     }
   ]
