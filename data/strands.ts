@@ -1,85 +1,85 @@
 export const strandsData = {
-  "themeClue": "Under the stars",
+  "themeClue": "Stir, simmer, and savor",
   "grid": [
     [
-      "N",
-      "G",
-      "I",
-      "R",
+      "D",
       "E",
-      "P",
-      "I",
-      "T"
-    ],
-    [
-      "I",
-      "F",
+      "S",
+      "R",
+      "D",
+      "E",
       "T",
-      "E",
-      "L",
-      "K",
-      "L",
-      "T"
-    ],
-    [
-      "P",
-      "A",
-      "A",
-      "L",
-      "R",
-      "A",
-      "A",
-      "R"
-    ],
-    [
-      "M",
-      "W",
-      "L",
-      "F",
-      "E",
-      "N",
-      "W",
-      "A"
-    ],
-    [
-      "C",
-      "A",
-      "N",
-      "R",
-      "T",
-      "L",
-      "I",
       "E"
     ],
     [
       "A",
-      "K",
-      "C",
-      "A",
+      "S",
       "B",
-      "D",
+      "O",
       "A",
-      "H"
-    ],
-    [
-      "P",
-      "K",
-      "C",
-      "T",
       "R",
       "A",
+      "G"
+    ],
+    [
+      "N",
       "I",
-      "L"
+      "R",
+      "C",
+      "B",
+      "E",
+      "B",
+      "E"
+    ],
+    [
+      "B",
+      "I",
+      "M",
+      "E",
+      "C",
+      "L",
+      "V",
+      "I"
+    ],
+    [
+      "E",
+      "O",
+      "R",
+      "M",
+      "P",
+      "O",
+      "L",
+      "P"
+    ],
+    [
+      "I",
+      "P",
+      "O",
+      "A",
+      "E",
+      "P",
+      "E",
+      "G"
+    ],
+    [
+      "C",
+      "E",
+      "R",
+      "K",
+      "M",
+      "R",
+      "I",
+      "N"
     ]
   ],
   "answers": [
-    "TRAILHEAD",
-    "BACKPACK",
-    "CAMPING",
-    "FIREPIT",
-    "TRAILWALK",
-    "LANTERN",
-    "WATERFALL"
+    "RECIPEBOOK",
+    "MARINADES",
+    "SIMMERING",
+    "PEPPER",
+    "BROCCOLI",
+    "VEGETABLE",
+    "BREAD"
   ],
-  "spangram": "TRAILHEAD"
+  "spangram": "RECIPEBOOK"
 };
