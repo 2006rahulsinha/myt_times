@@ -1,43 +1,43 @@
 export const connectionsData = {
   "groups": [
     {
-      "name": "HERBS",
+      "name": "CLASSIC EUROGAMES",
       "color": "yellow",
       "words": [
-        "BASIL",
-        "THYME",
-        "OREGANO",
-        "ROSEMARY"
+        "CATAN",
+        "CARCASSONNE",
+        "TICKET TO RIDE",
+        "AGRICOLA"
       ]
     },
     {
-      "name": "COOKING METHODS",
+      "name": "ROLL AND MOVE GAMES",
       "color": "green",
       "words": [
-        "SAUTE",
-        "BRAISE",
-        "GRILL",
-        "STEAM"
+        "MONOPOLY",
+        "THE GAME OF LIFE",
+        "CANDY LAND",
+        "CHUTES AND LADDERS"
       ]
     },
     {
-      "name": "KITCHEN TOOLS",
+      "name": "DECK BUILDING GAMES",
       "color": "blue",
       "words": [
-        "WHISK",
-        "SPATULA",
-        "COLANDER",
-        "PEELER"
+        "DOMINION",
+        "ASCENSION",
+        "MARVEL LEGENDARY",
+        "STAR REALMS"
       ]
     },
     {
-      "name": "PASTA SHAPES",
+      "name": "ABSTRACT STRATEGY GAMES",
       "color": "purple",
       "words": [
-        "SPAGHETTI",
-        "PENNE",
-        "FUSILLI",
-        "RAVIOLI"
+        "CHESS",
+        "GO",
+        "CHECKERS",
+        "BLOKUS"
       ]
     }
   ]

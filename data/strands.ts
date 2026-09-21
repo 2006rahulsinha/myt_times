@@ -1,85 +1,85 @@
 export const strandsData = {
-  "themeClue": "Stir, simmer, and savor",
+  "themeClue": "Roll the dice, move the piece",
   "grid": [
     [
-      "D",
+      "K",
       "E",
       "S",
-      "R",
-      "D",
-      "E",
-      "T",
-      "E"
-    ],
-    [
-      "A",
-      "S",
-      "B",
-      "O",
-      "A",
-      "R",
-      "A",
-      "G"
-    ],
-    [
-      "N",
-      "I",
-      "R",
-      "C",
-      "B",
-      "E",
-      "B",
-      "E"
-    ],
-    [
-      "B",
-      "I",
-      "M",
-      "E",
-      "C",
-      "L",
-      "V",
-      "I"
-    ],
-    [
-      "E",
-      "O",
-      "R",
-      "M",
       "P",
-      "O",
-      "L",
+      "I",
+      "E",
+      "I",
+      "C"
+    ],
+    [
+      "C",
+      "R",
+      "G",
+      "E",
+      "C",
+      "D",
+      "B",
+      "E"
+    ],
+    [
+      "H",
+      "E",
+      "A",
+      "M",
+      "E",
+      "M",
+      "G",
+      "A"
+    ],
+    [
+      "I",
+      "C",
+      "A",
+      "Y",
+      "D",
+      "E",
+      "E",
       "P"
     ],
     [
+      "E",
+      "S",
+      "L",
+      "P",
       "I",
-      "P",
-      "O",
+      "T",
+      "E",
+      "L"
+    ],
+    [
+      "H",
+      "E",
       "A",
-      "E",
-      "P",
-      "E",
-      "G"
+      "C",
+      "U",
+      "O",
+      "R",
+      "D"
     ],
     [
       "C",
+      "R",
       "E",
+      "P",
       "R",
-      "K",
-      "M",
+      "N",
       "R",
-      "I",
-      "N"
+      "E"
     ]
   ],
   "answers": [
-    "RECIPEBOOK",
-    "MARINADES",
-    "SIMMERING",
-    "PEPPER",
-    "BROCCOLI",
-    "VEGETABLE",
-    "BREAD"
+    "PLAYDICE",
+    "PARCHEESI",
+    "CHECKERS",
+    "GAMEPIECE",
+    "DICEBAG",
+    "MEEPLE",
+    "TURNORDER"
   ],
-  "spangram": "RECIPEBOOK"
+  "spangram": "PLAYDICE"
 };
