@@ -1,43 +1,43 @@
 export const connectionsData = {
   "groups": [
     {
-      "name": "CLASSIC EUROGAMES",
+      "name": "STAR TYPES",
       "color": "yellow",
       "words": [
-        "CATAN",
-        "CARCASSONNE",
-        "TICKET TO RIDE",
-        "AGRICOLA"
+        "RED GIANT",
+        "WHITE DWARF",
+        "NEUTRON STAR",
+        "BLUE SUPERGIANT"
       ]
     },
     {
-      "name": "ROLL AND MOVE GAMES",
+      "name": "SOLAR SYSTEM MOONS",
       "color": "green",
       "words": [
-        "MONOPOLY",
-        "THE GAME OF LIFE",
-        "CANDY LAND",
-        "CHUTES AND LADDERS"
+        "TITAN",
+        "EUROPA",
+        "GANYMEDE",
+        "IO"
       ]
     },
     {
-      "name": "DECK BUILDING GAMES",
+      "name": "SPACECRAFT MISSIONS",
       "color": "blue",
       "words": [
-        "DOMINION",
-        "ASCENSION",
-        "MARVEL LEGENDARY",
-        "STAR REALMS"
+        "VOYAGER",
+        "APOLLO",
+        "CURIOSITY",
+        "CASSINI"
       ]
     },
     {
-      "name": "ABSTRACT STRATEGY GAMES",
+      "name": "ASTRONOMICAL OBJECTS",
       "color": "purple",
       "words": [
-        "CHESS",
-        "GO",
-        "CHECKERS",
-        "BLOKUS"
+        "NEBULA",
+        "ASTEROID",
+        "COMET",
+        "BLACK HOLE"
       ]
     }
   ]

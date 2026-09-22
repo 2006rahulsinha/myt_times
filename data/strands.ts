@@ -1,85 +1,84 @@
 export const strandsData = {
-  "themeClue": "Roll the dice, move the piece",
+  "themeClue": "Space strands to discover",
   "grid": [
     [
-      "K",
+      "I",
+      "T",
+      "U",
+      "A",
+      "N",
+      "O",
+      "R",
+      "S"
+    ],
+    [
+      "C",
+      "L",
+      "A",
+      "N",
       "E",
-      "S",
+      "T",
+      "A",
+      "T"
+    ],
+    [
       "P",
-      "I",
-      "E",
-      "I",
+      "S",
+      "Y",
+      "R",
+      "A",
+      "H",
+      "T",
       "C"
     ],
     [
-      "C",
-      "R",
-      "G",
-      "E",
-      "C",
-      "D",
-      "B",
-      "E"
-    ],
-    [
-      "H",
-      "E",
-      "A",
-      "M",
-      "E",
-      "M",
-      "G",
-      "A"
-    ],
-    [
-      "I",
-      "C",
-      "A",
-      "Y",
-      "D",
-      "E",
-      "E",
-      "P"
-    ],
-    [
-      "E",
-      "S",
-      "L",
-      "P",
-      "I",
       "T",
-      "E",
-      "L"
+      "R",
+      "L",
+      "I",
+      "G",
+      "T",
+      "L",
+      "E"
     ],
     [
-      "H",
+      "A",
+      "T",
+      "B",
+      "R",
+      "F",
+      "A",
+      "S",
+      "E"
+    ],
+    [
+      "Y",
+      "A",
+      "I",
+      "O",
+      "I",
+      "R",
+      "L",
+      "S"
+    ],
+    [
+      "L",
+      "L",
+      "D",
+      "L",
       "E",
       "A",
-      "C",
-      "U",
-      "O",
-      "R",
-      "D"
-    ],
-    [
-      "C",
-      "R",
-      "E",
-      "P",
-      "R",
-      "N",
-      "R",
-      "E"
+      "I",
+      "T"
     ]
   ],
   "answers": [
-    "PLAYDICE",
-    "PARCHEESI",
-    "CHECKERS",
-    "GAMEPIECE",
-    "DICEBAG",
-    "MEEPLE",
-    "TURNORDER"
+    "ASTRONAUTIC",
+    "PLANETARY",
+    "STARLIGHT",
+    "CELESTIAL",
+    "STARFIELD",
+    "ORBITALLY"
   ],
-  "spangram": "PLAYDICE"
+  "spangram": "ASTRONAUTIC"
 };
