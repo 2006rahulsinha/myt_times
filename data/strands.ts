@@ -1,84 +1,85 @@
 export const strandsData = {
-  "themeClue": "Space strands to discover",
+  "themeClue": "Wild threads of earth",
   "grid": [
     [
+      "W",
+      "O",
+      "R",
       "I",
+      "L",
+      "N",
+      "S",
+      "E"
+    ],
+    [
+      "N",
+      "L",
+      "W",
+      "D",
+      "I",
+      "H",
+      "S",
+      "A"
+    ],
+    [
+      "E",
+      "D",
+      "L",
+      "A",
+      "O",
+      "R",
+      "L",
+      "O"
+    ],
+    [
+      "E",
+      "R",
+      "I",
+      "T",
+      "E",
+      "B",
+      "A",
+      "F"
+    ],
+    [
+      "E",
+      "F",
+      "G",
+      "N",
+      "W",
+      "L",
+      "U",
+      "F"
+    ],
+    [
+      "F",
+      "R",
       "T",
       "U",
       "A",
-      "N",
-      "O",
-      "R",
-      "S"
-    ],
-    [
-      "C",
-      "L",
-      "A",
-      "N",
       "E",
-      "T",
-      "A",
-      "T"
-    ],
-    [
-      "P",
-      "S",
-      "Y",
-      "R",
-      "A",
-      "H",
-      "T",
-      "C"
-    ],
-    [
-      "T",
-      "R",
       "L",
-      "I",
-      "G",
-      "T",
-      "L",
-      "E"
+      "A"
     ],
     [
-      "A",
-      "T",
-      "B",
-      "R",
-      "F",
-      "A",
-      "S",
-      "E"
-    ],
-    [
-      "Y",
-      "A",
-      "I",
       "O",
-      "I",
-      "R",
-      "L",
-      "S"
-    ],
-    [
-      "L",
-      "L",
-      "D",
-      "L",
       "E",
-      "A",
-      "I",
-      "T"
+      "S",
+      "M",
+      "O",
+      "T",
+      "R",
+      "F"
     ]
   ],
   "answers": [
-    "ASTRONAUTIC",
-    "PLANETARY",
-    "STARLIGHT",
-    "CELESTIAL",
-    "STARFIELD",
-    "ORBITALLY"
+    "GREENWORLD",
+    "WILDLIFE",
+    "FOREST",
+    "MOUNTAIN",
+    "SEASHORE",
+    "WATERFALL",
+    "BUFFALO"
   ],
-  "spangram": "ASTRONAUTIC"
+  "spangram": "GREENWORLD"
 };

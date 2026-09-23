@@ -1,43 +1,43 @@
 export const connectionsData = {
   "groups": [
     {
-      "name": "STAR TYPES",
+      "name": "FOREST BIOMES",
       "color": "yellow",
       "words": [
-        "RED GIANT",
-        "WHITE DWARF",
-        "NEUTRON STAR",
-        "BLUE SUPERGIANT"
+        "RAINFOREST",
+        "TAIGA",
+        "SAVANNA",
+        "TEMPERATE DECIDUOUS"
       ]
     },
     {
-      "name": "SOLAR SYSTEM MOONS",
+      "name": "MARINE MAMMALS",
       "color": "green",
       "words": [
-        "TITAN",
-        "EUROPA",
-        "GANYMEDE",
-        "IO"
+        "DOLPHIN",
+        "SEAL",
+        "MANATEE",
+        "WALRUS"
       ]
     },
     {
-      "name": "SPACECRAFT MISSIONS",
+      "name": "BIRDS OF PREY",
       "color": "blue",
       "words": [
-        "VOYAGER",
-        "APOLLO",
-        "CURIOSITY",
-        "CASSINI"
+        "EAGLE",
+        "HAWK",
+        "OSPREY",
+        "FALCON"
       ]
     },
     {
-      "name": "ASTRONOMICAL OBJECTS",
+      "name": "INSECT ORDERS",
       "color": "purple",
       "words": [
-        "NEBULA",
-        "ASTEROID",
-        "COMET",
-        "BLACK HOLE"
+        "COLEOPTERA",
+        "LEPIDOPTERA",
+        "DIPTERA",
+        "HEMIPTERA"
       ]
     }
   ]
