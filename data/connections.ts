@@ -1,43 +1,43 @@
 export const connectionsData = {
   "groups": [
     {
-      "name": "FOREST BIOMES",
+      "name": "FAMOUS PAINTERS",
       "color": "yellow",
       "words": [
-        "RAINFOREST",
-        "TAIGA",
-        "SAVANNA",
-        "TEMPERATE DECIDUOUS"
+        "LEONARDO",
+        "PICASSO",
+        "MONET",
+        "VANGOGH"
       ]
     },
     {
-      "name": "MARINE MAMMALS",
+      "name": "PAINTING TECHNIQUES",
       "color": "green",
       "words": [
-        "DOLPHIN",
-        "SEAL",
-        "MANATEE",
-        "WALRUS"
+        "IMPASTO",
+        "GLAZING",
+        "SCUMBLING",
+        "ALLAPRIMA"
       ]
     },
     {
-      "name": "BIRDS OF PREY",
+      "name": "ART MOVEMENTS",
       "color": "blue",
       "words": [
-        "EAGLE",
-        "HAWK",
-        "OSPREY",
-        "FALCON"
+        "IMPRESSIONISM",
+        "CUBISM",
+        "SURREALISM",
+        "BAROQUE"
       ]
     },
     {
-      "name": "INSECT ORDERS",
+      "name": "COMMON COLORS",
       "color": "purple",
       "words": [
-        "COLEOPTERA",
-        "LEPIDOPTERA",
-        "DIPTERA",
-        "HEMIPTERA"
+        "ULTRAMARINE",
+        "OCHRE",
+        "VERMILION",
+        "CADMIUMRED"
       ]
     }
   ]

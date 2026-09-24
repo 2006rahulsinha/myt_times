@@ -1,85 +1,85 @@
 export const strandsData = {
-  "themeClue": "Wild threads of earth",
+  "themeClue": "Colors on canvas",
   "grid": [
     [
-      "W",
-      "O",
-      "R",
-      "I",
-      "L",
+      "G",
+      "M",
       "N",
+      "T",
+      "R",
+      "Y",
+      "N",
+      "T"
+    ],
+    [
+      "I",
+      "E",
+      "G",
+      "E",
       "S",
-      "E"
+      "L",
+      "A",
+      "I"
+    ],
+    [
+      "T",
+      "P",
+      "A",
+      "L",
+      "T",
+      "I",
+      "P",
+      "F"
+    ],
+    [
+      "E",
+      "T",
+      "E",
+      "L",
+      "I",
+      "O",
+      "E",
+      "I"
     ],
     [
       "N",
       "L",
-      "W",
+      "A",
+      "P",
+      "E",
+      "L",
+      "L",
+      "L"
+    ],
+    [
+      "A",
       "D",
-      "I",
+      "S",
+      "C",
+      "A",
+      "P",
+      "B",
+      "U"
+    ],
+    [
+      "L",
+      "K",
+      "R",
+      "O",
+      "W",
       "H",
       "S",
-      "A"
-    ],
-    [
-      "E",
-      "D",
-      "L",
-      "A",
-      "O",
-      "R",
-      "L",
-      "O"
-    ],
-    [
-      "E",
-      "R",
-      "I",
-      "T",
-      "E",
-      "B",
-      "A",
-      "F"
-    ],
-    [
-      "E",
-      "F",
-      "G",
-      "N",
-      "W",
-      "L",
-      "U",
-      "F"
-    ],
-    [
-      "F",
-      "R",
-      "T",
-      "U",
-      "A",
-      "E",
-      "L",
-      "A"
-    ],
-    [
-      "O",
-      "E",
-      "S",
-      "M",
-      "O",
-      "T",
-      "R",
-      "F"
+      "R"
     ]
   ],
   "answers": [
-    "GREENWORLD",
-    "WILDLIFE",
-    "FOREST",
-    "MOUNTAIN",
-    "SEASHORE",
-    "WATERFALL",
-    "BUFFALO"
+    "BRUSHWORK",
+    "LANDSCAPE",
+    "PALETTE",
+    "PIGMENT",
+    "GALLERY",
+    "STILLLIFE",
+    "OILPAINT"
   ],
-  "spangram": "GREENWORLD"
+  "spangram": "BRUSHWORK"
 };
