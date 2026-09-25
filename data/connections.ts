@@ -1,43 +1,43 @@
 export const connectionsData = {
   "groups": [
     {
-      "name": "FAMOUS PAINTERS",
+      "name": "MODES OF TRANSPORT",
       "color": "yellow",
       "words": [
-        "LEONARDO",
-        "PICASSO",
-        "MONET",
-        "VANGOGH"
+        "AIRPLANE",
+        "TRAIN",
+        "SAILBOAT",
+        "HOTAIRBALLOON"
       ]
     },
     {
-      "name": "PAINTING TECHNIQUES",
+      "name": "ADVENTURE SPORTS",
       "color": "green",
       "words": [
-        "IMPASTO",
-        "GLAZING",
-        "SCUMBLING",
-        "ALLAPRIMA"
+        "ROCKCLIMBING",
+        "WHITEWATERRAFTING",
+        "PARAGLIDING",
+        "BUNGEEJUMPING"
       ]
     },
     {
-      "name": "ART MOVEMENTS",
+      "name": "FAMOUS TRAILS",
       "color": "blue",
       "words": [
-        "IMPRESSIONISM",
-        "CUBISM",
-        "SURREALISM",
-        "BAROQUE"
+        "APPALACHIANTRAIL",
+        "CAMINODESANTIAGO",
+        "INCATRAIL",
+        "SILKROAD"
       ]
     },
     {
-      "name": "COMMON COLORS",
+      "name": "TRAVEL ESSENTIALS",
       "color": "purple",
       "words": [
-        "ULTRAMARINE",
-        "OCHRE",
-        "VERMILION",
-        "CADMIUMRED"
+        "PASSPORT",
+        "BACKPACK",
+        "MAP",
+        "WATERBOTTLE"
       ]
     }
   ]

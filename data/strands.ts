@@ -1,85 +1,85 @@
 export const strandsData = {
-  "themeClue": "Colors on canvas",
+  "themeClue": "World wanderings",
   "grid": [
     [
-      "G",
-      "M",
+      "E",
+      "D",
       "N",
+      "A",
+      "N",
+      "E",
       "T",
+      "R"
+    ],
+    [
+      "R",
+      "L",
+      "W",
       "R",
       "Y",
-      "N",
-      "T"
-    ],
-    [
-      "I",
-      "E",
-      "G",
-      "E",
-      "S",
-      "L",
-      "A",
-      "I"
-    ],
-    [
-      "T",
-      "P",
-      "A",
-      "L",
-      "T",
-      "I",
-      "P",
-      "F"
-    ],
-    [
-      "E",
-      "T",
-      "E",
-      "L",
-      "I",
-      "O",
-      "E",
-      "I"
-    ],
-    [
-      "N",
-      "L",
-      "A",
-      "P",
-      "E",
-      "L",
-      "L",
-      "L"
-    ],
-    [
-      "A",
       "D",
-      "S",
-      "C",
-      "A",
       "P",
-      "B",
-      "U"
+      "I"
+    ],
+    [
+      "U",
+      "S",
+      "U",
+      "E",
+      "A",
+      "F",
+      "C",
+      "S"
+    ],
+    [
+      "T",
+      "O",
+      "X",
+      "O",
+      "R",
+      "I",
+      "P",
+      "A"
+    ],
+    [
+      "J",
+      "P",
+      "R",
+      "E",
+      "S",
+      "N",
+      "I",
+      "M"
     ],
     [
       "L",
-      "K",
-      "R",
+      "I",
+      "G",
       "O",
-      "W",
-      "H",
+      "E",
+      "R",
+      "I",
+      "P"
+    ],
+    [
+      "O",
+      "R",
+      "N",
+      "U",
+      "V",
       "S",
+      "T",
       "R"
     ]
   ],
   "answers": [
-    "BRUSHWORK",
-    "LANDSCAPE",
-    "PALETTE",
-    "PIGMENT",
-    "GALLERY",
-    "STILLLIFE",
-    "OILPAINT"
+    "WANDERLUST",
+    "JOURNEY",
+    "EXPLORING",
+    "ROADTRIPS",
+    "CAMPFIRE",
+    "SOUVENIRS",
+    "TRIP"
   ],
-  "spangram": "BRUSHWORK"
+  "spangram": "WANDERLUST"
 };
