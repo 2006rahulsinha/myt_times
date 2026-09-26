@@ -1,85 +1,85 @@
 export const strandsData = {
-  "themeClue": "World wanderings",
+  "themeClue": "Step right up!",
   "grid": [
     [
-      "E",
-      "D",
-      "N",
-      "A",
-      "N",
-      "E",
-      "T",
-      "R"
-    ],
-    [
+      "O",
+      "P",
       "R",
-      "L",
       "W",
-      "R",
-      "Y",
-      "D",
-      "P",
-      "I"
-    ],
-    [
-      "U",
-      "S",
-      "U",
-      "E",
-      "A",
-      "F",
-      "C",
-      "S"
-    ],
-    [
-      "T",
       "O",
-      "X",
-      "O",
+      "N",
       "R",
-      "I",
-      "P",
       "A"
     ],
     [
-      "J",
       "P",
+      "O",
       "R",
       "E",
-      "S",
       "N",
-      "I",
-      "M"
-    ],
-    [
       "L",
       "I",
-      "G",
-      "O",
-      "E",
-      "R",
-      "I",
-      "P"
+      "C"
     ],
     [
-      "O",
-      "R",
+      "C",
+      "L",
+      "L",
       "N",
-      "U",
-      "V",
-      "S",
       "T",
-      "R"
+      "I",
+      "C",
+      "V"
+    ],
+    [
+      "S",
+      "O",
+      "A",
+      "M",
+      "A",
+      "N",
+      "E",
+      "A"
+    ],
+    [
+      "N",
+      "O",
+      "B",
+      "I",
+      "E",
+      "G",
+      "P",
+      "L"
+    ],
+    [
+      "Y",
+      "S",
+      "D",
+      "E",
+      "F",
+      "O",
+      "H",
+      "T"
+    ],
+    [
+      "A",
+      "W",
+      "R",
+      "I",
+      "R",
+      "T",
+      "G",
+      "I"
     ]
   ],
   "answers": [
-    "WANDERLUST",
-    "JOURNEY",
-    "EXPLORING",
-    "ROADTRIPS",
-    "CAMPFIRE",
-    "SOUVENIRS",
-    "TRIP"
+    "CARNIVAL",
+    "TIGHTROPE",
+    "CLOWNING",
+    "FIREEATER",
+    "POPCORN",
+    "MIDWAYS",
+    "BALLOONS"
   ],
-  "spangram": "WANDERLUST"
+  "spangram": "CARNIVAL"
 };

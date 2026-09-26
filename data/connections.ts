@@ -1,43 +1,43 @@
 export const connectionsData = {
   "groups": [
     {
-      "name": "MODES OF TRANSPORT",
+      "name": "PERFORMERS",
       "color": "yellow",
       "words": [
-        "AIRPLANE",
-        "TRAIN",
-        "SAILBOAT",
-        "HOTAIRBALLOON"
+        "CLOWN",
+        "ACROBAT",
+        "TIGHTROPE WALKER",
+        "RINGMASTER"
       ]
     },
     {
-      "name": "ADVENTURE SPORTS",
+      "name": "RIDES",
       "color": "green",
       "words": [
-        "ROCKCLIMBING",
-        "WHITEWATERRAFTING",
-        "PARAGLIDING",
-        "BUNGEEJUMPING"
+        "FERRIS WHEEL",
+        "CAROUSEL",
+        "BUMPER CARS",
+        "FUN HOUSE"
       ]
     },
     {
-      "name": "FAMOUS TRAILS",
+      "name": "FOOD",
       "color": "blue",
       "words": [
-        "APPALACHIANTRAIL",
-        "CAMINODESANTIAGO",
-        "INCATRAIL",
-        "SILKROAD"
+        "COTTON CANDY",
+        "POPCORN",
+        "CORN DOG",
+        "FUNNEL CAKE"
       ]
     },
     {
-      "name": "TRAVEL ESSENTIALS",
+      "name": "GAMES",
       "color": "purple",
       "words": [
-        "PASSPORT",
-        "BACKPACK",
-        "MAP",
-        "WATERBOTTLE"
+        "RING TOSS",
+        "DUCK POND",
+        "BALLOON DART",
+        "PRIZE WHEEL"
       ]
     }
   ]
