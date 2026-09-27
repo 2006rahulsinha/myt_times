@@ -1,85 +1,85 @@
 export const strandsData = {
-  "themeClue": "Step right up!",
+  "themeClue": "Prehistoric giants",
   "grid": [
     [
-      "O",
-      "P",
-      "R",
-      "W",
-      "O",
-      "N",
-      "R",
-      "A"
-    ],
-    [
-      "P",
-      "O",
-      "R",
-      "E",
-      "N",
-      "L",
-      "I",
-      "C"
-    ],
-    [
-      "C",
-      "L",
-      "L",
-      "N",
-      "T",
       "I",
       "C",
-      "V"
-    ],
-    [
-      "S",
       "O",
-      "A",
-      "M",
-      "A",
       "N",
       "E",
-      "A"
+      "C",
+      "A",
+      "R"
     ],
     [
-      "N",
-      "O",
+      "R",
       "B",
-      "I",
-      "E",
-      "G",
-      "P",
-      "L"
-    ],
-    [
-      "Y",
+      "R",
+      "U",
       "S",
-      "D",
-      "E",
-      "F",
       "O",
-      "H",
-      "T"
+      "V",
+      "N"
     ],
     [
+      "O",
+      "F",
+      "S",
+      "S",
       "A",
-      "W",
+      "O",
+      "R",
+      "I"
+    ],
+    [
+      "T",
+      "O",
+      "C",
+      "L",
+      "I",
+      "N",
+      "D",
+      "E"
+    ],
+    [
+      "S",
+      "P",
+      "A",
+      "R",
+      "N",
+      "I",
+      "E",
+      "H"
+    ],
+    [
       "R",
       "I",
       "R",
-      "T",
-      "G",
-      "I"
+      "Y",
+      "I",
+      "R",
+      "I",
+      "E"
+    ],
+    [
+      "E",
+      "H",
+      "O",
+      "V",
+      "O",
+      "V",
+      "B",
+      "R"
     ]
   ],
   "answers": [
-    "CARNIVAL",
-    "TIGHTROPE",
-    "CLOWNING",
-    "FIREEATER",
-    "POPCORN",
-    "MIDWAYS",
-    "BALLOONS"
+    "PREHISTORIC",
+    "BONE",
+    "CARNIVORE",
+    "HERBIVORE",
+    "DINOSAUR",
+    "FOSSIL",
+    "CARNIVORY"
   ],
-  "spangram": "CARNIVAL"
+  "spangram": "PREHISTORIC"
 };

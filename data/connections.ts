@@ -1,43 +1,43 @@
 export const connectionsData = {
   "groups": [
     {
-      "name": "PERFORMERS",
+      "name": "CARNIVOROUS DINOSAURS",
       "color": "yellow",
       "words": [
-        "CLOWN",
-        "ACROBAT",
-        "TIGHTROPE WALKER",
-        "RINGMASTER"
+        "TYRANNOSAURUS",
+        "VELOCIRAPTOR",
+        "ALLOSAURUS",
+        "SPINOSAURUS"
       ]
     },
     {
-      "name": "RIDES",
+      "name": "HERBIVOROUS DINOSAURS",
       "color": "green",
       "words": [
-        "FERRIS WHEEL",
-        "CAROUSEL",
-        "BUMPER CARS",
-        "FUN HOUSE"
+        "TRICERATOPS",
+        "STEGOSAURUS",
+        "BRACHIOSAURUS",
+        "ANKYLOSAURUS"
       ]
     },
     {
-      "name": "FOOD",
+      "name": "GEOLOGIC PERIODS",
       "color": "blue",
       "words": [
-        "COTTON CANDY",
-        "POPCORN",
-        "CORN DOG",
-        "FUNNEL CAKE"
+        "TRIASSIC",
+        "JURASSIC",
+        "CRETACEOUS",
+        "PERMIAN"
       ]
     },
     {
-      "name": "GAMES",
+      "name": "DINOSAUR POP CULTURE",
       "color": "purple",
       "words": [
-        "RING TOSS",
-        "DUCK POND",
-        "BALLOON DART",
-        "PRIZE WHEEL"
+        "GODZILLA",
+        "JURASSIC PARK",
+        "JURASSIC WORLD",
+        "THE LAND BEFORE TIME"
       ]
     }
   ]
