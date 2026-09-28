@@ -1,85 +1,85 @@
 export const strandsData = {
-  "themeClue": "Prehistoric giants",
+  "themeClue": "Beneath the waves",
   "grid": [
     [
-      "I",
-      "C",
       "O",
-      "N",
+      "A",
+      "L",
+      "R",
+      "O",
+      "H",
+      "I",
+      "F"
+    ],
+    [
+      "R",
+      "C",
       "E",
       "C",
-      "A",
-      "R"
-    ],
-    [
-      "R",
-      "B",
-      "R",
-      "U",
+      "P",
+      "H",
       "S",
-      "O",
-      "V",
-      "N"
+      "Y"
     ],
     [
-      "O",
       "F",
+      "E",
+      "T",
+      "L",
+      "E",
       "S",
+      "I",
+      "L"
+    ],
+    [
       "S",
-      "A",
       "O",
-      "R",
-      "I"
+      "O",
+      "A",
+      "T",
+      "E",
+      "N",
+      "L"
     ],
     [
       "T",
-      "O",
-      "C",
-      "L",
-      "I",
-      "N",
-      "D",
-      "E"
-    ],
-    [
-      "S",
       "P",
+      "D",
+      "T",
+      "R",
+      "L",
+      "E",
+      "O"
+    ],
+    [
       "A",
-      "R",
+      "I",
+      "U",
+      "S",
+      "U",
+      "J",
       "N",
-      "I",
-      "E",
-      "H"
+      "I"
     ],
     [
       "R",
-      "I",
-      "R",
-      "Y",
-      "I",
-      "R",
-      "I",
-      "E"
-    ],
-    [
-      "E",
+      "F",
+      "S",
       "H",
-      "O",
-      "V",
-      "O",
-      "V",
-      "B",
-      "R"
+      "S",
+      "E",
+      "A",
+      "L"
     ]
   ],
   "answers": [
-    "PREHISTORIC",
-    "BONE",
-    "CARNIVORE",
-    "HERBIVORE",
-    "DINOSAUR",
-    "FOSSIL",
-    "CARNIVORY"
+    "CORALREEF",
+    "STARFISH",
+    "SEALION",
+    "JELLYFISH",
+    "OCTOPUS",
+    "DOLPHIN",
+    "SEATURTLE"
   ],
-  "spangram": "PREHISTORIC"
+  "spangram": "CORALREEF"
 };

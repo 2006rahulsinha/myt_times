@@ -1,43 +1,43 @@
 export const connectionsData = {
   "groups": [
     {
-      "name": "CARNIVOROUS DINOSAURS",
+      "name": "MARINE MAMMALS",
       "color": "yellow",
       "words": [
-        "TYRANNOSAURUS",
-        "VELOCIRAPTOR",
-        "ALLOSAURUS",
-        "SPINOSAURUS"
+        "BLUE WHALE",
+        "DOLPHIN",
+        "SEA LION",
+        "MANATEE"
       ]
     },
     {
-      "name": "HERBIVOROUS DINOSAURS",
+      "name": "CORAL REEF CREATURES",
       "color": "green",
       "words": [
-        "TRICERATOPS",
-        "STEGOSAURUS",
-        "BRACHIOSAURUS",
-        "ANKYLOSAURUS"
+        "CLOWNFISH",
+        "SEA ANEMONE",
+        "REEF SHARK",
+        "PARROTFISH"
       ]
     },
     {
-      "name": "GEOLOGIC PERIODS",
+      "name": "OCEANIC BIRDS",
       "color": "blue",
       "words": [
-        "TRIASSIC",
-        "JURASSIC",
-        "CRETACEOUS",
-        "PERMIAN"
+        "ALBATROSS",
+        "PENGUIN",
+        "PUFFIN",
+        "PELICAN"
       ]
     },
     {
-      "name": "DINOSAUR POP CULTURE",
+      "name": "DEEP SEA ORGANISMS",
       "color": "purple",
       "words": [
-        "GODZILLA",
-        "JURASSIC PARK",
-        "JURASSIC WORLD",
-        "THE LAND BEFORE TIME"
+        "ANGLERFISH",
+        "GIANT SQUID",
+        "GULPER EEL",
+        "VAMPIRE SQUID"
       ]
     }
   ]
