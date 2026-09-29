@@ -1,85 +1,85 @@
 export const strandsData = {
-  "themeClue": "Beneath the waves",
+  "themeClue": "Scenic highways and stops",
   "grid": [
     [
-      "O",
-      "A",
-      "L",
-      "R",
-      "O",
-      "H",
-      "I",
-      "F"
-    ],
-    [
-      "R",
-      "C",
-      "E",
-      "C",
-      "P",
-      "H",
-      "S",
-      "Y"
-    ],
-    [
-      "F",
-      "E",
-      "T",
-      "L",
-      "E",
-      "S",
-      "I",
-      "L"
-    ],
-    [
-      "S",
-      "O",
-      "O",
-      "A",
-      "T",
       "E",
       "N",
-      "L"
+      "I",
+      "L",
+      "O",
+      "E",
+      "P",
+      "A"
     ],
     [
-      "T",
-      "P",
+      "R",
+      "A",
+      "D",
+      "A",
+      "L",
+      "S",
+      "G",
+      "C"
+    ],
+    [
+      "O",
+      "S",
+      "N",
+      "U",
+      "O",
+      "R",
+      "A",
+      "S"
+    ],
+    [
+      "I",
+      "D",
+      "R",
+      "N",
+      "E",
+      "J",
+      "E",
+      "E"
+    ],
+    [
       "D",
       "T",
-      "R",
-      "L",
-      "E",
-      "O"
+      "U",
+      "S",
+      "Y",
+      "T",
+      "V",
+      "D"
     ],
     [
-      "A",
+      "E",
+      "T",
+      "O",
+      "R",
       "I",
-      "U",
       "S",
-      "U",
-      "J",
-      "N",
-      "I"
+      "O",
+      "A"
     ],
     [
+      "P",
+      "I",
+      "S",
+      "T",
+      "O",
+      "P",
       "R",
-      "F",
-      "S",
-      "H",
-      "S",
-      "E",
-      "A",
-      "L"
+      "O"
     ]
   ],
   "answers": [
-    "CORALREEF",
-    "STARFISH",
-    "SEALION",
-    "JELLYFISH",
-    "OCTOPUS",
-    "DOLPHIN",
-    "SEATURTLE"
+    "ROADESCAPE",
+    "GASOLINE",
+    "ROADSIDE",
+    "PITSTOP",
+    "OVERLAND",
+    "TOURIST",
+    "JOURNEYS"
   ],
-  "spangram": "CORALREEF"
+  "spangram": "ROADESCAPE"
 };

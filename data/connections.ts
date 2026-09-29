@@ -1,43 +1,43 @@
 export const connectionsData = {
   "groups": [
     {
-      "name": "MARINE MAMMALS",
+      "name": "VEHICLE ESSENTIALS",
       "color": "yellow",
       "words": [
-        "BLUE WHALE",
-        "DOLPHIN",
-        "SEA LION",
-        "MANATEE"
+        "FUEL",
+        "TIRES",
+        "SPARE TIRE",
+        "OIL"
       ]
     },
     {
-      "name": "CORAL REEF CREATURES",
+      "name": "ROADSIDE ATTRACTIONS",
       "color": "green",
       "words": [
-        "CLOWNFISH",
-        "SEA ANEMONE",
-        "REEF SHARK",
-        "PARROTFISH"
+        "MOTEL",
+        "WATERFALL",
+        "GIANT STATUE",
+        "OLD LIGHTHOUSE"
       ]
     },
     {
-      "name": "OCEANIC BIRDS",
+      "name": "TRAVEL SNACKS",
       "color": "blue",
       "words": [
-        "ALBATROSS",
-        "PENGUIN",
-        "PUFFIN",
-        "PELICAN"
+        "GRANOLA BAR",
+        "BEEF JERKY",
+        "FRUIT",
+        "CHIPS"
       ]
     },
     {
-      "name": "DEEP SEA ORGANISMS",
+      "name": "PLAYLIST THEMES",
       "color": "purple",
       "words": [
-        "ANGLERFISH",
-        "GIANT SQUID",
-        "GULPER EEL",
-        "VAMPIRE SQUID"
+        "CLASSIC ROCK",
+        "ROAD ANTHEM",
+        "COUNTRY ROAD",
+        "INDIE VIBES"
       ]
     }
   ]
