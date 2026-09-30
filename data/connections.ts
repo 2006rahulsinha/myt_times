@@ -1,43 +1,43 @@
 export const connectionsData = {
   "groups": [
     {
-      "name": "VEHICLE ESSENTIALS",
+      "name": "SNACKS",
       "color": "yellow",
       "words": [
-        "FUEL",
-        "TIRES",
-        "SPARE TIRE",
-        "OIL"
+        "GRANOLA BARS",
+        "BEEF JERKY",
+        "FRUIT LEATHER",
+        "TRAIL MIX"
       ]
     },
     {
-      "name": "ROADSIDE ATTRACTIONS",
+      "name": "SCENIC STOPS",
       "color": "green",
       "words": [
-        "MOTEL",
-        "WATERFALL",
-        "GIANT STATUE",
-        "OLD LIGHTHOUSE"
+        "NATIONAL PARK",
+        "COASTAL HIGHWAY",
+        "MOUNTAIN PASS",
+        "DESERT OASIS"
       ]
     },
     {
-      "name": "TRAVEL SNACKS",
+      "name": "CAR ESSENTIALS",
       "color": "blue",
       "words": [
-        "GRANOLA BAR",
-        "BEEF JERKY",
-        "FRUIT",
-        "CHIPS"
+        "SPARE TIRE",
+        "FIRST AID KIT",
+        "GPS NAVIGATOR",
+        "COOLER BOX"
       ]
     },
     {
-      "name": "PLAYLIST THEMES",
+      "name": "PLAYLIST GENRES",
       "color": "purple",
       "words": [
         "CLASSIC ROCK",
-        "ROAD ANTHEM",
-        "COUNTRY ROAD",
-        "INDIE VIBES"
+        "COUNTRY ROADS",
+        "INDIE FOLK",
+        "HIP HOP"
       ]
     }
   ]

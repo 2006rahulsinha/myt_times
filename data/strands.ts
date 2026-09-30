@@ -1,85 +1,85 @@
 export const strandsData = {
-  "themeClue": "Scenic highways and stops",
+  "themeClue": "Highways and horizons",
   "grid": [
     [
-      "E",
       "N",
+      "E",
+      "R",
+      "A",
+      "D",
+      "S",
       "I",
-      "L",
-      "O",
-      "E",
-      "P",
-      "A"
+      "G"
     ],
     [
       "R",
-      "A",
-      "D",
-      "A",
-      "L",
-      "S",
-      "G",
-      "C"
-    ],
-    [
-      "O",
-      "S",
-      "N",
-      "U",
-      "O",
-      "R",
-      "A",
-      "S"
-    ],
-    [
-      "I",
-      "D",
-      "R",
-      "N",
-      "E",
-      "J",
-      "E",
-      "E"
-    ],
-    [
-      "D",
-      "T",
-      "U",
-      "S",
       "Y",
+      "O",
+      "N",
+      "A",
       "T",
+      "S",
+      "N"
+    ],
+    [
+      "O",
+      "U",
+      "C",
+      "E",
+      "D",
       "V",
+      "S",
       "D"
     ],
     [
+      "R",
+      "J",
+      "E",
+      "A",
       "E",
       "T",
-      "O",
-      "R",
-      "I",
-      "S",
-      "O",
-      "A"
+      "U",
+      "I"
     ],
     [
-      "P",
-      "I",
-      "S",
-      "T",
       "O",
+      "A",
+      "N",
       "P",
+      "N",
+      "S",
+      "E",
+      "R"
+    ],
+    [
+      "A",
       "R",
-      "O"
+      "L",
+      "D",
+      "A",
+      "N",
+      "K",
+      "C"
+    ],
+    [
+      "D",
+      "T",
+      "I",
+      "P",
+      "S",
+      "C",
+      "A",
+      "S"
     ]
   ],
   "answers": [
-    "ROADESCAPE",
-    "GASOLINE",
-    "ROADSIDE",
-    "PITSTOP",
-    "OVERLAND",
-    "TOURIST",
-    "JOURNEYS"
+    "ROADTRIP",
+    "LANDSCAPE",
+    "JOURNEY",
+    "ROADSIGNS",
+    "DISTANCE",
+    "ADVENTURE",
+    "SNACKS"
   ],
-  "spangram": "ROADESCAPE"
+  "spangram": "ROADTRIP"
 };
