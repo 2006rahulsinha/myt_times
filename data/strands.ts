@@ -1,85 +1,85 @@
 export const strandsData = {
-  "themeClue": "Highways and horizons",
+  "themeClue": "Interstellar threads",
   "grid": [
     [
-      "N",
-      "E",
-      "R",
+      "S",
+      "G",
       "A",
+      "O",
       "D",
       "S",
-      "I",
-      "G"
-    ],
-    [
-      "R",
-      "Y",
-      "O",
       "N",
-      "A",
-      "T",
-      "S",
-      "N"
+      "E"
     ],
     [
-      "O",
-      "U",
-      "C",
-      "E",
-      "D",
-      "V",
-      "S",
-      "D"
-    ],
-    [
-      "R",
-      "J",
-      "E",
-      "A",
-      "E",
-      "T",
-      "U",
-      "I"
-    ],
-    [
-      "O",
-      "A",
-      "N",
       "P",
-      "N",
-      "S",
-      "E",
-      "R"
-    ],
-    [
-      "A",
-      "R",
       "L",
-      "D",
-      "A",
-      "N",
-      "K",
-      "C"
+      "R",
+      "I",
+      "E",
+      "Q",
+      "U",
+      "B"
     ],
     [
-      "D",
-      "T",
       "I",
-      "P",
+      "A",
+      "D",
+      "L",
+      "U",
+      "N",
+      "T",
+      "L"
+    ],
+    [
+      "H",
+      "X",
+      "N",
+      "O",
+      "A",
+      "M",
+      "U",
+      "A"
+    ],
+    [
+      "T",
       "S",
+      "I",
+      "A",
+      "H",
+      "M",
+      "R",
+      "E"
+    ],
+    [
+      "S",
+      "A",
+      "R",
+      "E",
+      "S",
+      "O",
+      "W",
+      "S"
+    ],
+    [
+      "P",
+      "R",
+      "A",
+      "W",
+      "E",
       "C",
       "A",
-      "S"
+      "P"
     ]
   ],
   "answers": [
-    "ROADTRIP",
-    "LANDSCAPE",
-    "JOURNEY",
-    "ROADSIGNS",
-    "DISTANCE",
-    "ADVENTURE",
-    "SNACKS"
+    "SPACEWARP",
+    "STARSHIPS",
+    "GALAXIES",
+    "ANDROIDS",
+    "NEBULAE",
+    "WORMHOLE",
+    "QUANTUM"
   ],
-  "spangram": "ROADTRIP"
+  "spangram": "SPACEWARP"
 };

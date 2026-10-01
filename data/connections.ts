@@ -1,43 +1,43 @@
 export const connectionsData = {
   "groups": [
     {
-      "name": "SNACKS",
+      "name": "CLASSIC AUTHORS",
       "color": "yellow",
       "words": [
-        "GRANOLA BARS",
-        "BEEF JERKY",
-        "FRUIT LEATHER",
-        "TRAIL MIX"
+        "ASIMOV",
+        "CLARKE",
+        "HERBERT",
+        "BRADBURY"
       ]
     },
     {
-      "name": "SCENIC STOPS",
+      "name": "STARSHIP TYPES",
       "color": "green",
       "words": [
-        "NATIONAL PARK",
-        "COASTAL HIGHWAY",
-        "MOUNTAIN PASS",
-        "DESERT OASIS"
+        "ENTERPRISE",
+        "MILLENNIUM FALCON",
+        "BATTLESTAR GALACTICA",
+        "SERENITY"
       ]
     },
     {
-      "name": "CAR ESSENTIALS",
+      "name": "CYBERPUNK THEMES",
       "color": "blue",
       "words": [
-        "SPARE TIRE",
-        "FIRST AID KIT",
-        "GPS NAVIGATOR",
-        "COOLER BOX"
+        "NEON",
+        "DYSTOPIA",
+        "AUGMENTATION",
+        "HACKERS"
       ]
     },
     {
-      "name": "PLAYLIST GENRES",
+      "name": "ICONIC ROBOTS",
       "color": "purple",
       "words": [
-        "CLASSIC ROCK",
-        "COUNTRY ROADS",
-        "INDIE FOLK",
-        "HIP HOP"
+        "R2D2",
+        "C3PO",
+        "DATA",
+        "BENDER"
       ]
     }
   ]
