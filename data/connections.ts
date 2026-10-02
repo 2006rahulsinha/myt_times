@@ -1,43 +1,43 @@
 export const connectionsData = {
   "groups": [
     {
-      "name": "CLASSIC AUTHORS",
+      "name": "WINTER SPORTS",
       "color": "yellow",
       "words": [
-        "ASIMOV",
-        "CLARKE",
-        "HERBERT",
-        "BRADBURY"
+        "SKIING",
+        "SNOWBOARDING",
+        "ICE SKATING",
+        "SLEDDING"
       ]
     },
     {
-      "name": "STARSHIP TYPES",
+      "name": "SNOWFLAKE TYPES",
       "color": "green",
       "words": [
-        "ENTERPRISE",
-        "MILLENNIUM FALCON",
-        "BATTLESTAR GALACTICA",
-        "SERENITY"
+        "DENDRITE",
+        "PLATE",
+        "COLUMN",
+        "NEEDLE"
       ]
     },
     {
-      "name": "CYBERPUNK THEMES",
+      "name": "HOLIDAY TREATS",
       "color": "blue",
       "words": [
-        "NEON",
-        "DYSTOPIA",
-        "AUGMENTATION",
-        "HACKERS"
+        "GINGERBREAD",
+        "HOT COCOA",
+        "PEPPERMINT BARK",
+        "CINNAMON BUN"
       ]
     },
     {
-      "name": "ICONIC ROBOTS",
+      "name": "WINTER WEATHER PHENOMENA",
       "color": "purple",
       "words": [
-        "R2D2",
-        "C3PO",
-        "DATA",
-        "BENDER"
+        "BLIZZARD",
+        "FROST",
+        "HAIL",
+        "SLEET"
       ]
     }
   ]

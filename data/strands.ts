@@ -1,85 +1,85 @@
 export const strandsData = {
-  "themeClue": "Interstellar threads",
+  "themeClue": "Cold and crystal",
   "grid": [
     [
-      "S",
-      "G",
-      "A",
-      "O",
-      "D",
-      "S",
-      "N",
-      "E"
-    ],
-    [
-      "P",
-      "L",
-      "R",
-      "I",
-      "E",
-      "Q",
-      "U",
-      "B"
-    ],
-    [
-      "I",
-      "A",
-      "D",
-      "L",
-      "U",
-      "N",
-      "T",
-      "L"
-    ],
-    [
-      "H",
-      "X",
-      "N",
-      "O",
-      "A",
-      "M",
-      "U",
-      "A"
-    ],
-    [
-      "T",
-      "S",
-      "I",
-      "A",
-      "H",
-      "M",
-      "R",
-      "E"
-    ],
-    [
-      "S",
-      "A",
-      "R",
-      "E",
-      "S",
-      "O",
       "W",
+      "S",
+      "T",
+      "N",
+      "O",
+      "S",
+      "N",
+      "I"
+    ],
+    [
+      "O",
+      "O",
+      "S",
+      "W",
+      "T",
+      "L",
+      "G",
+      "D"
+    ],
+    [
+      "R",
+      "N",
+      "S",
+      "D",
+      "F",
+      "E",
+      "D",
+      "G"
+    ],
+    [
+      "M",
+      "I",
+      "S",
+      "E",
+      "R",
+      "I",
+      "L",
+      "E"
+    ],
+    [
+      "C",
+      "S",
+      "N",
+      "K",
+      "V",
+      "O",
+      "T",
+      "T"
+    ],
+    [
+      "I",
+      "E",
+      "O",
+      "A",
+      "E",
+      "I",
+      "B",
       "S"
     ],
     [
-      "P",
-      "R",
-      "A",
-      "W",
-      "E",
       "C",
-      "A",
-      "P"
+      "L",
+      "W",
+      "F",
+      "L",
+      "F",
+      "R",
+      "O"
     ]
   ],
   "answers": [
-    "SPACEWARP",
-    "STARSHIPS",
-    "GALAXIES",
-    "ANDROIDS",
-    "NEBULAE",
-    "WORMHOLE",
-    "QUANTUM"
+    "SNOWSTORM",
+    "ICICLE",
+    "SNOWFLAKE",
+    "FROSTBITE",
+    "GLOVES",
+    "SNOWDRIFT",
+    "SLEDDING"
   ],
-  "spangram": "SPACEWARP"
+  "spangram": "SNOWSTORM"
 };
