@@ -1,43 +1,43 @@
 export const connectionsData = {
   "groups": [
     {
-      "name": "WINTER SPORTS",
+      "name": "MARINE MAMMALS",
       "color": "yellow",
       "words": [
-        "SKIING",
-        "SNOWBOARDING",
-        "ICE SKATING",
-        "SLEDDING"
+        "DOLPHIN",
+        "WHALE",
+        "SEAL",
+        "MANATEE"
       ]
     },
     {
-      "name": "SNOWFLAKE TYPES",
+      "name": "CORAL REEF FISH",
       "color": "green",
       "words": [
-        "DENDRITE",
-        "PLATE",
-        "COLUMN",
-        "NEEDLE"
+        "CLOWNFISH",
+        "ANGELFISH",
+        "PARROTFISH",
+        "SURGEONFISH"
       ]
     },
     {
-      "name": "HOLIDAY TREATS",
+      "name": "SEA TURTLES",
       "color": "blue",
       "words": [
-        "GINGERBREAD",
-        "HOT COCOA",
-        "PEPPERMINT BARK",
-        "CINNAMON BUN"
+        "GREEN TURTLE",
+        "HAWKSBILL",
+        "LEATHERBACK",
+        "LOGGERHEAD"
       ]
     },
     {
-      "name": "WINTER WEATHER PHENOMENA",
+      "name": "OCEANIC PLANTS",
       "color": "purple",
       "words": [
-        "BLIZZARD",
-        "FROST",
-        "HAIL",
-        "SLEET"
+        "KELP",
+        "SEAGRASS",
+        "ALGAE",
+        "PHYTOPLANKTON"
       ]
     }
   ]

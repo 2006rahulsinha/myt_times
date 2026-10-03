@@ -1,85 +1,85 @@
 export const strandsData = {
-  "themeClue": "Cold and crystal",
+  "themeClue": "Hidden creatures beneath the waves",
   "grid": [
     [
-      "W",
-      "S",
-      "T",
-      "N",
-      "O",
-      "S",
-      "N",
-      "I"
-    ],
-    [
-      "O",
-      "O",
-      "S",
-      "W",
-      "T",
       "L",
-      "G",
-      "D"
-    ],
-    [
-      "R",
-      "N",
       "S",
-      "D",
-      "F",
-      "E",
-      "D",
-      "G"
-    ],
-    [
-      "M",
-      "I",
       "S",
       "E",
-      "R",
-      "I",
-      "L",
-      "E"
+      "E",
+      "D",
+      "O",
+      "C"
     ],
     [
-      "C",
-      "S",
-      "N",
-      "K",
-      "V",
+      "A",
+      "E",
+      "W",
       "O",
       "T",
+      "E",
+      "O",
       "T"
     ],
     [
-      "I",
-      "E",
-      "O",
+      "R",
       "A",
-      "E",
-      "I",
-      "B",
-      "S"
+      "A",
+      "T",
+      "L",
+      "S",
+      "R",
+      "P"
     ],
     [
       "C",
-      "L",
-      "W",
-      "F",
-      "L",
-      "F",
+      "O",
+      "E",
+      "O",
+      "B",
+      "E",
       "R",
+      "I"
+    ],
+    [
+      "E",
+      "M",
+      "L",
+      "S",
+      "S",
+      "T",
+      "S",
+      "D"
+    ],
+    [
+      "W",
+      "E",
+      "D",
+      "A",
+      "S",
+      "N",
+      "I",
       "O"
+    ],
+    [
+      "A",
+      "E",
+      "S",
+      "R",
+      "E",
+      "H",
+      "P",
+      "L"
     ]
   ],
   "answers": [
-    "SNOWSTORM",
-    "ICICLE",
-    "SNOWFLAKE",
-    "FROSTBITE",
-    "GLOVES",
-    "SNOWDRIFT",
-    "SLEDDING"
+    "SEAWEEDREALM",
+    "CORALS",
+    "SEAWEED",
+    "OCTOPI",
+    "DOLPHINS",
+    "SEAOTTERS",
+    "LOBSTERS"
   ],
-  "spangram": "SNOWSTORM"
+  "spangram": "SEAWEEDREALM"
 };
