@@ -1,85 +1,84 @@
 export const strandsData = {
-  "themeClue": "Hidden creatures beneath the waves",
+  "themeClue": "Marine life woven together",
   "grid": [
     [
+      "C",
+      "F",
+      "E",
+      "E",
+      "A",
+      "C",
+      "R",
+      "E"
+    ],
+    [
       "L",
-      "S",
-      "S",
+      "W",
+      "N",
       "E",
-      "E",
-      "D",
+      "S",
+      "U",
+      "T",
+      "A"
+    ],
+    [
       "O",
+      "S",
+      "I",
+      "F",
+      "R",
+      "R",
+      "E",
       "C"
     ],
     [
+      "H",
       "A",
-      "E",
-      "W",
-      "O",
-      "T",
-      "E",
-      "O",
-      "T"
-    ],
-    [
-      "R",
-      "A",
-      "A",
-      "T",
-      "L",
-      "S",
-      "R",
-      "P"
-    ],
-    [
-      "C",
-      "O",
-      "E",
-      "O",
-      "B",
-      "E",
-      "R",
-      "I"
-    ],
-    [
-      "E",
-      "M",
-      "L",
-      "S",
-      "S",
-      "T",
-      "S",
-      "D"
-    ],
-    [
-      "W",
-      "E",
-      "D",
-      "A",
-      "S",
       "N",
-      "I",
+      "S",
+      "S",
+      "L",
+      "A",
       "O"
     ],
     [
-      "A",
-      "E",
-      "S",
+      "M",
+      "G",
+      "O",
       "R",
       "E",
+      "E",
+      "N",
+      "R"
+    ],
+    [
+      "R",
+      "E",
+      "S",
       "H",
-      "P",
-      "L"
+      "A",
+      "S",
+      "I",
+      "H"
+    ],
+    [
+      "O",
+      "V",
+      "S",
+      "E",
+      "A",
+      "U",
+      "R",
+      "C"
     ]
   ],
   "answers": [
-    "SEAWEEDREALM",
-    "CORALS",
-    "SEAWEED",
-    "OCTOPI",
-    "DOLPHINS",
-    "SEAOTTERS",
-    "LOBSTERS"
+    "SEACREATURE",
+    "CORALREEF",
+    "CLOWNFISH",
+    "MANGROVES",
+    "SEAURCHIN",
+    "SEAHORSES"
   ],
-  "spangram": "SEAWEEDREALM"
+  "spangram": "SEACREATURE"
 };

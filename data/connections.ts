@@ -11,13 +11,13 @@ export const connectionsData = {
       ]
     },
     {
-      "name": "CORAL REEF FISH",
+      "name": "REEF FISH",
       "color": "green",
       "words": [
         "CLOWNFISH",
-        "ANGELFISH",
         "PARROTFISH",
-        "SURGEONFISH"
+        "ANGELFISH",
+        "BUTTERFLYFISH"
       ]
     },
     {
@@ -25,19 +25,19 @@ export const connectionsData = {
       "color": "blue",
       "words": [
         "GREEN TURTLE",
-        "HAWKSBILL",
+        "LOGGERHEAD",
         "LEATHERBACK",
-        "LOGGERHEAD"
+        "HAWKSBILL"
       ]
     },
     {
-      "name": "OCEANIC PLANTS",
+      "name": "CEPHALOPODS",
       "color": "purple",
       "words": [
-        "KELP",
-        "SEAGRASS",
-        "ALGAE",
-        "PHYTOPLANKTON"
+        "OCTOPUS",
+        "SQUID",
+        "CUTTLEFISH",
+        "NAUTILUS"
       ]
     }
   ]
