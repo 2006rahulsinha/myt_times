@@ -1,43 +1,43 @@
 export const connectionsData = {
   "groups": [
     {
-      "name": "MARINE MAMMALS",
+      "name": "GREEK GODS",
       "color": "yellow",
       "words": [
-        "DOLPHIN",
-        "WHALE",
-        "SEAL",
-        "MANATEE"
+        "ZEUS",
+        "HERA",
+        "POSEIDON",
+        "ATHENA"
       ]
     },
     {
-      "name": "REEF FISH",
+      "name": "NORSE MYTHICAL CREATURES",
       "color": "green",
       "words": [
-        "CLOWNFISH",
-        "PARROTFISH",
-        "ANGELFISH",
-        "BUTTERFLYFISH"
+        "FENRIR",
+        "JORMUNGANDR",
+        "VALKYRIE",
+        "TROLL"
       ]
     },
     {
-      "name": "SEA TURTLES",
+      "name": "EGYPTIAN UNDERWORLD FIGURES",
       "color": "blue",
       "words": [
-        "GREEN TURTLE",
-        "LOGGERHEAD",
-        "LEATHERBACK",
-        "HAWKSBILL"
+        "OSIRIS",
+        "ANUBIS",
+        "AMMIT",
+        "DUAT"
       ]
     },
     {
-      "name": "CEPHALOPODS",
+      "name": "ROMAN MYTHIC HEROES",
       "color": "purple",
       "words": [
-        "OCTOPUS",
-        "SQUID",
-        "CUTTLEFISH",
-        "NAUTILUS"
+        "AENEAS",
+        "ROMULUS",
+        "REMUS",
+        "HORATIUS"
       ]
     }
   ]

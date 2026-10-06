@@ -1,84 +1,84 @@
 export const strandsData = {
-  "themeClue": "Marine life woven together",
+  "themeClue": "Myths woven through time",
   "grid": [
     [
-      "C",
-      "F",
-      "E",
-      "E",
-      "A",
-      "C",
-      "R",
-      "E"
-    ],
-    [
       "L",
-      "W",
-      "N",
+      "R",
       "E",
-      "S",
-      "U",
       "T",
-      "A"
-    ],
-    [
-      "O",
-      "S",
-      "I",
       "F",
-      "R",
-      "R",
-      "E",
-      "C"
-    ],
-    [
-      "H",
       "A",
-      "N",
-      "S",
-      "S",
-      "L",
-      "A",
+      "G",
       "O"
     ],
     [
-      "M",
-      "G",
-      "O",
-      "R",
-      "E",
-      "E",
-      "N",
-      "R"
-    ],
-    [
-      "R",
-      "E",
-      "S",
-      "H",
-      "A",
-      "S",
       "I",
-      "H"
+      "F",
+      "F",
+      "C",
+      "E",
+      "E",
+      "Y",
+      "L"
     ],
     [
-      "O",
-      "V",
-      "S",
       "E",
-      "A",
-      "U",
+      "I",
+      "I",
+      "E",
+      "O",
       "R",
+      "H",
+      "O"
+    ],
+    [
+      "T",
+      "S",
+      "R",
+      "P",
+      "I",
+      "C",
+      "H",
+      "T"
+    ],
+    [
+      "R",
+      "R",
+      "A",
+      "C",
+      "D",
+      "M",
+      "Y",
+      "E"
+    ],
+    [
+      "I",
+      "T",
+      "E",
+      "M",
+      "N",
+      "E",
+      "G",
+      "L"
+    ],
+    [
+      "C",
+      "K",
+      "S",
+      "Y",
+      "T",
+      "H",
+      "I",
       "C"
     ]
   ],
   "answers": [
-    "SEACREATURE",
-    "CORALREEF",
-    "CLOWNFISH",
-    "MANGROVES",
-    "SEAURCHIN",
-    "SEAHORSES"
+    "MYTHICLEGEND",
+    "MYTHOLOGY",
+    "AFTERLIFE",
+    "TRICKSTER",
+    "SACRIFICE",
+    "EPICHERO"
   ],
-  "spangram": "SEACREATURE"
+  "spangram": "MYTHICLEGEND"
 };
