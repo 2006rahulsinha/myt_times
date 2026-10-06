@@ -1,43 +1,43 @@
 export const connectionsData = {
   "groups": [
     {
-      "name": "GREEK GODS",
+      "name": "FILM GENRES",
       "color": "yellow",
       "words": [
-        "ZEUS",
-        "HERA",
-        "POSEIDON",
-        "ATHENA"
+        "COMEDY",
+        "HORROR",
+        "WESTERN",
+        "MUSICAL"
       ]
     },
     {
-      "name": "NORSE MYTHICAL CREATURES",
+      "name": "OSCAR BEST PICTURE WINNERS",
       "color": "green",
       "words": [
-        "FENRIR",
-        "JORMUNGANDR",
-        "VALKYRIE",
-        "TROLL"
+        "CASABLANCA",
+        "TITANIC",
+        "GLADIATOR",
+        "PARASITE"
       ]
     },
     {
-      "name": "EGYPTIAN UNDERWORLD FIGURES",
+      "name": "FAMOUS DIRECTORS",
       "color": "blue",
       "words": [
-        "OSIRIS",
-        "ANUBIS",
-        "AMMIT",
-        "DUAT"
+        "SPIELBERG",
+        "KUBRICK",
+        "NOLAN",
+        "LEE"
       ]
     },
     {
-      "name": "ROMAN MYTHIC HEROES",
+      "name": "CINEMA TERMS",
       "color": "purple",
       "words": [
-        "AENEAS",
-        "ROMULUS",
-        "REMUS",
-        "HORATIUS"
+        "BOX OFFICE",
+        "STORYBOARD",
+        "MONTAGE",
+        "CINEMATOGRAPHY"
       ]
     }
   ]

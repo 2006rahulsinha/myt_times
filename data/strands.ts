@@ -1,84 +1,85 @@
 export const strandsData = {
-  "themeClue": "Myths woven through time",
+  "themeClue": "Lights, camera, action!",
   "grid": [
     [
-      "L",
-      "R",
-      "E",
-      "T",
-      "F",
-      "A",
-      "G",
-      "O"
-    ],
-    [
-      "I",
-      "F",
-      "F",
+      "S",
       "C",
-      "E",
-      "E",
-      "Y",
-      "L"
-    ],
-    [
-      "E",
-      "I",
-      "I",
-      "E",
+      "R",
+      "S",
       "O",
       "R",
-      "H",
-      "O"
-    ],
-    [
-      "T",
-      "S",
       "R",
-      "P",
-      "I",
-      "C",
-      "H",
-      "T"
-    ],
-    [
-      "R",
-      "R",
-      "A",
-      "C",
-      "D",
-      "M",
-      "Y",
       "E"
     ],
     [
-      "I",
-      "T",
+      "C",
       "E",
-      "M",
       "N",
+      "T",
+      "Y",
+      "R",
+      "I",
+      "M"
+    ],
+    [
+      "I",
       "E",
-      "G",
-      "L"
+      "R",
+      "L",
+      "E",
+      "P",
+      "E",
+      "M"
+    ],
+    [
+      "T",
+      "N",
+      "O",
+      "O",
+      "I",
+      "N",
+      "A",
+      "M"
+    ],
+    [
+      "A",
+      "I",
+      "P",
+      "P",
+      "C",
+      "K",
+      "L",
+      "N"
     ],
     [
       "C",
-      "K",
-      "S",
-      "Y",
-      "T",
-      "H",
+      "M",
+      "N",
+      "R",
+      "E",
       "I",
-      "C"
+      "F",
+      "O"
+    ],
+    [
+      "I",
+      "N",
+      "E",
+      "G",
+      "A",
+      "C",
+      "T",
+      "I"
     ]
   ],
   "answers": [
-    "MYTHICLEGEND",
-    "MYTHOLOGY",
-    "AFTERLIFE",
-    "TRICKSTER",
-    "SACRIFICE",
-    "EPICHERO"
+    "CINEMATIC",
+    "SCREENING",
+    "ACTION",
+    "FILMMAKER",
+    "POPCORN",
+    "STORYLINE",
+    "PREMIER"
   ],
-  "spangram": "MYTHICLEGEND"
+  "spangram": "CINEMATIC"
 };
