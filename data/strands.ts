@@ -1,85 +1,84 @@
 export const strandsData = {
-  "themeClue": "Lights, camera, action!",
+  "themeClue": "Celestial strands",
   "grid": [
     [
-      "S",
-      "C",
-      "R",
-      "S",
+      "N",
       "O",
-      "R",
-      "R",
-      "E"
-    ],
-    [
-      "C",
-      "E",
+      "V",
+      "A",
       "N",
       "T",
-      "Y",
-      "R",
-      "I",
-      "M"
+      "E",
+      "R"
     ],
     [
-      "I",
-      "E",
       "R",
+      "R",
+      "T",
+      "P",
+      "I",
       "L",
       "E",
-      "P",
+      "S"
+    ],
+    [
       "E",
-      "M"
+      "A",
+      "Y",
+      "E",
+      "L",
+      "A",
+      "L",
+      "T"
     ],
     [
+      "U",
+      "P",
+      "N",
+      "A",
+      "O",
       "T",
-      "N",
-      "O",
-      "O",
-      "I",
-      "N",
-      "A",
-      "M"
+      "S",
+      "A"
     ],
     [
+      "L",
+      "S",
+      "E",
+      "L",
+      "H",
+      "E",
+      "D",
+      "R"
+    ],
+    [
+      "B",
       "A",
-      "I",
-      "P",
-      "P",
       "C",
       "K",
       "L",
-      "N"
+      "I",
+      "E",
+      "A"
     ],
     [
-      "C",
-      "M",
-      "N",
-      "R",
       "E",
-      "I",
-      "F",
-      "O"
-    ],
-    [
-      "I",
-      "N",
-      "E",
-      "G",
-      "A",
-      "C",
       "T",
-      "I"
+      "I",
+      "L",
+      "O",
+      "R",
+      "T",
+      "S"
     ]
   ],
   "answers": [
-    "CINEMATIC",
-    "SCREENING",
-    "ACTION",
-    "FILMMAKER",
-    "POPCORN",
-    "STORYLINE",
-    "PREMIER"
+    "INTERSTELLAR",
+    "ASTEROID",
+    "SATELLITE",
+    "BLACKHOLE",
+    "SUPERNOVA",
+    "PLANETARY"
   ],
-  "spangram": "CINEMATIC"
+  "spangram": "INTERSTELLAR"
 };
