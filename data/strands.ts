@@ -1,84 +1,85 @@
 export const strandsData = {
-  "themeClue": "Celestial strands",
+  "themeClue": "Arcade classics",
   "grid": [
     [
-      "N",
-      "O",
-      "V",
-      "A",
-      "N",
-      "T",
-      "E",
-      "R"
-    ],
-    [
-      "R",
-      "R",
-      "T",
-      "P",
-      "I",
       "L",
-      "E",
-      "S"
+      "P",
+      "D",
+      "R",
+      "O",
+      "S",
+      "S",
+      "F"
     ],
     [
-      "E",
       "A",
       "Y",
+      "S",
+      "L",
+      "W",
+      "O",
+      "I",
+      "H"
+    ],
+    [
+      "S",
+      "R",
       "E",
-      "L",
+      "E",
       "A",
-      "L",
-      "T"
+      "B",
+      "T",
+      "G"
+    ],
+    [
+      "I",
+      "D",
+      "S",
+      "M",
+      "G",
+      "G",
+      "E",
+      "D"
+    ],
+    [
+      "E",
+      "T",
+      "T",
+      "O",
+      "C",
+      "P",
+      "R",
+      "A"
+    ],
+    [
+      "Q",
+      "S",
+      "R",
+      "I",
+      "A",
+      "T",
+      "U",
+      "N"
     ],
     [
       "U",
-      "P",
+      "E",
+      "Y",
+      "L",
       "N",
-      "A",
-      "O",
-      "T",
-      "S",
-      "A"
-    ],
-    [
-      "L",
-      "S",
       "E",
-      "L",
-      "H",
-      "E",
-      "D",
-      "R"
-    ],
-    [
-      "B",
-      "A",
-      "C",
-      "K",
-      "L",
       "I",
-      "E",
-      "A"
-    ],
-    [
-      "E",
-      "T",
-      "I",
-      "L",
-      "O",
-      "R",
-      "T",
-      "S"
+      "O"
     ]
   ],
   "answers": [
-    "INTERSTELLAR",
-    "ASTEROID",
-    "SATELLITE",
-    "BLACKHOLE",
-    "SUPERNOVA",
-    "PLANETARY"
+    "GAMEWORLDS",
+    "PLAYER",
+    "SIDEQUEST",
+    "STORYLINE",
+    "ACTION",
+    "UPGRADE",
+    "BOSSFIGHT"
   ],
-  "spangram": "INTERSTELLAR"
+  "spangram": "GAMEWORLDS"
 };

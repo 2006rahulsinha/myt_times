@@ -1,43 +1,43 @@
 export const connectionsData = {
   "groups": [
     {
-      "name": "SOLAR SYSTEM PLANETS",
+      "name": "CONSOLE BRANDS",
       "color": "yellow",
       "words": [
-        "MERCURY",
-        "VENUS",
-        "EARTH",
-        "MARS"
+        "NINTENDO",
+        "SONY",
+        "MICROSOFT",
+        "SEGA"
       ]
     },
     {
-      "name": "TELESCOPE VARIETIES",
+      "name": "GAME GENRES",
       "color": "green",
       "words": [
-        "REFRACTOR",
-        "REFLECTOR",
-        "RADIO",
-        "INFRARED"
+        "PLATFORMER",
+        "RPG",
+        "SHOOTER",
+        "PUZZLE"
       ]
     },
     {
-      "name": "SPACE AGENCIES",
+      "name": "ICONIC CHARACTERS",
       "color": "blue",
       "words": [
-        "NASA",
-        "ESA",
-        "ROSCOSMOS",
-        "JAXA"
+        "MARIO",
+        "MASTER CHIEF",
+        "LARA CROFT",
+        "SONIC"
       ]
     },
     {
-      "name": "FAMOUS LAUNCH VEHICLES",
+      "name": "CLASSIC ARCADE TITLES",
       "color": "purple",
       "words": [
-        "SATURN V",
-        "FALCON 9",
-        "SOYUZ",
-        "ARIANE 5"
+        "PACMAN",
+        "SPACE INVADERS",
+        "DONKEY KONG",
+        "GALAGA"
       ]
     }
   ]
