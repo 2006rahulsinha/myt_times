@@ -1,43 +1,43 @@
 export const connectionsData = {
   "groups": [
     {
-      "name": "CONSOLE BRANDS",
+      "name": "FILM GENRES",
       "color": "yellow",
       "words": [
-        "NINTENDO",
-        "SONY",
-        "MICROSOFT",
-        "SEGA"
+        "THRILLER",
+        "WESTERN",
+        "DOCUMENTARY",
+        "MUSICAL"
       ]
     },
     {
-      "name": "GAME GENRES",
+      "name": "OSCAR AWARDS",
       "color": "green",
       "words": [
-        "PLATFORMER",
-        "RPG",
-        "SHOOTER",
-        "PUZZLE"
+        "BEST PICTURE",
+        "BEST DIRECTOR",
+        "BEST ACTOR",
+        "BEST ACTRESS"
       ]
     },
     {
-      "name": "ICONIC CHARACTERS",
+      "name": "RENOWNED DIRECTORS",
       "color": "blue",
       "words": [
-        "MARIO",
-        "MASTER CHIEF",
-        "LARA CROFT",
-        "SONIC"
+        "SPIELBERG",
+        "SCORSESE",
+        "KUROSAWA",
+        "HITCHCOCK"
       ]
     },
     {
-      "name": "CLASSIC ARCADE TITLES",
+      "name": "CINEMA TERMINOLOGY",
       "color": "purple",
       "words": [
-        "PACMAN",
-        "SPACE INVADERS",
-        "DONKEY KONG",
-        "GALAGA"
+        "SCREENPLAY",
+        "CINEMATOGRAPHY",
+        "MONTAGE",
+        "FOLEY"
       ]
     }
   ]

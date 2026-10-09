@@ -1,85 +1,85 @@
 export const strandsData = {
-  "themeClue": "Arcade classics",
+  "themeClue": "Film fans unite",
   "grid": [
     [
-      "L",
-      "P",
-      "D",
       "R",
+      "A",
+      "T",
+      "S",
+      "R",
+      "M",
+      "M",
+      "L"
+    ],
+    [
+      "R",
+      "N",
+      "G",
+      "P",
+      "R",
+      "E",
+      "A",
+      "I"
+    ],
+    [
+      "I",
+      "C",
+      "A",
+      "C",
       "O",
-      "S",
-      "S",
+      "E",
+      "K",
       "F"
     ],
     [
       "A",
-      "Y",
-      "S",
-      "L",
-      "W",
-      "O",
-      "I",
-      "H"
-    ],
-    [
-      "S",
       "R",
-      "E",
-      "E",
-      "A",
-      "B",
-      "T",
-      "G"
-    ],
-    [
-      "I",
-      "D",
-      "S",
-      "M",
-      "G",
-      "G",
-      "E",
-      "D"
-    ],
-    [
-      "E",
-      "T",
-      "T",
-      "O",
-      "C",
       "P",
       "R",
-      "A"
-    ],
-    [
-      "Q",
-      "S",
-      "R",
-      "I",
-      "A",
-      "T",
-      "U",
-      "N"
-    ],
-    [
-      "U",
-      "E",
-      "Y",
-      "L",
       "N",
       "E",
+      "M",
+      "R"
+    ],
+    [
+      "M",
+      "E",
+      "C",
+      "O",
+      "P",
+      "R",
       "I",
       "O"
+    ],
+    [
+      "M",
+      "A",
+      "I",
+      "S",
+      "D",
+      "E",
+      "T",
+      "C"
+    ],
+    [
+      "E",
+      "N",
+      "T",
+      "I",
+      "C",
+      "I",
+      "R",
+      "E"
     ]
   ],
   "answers": [
-    "GAMEWORLDS",
-    "PLAYER",
-    "SIDEQUEST",
-    "STORYLINE",
-    "ACTION",
-    "UPGRADE",
-    "BOSSFIGHT"
+    "CINEMATICS",
+    "DIRECTOR",
+    "FILMMAKER",
+    "STARRING",
+    "CAMERA",
+    "PREMIERE",
+    "POPCORN"
   ],
-  "spangram": "GAMEWORLDS"
+  "spangram": "CINEMATICS"
 };
