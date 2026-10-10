@@ -1,43 +1,43 @@
 export const connectionsData = {
   "groups": [
     {
-      "name": "FILM GENRES",
+      "name": "CLASSIC EUROGAMES",
       "color": "yellow",
       "words": [
-        "THRILLER",
-        "WESTERN",
-        "DOCUMENTARY",
-        "MUSICAL"
+        "CATAN",
+        "TICKET TO RIDE",
+        "CARCASSONNE",
+        "POWER GRID"
       ]
     },
     {
-      "name": "OSCAR AWARDS",
+      "name": "ROLL AND MOVE",
       "color": "green",
       "words": [
-        "BEST PICTURE",
-        "BEST DIRECTOR",
-        "BEST ACTOR",
-        "BEST ACTRESS"
+        "MONOPOLY",
+        "THE GAME OF LIFE",
+        "SORRY",
+        "TROUBLE"
       ]
     },
     {
-      "name": "RENOWNED DIRECTORS",
+      "name": "ABSTRACT STRATEGY",
       "color": "blue",
       "words": [
-        "SPIELBERG",
-        "SCORSESE",
-        "KUROSAWA",
-        "HITCHCOCK"
+        "CHESS",
+        "GO",
+        "HIVE",
+        "BLOKUS"
       ]
     },
     {
-      "name": "CINEMA TERMINOLOGY",
+      "name": "DECK BUILDING",
       "color": "purple",
       "words": [
-        "SCREENPLAY",
-        "CINEMATOGRAPHY",
-        "MONTAGE",
-        "FOLEY"
+        "DOMINION",
+        "STAR REALMS",
+        "MARVEL LEGENDARY",
+        "CLANK"
       ]
     }
   ]

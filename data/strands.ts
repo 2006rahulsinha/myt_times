@@ -1,85 +1,85 @@
 export const strandsData = {
-  "themeClue": "Film fans unite",
+  "themeClue": "Roll the dice",
   "grid": [
     [
+      "E",
+      "B",
+      "C",
+      "O",
+      "R",
+      "D",
+      "S",
+      "E"
+    ],
+    [
+      "M",
+      "O",
+      "S",
       "R",
       "A",
       "T",
-      "S",
-      "R",
-      "M",
-      "M",
-      "L"
-    ],
-    [
-      "R",
       "N",
-      "G",
-      "P",
-      "R",
-      "E",
-      "A",
-      "I"
+      "K"
     ],
     [
-      "I",
-      "C",
       "A",
+      "A",
+      "R",
+      "D",
+      "E",
       "C",
       "O",
-      "E",
-      "K",
-      "F"
+      "A"
     ],
     [
+      "G",
+      "G",
       "A",
-      "R",
-      "P",
-      "R",
+      "B",
       "N",
-      "E",
-      "M",
+      "B",
+      "O",
       "R"
     ],
     [
-      "M",
+      "I",
+      "L",
       "E",
-      "C",
       "O",
-      "P",
       "R",
-      "I",
-      "O"
+      "C",
+      "G",
+      "D"
     ],
     [
-      "M",
-      "A",
-      "I",
-      "S",
+      "R",
+      "T",
+      "R",
+      "U",
+      "U",
+      "E",
       "D",
-      "E",
-      "T",
-      "C"
+      "A"
     ],
     [
       "E",
-      "N",
+      "D",
       "T",
-      "I",
+      "P",
       "C",
       "I",
-      "R",
-      "E"
+      "E",
+      "M"
     ]
   ],
   "answers": [
-    "CINEMATICS",
-    "DIRECTOR",
-    "FILMMAKER",
-    "STARRING",
-    "CAMERA",
-    "PREMIERE",
-    "POPCORN"
+    "BOARDGAME",
+    "DICECUP",
+    "TURNORDER",
+    "TILEBAG",
+    "GAMEBOARD",
+    "SCORECARD",
+    "TOKENS"
   ],
-  "spangram": "CINEMATICS"
+  "spangram": "BOARDGAME"
 };
