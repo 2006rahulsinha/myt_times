@@ -1,85 +1,85 @@
 export const strandsData = {
-  "themeClue": "Roll the dice",
+  "themeClue": "Silver screen",
   "grid": [
     [
-      "E",
-      "B",
-      "C",
+      "T",
       "O",
       "R",
-      "D",
-      "S",
+      "M",
+      "M",
+      "A",
+      "K",
       "E"
     ],
     [
-      "M",
-      "O",
-      "S",
-      "R",
-      "A",
-      "T",
-      "N",
-      "K"
-    ],
-    [
-      "A",
-      "A",
-      "R",
-      "D",
-      "E",
       "C",
-      "O",
-      "A"
-    ],
-    [
-      "G",
-      "G",
-      "A",
-      "B",
-      "N",
-      "B",
-      "O",
+      "F",
+      "L",
+      "E",
+      "E",
+      "R",
+      "C",
       "R"
     ],
     [
-      "I",
-      "L",
       "E",
+      "I",
+      "N",
+      "D",
+      "M",
       "O",
-      "R",
-      "C",
-      "G",
-      "D"
+      "V",
+      "S"
     ],
     [
-      "R",
-      "T",
-      "R",
-      "U",
-      "U",
-      "E",
       "D",
+      "R",
+      "E",
+      "C",
+      "C",
+      "T",
+      "E",
+      "I"
+    ],
+    [
+      "T",
+      "I",
+      "N",
+      "I",
+      "I",
+      "A",
+      "M",
       "A"
     ],
     [
       "E",
-      "D",
-      "T",
-      "P",
-      "C",
-      "I",
+      "S",
+      "F",
+      "O",
+      "N",
       "E",
-      "M"
+      "A",
+      "N"
+    ],
+    [
+      "F",
+      "M",
+      "L",
+      "I",
+      "I",
+      "T",
+      "M",
+      "I"
     ]
   ],
   "answers": [
-    "BOARDGAME",
-    "DICECUP",
-    "TURNORDER",
-    "TILEBAG",
-    "GAMEBOARD",
-    "SCORECARD",
-    "TOKENS"
+    "FILMFEST",
+    "DIRECTOR",
+    "FILMMAKER",
+    "SCREENED",
+    "MOVIE",
+    "ANIMATION",
+    "CINEMATIC"
   ],
-  "spangram": "BOARDGAME"
+  "spangram": "FILMFEST"
 };

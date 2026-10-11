@@ -1,43 +1,43 @@
 export const connectionsData = {
   "groups": [
     {
-      "name": "CLASSIC EUROGAMES",
+      "name": "FILM GENRES",
       "color": "yellow",
       "words": [
-        "CATAN",
-        "TICKET TO RIDE",
-        "CARCASSONNE",
-        "POWER GRID"
+        "THRILLER",
+        "WESTERN",
+        "MUSICAL",
+        "DOCUMENTARY"
       ]
     },
     {
-      "name": "ROLL AND MOVE",
+      "name": "LEGENDARY DIRECTORS",
       "color": "green",
       "words": [
-        "MONOPOLY",
-        "THE GAME OF LIFE",
-        "SORRY",
-        "TROUBLE"
+        "SPIELBERG",
+        "HITCHCOCK",
+        "KUROSAWA",
+        "SCORSESE"
       ]
     },
     {
-      "name": "ABSTRACT STRATEGY",
+      "name": "CLASSIC STUDIOS",
       "color": "blue",
       "words": [
-        "CHESS",
-        "GO",
-        "HIVE",
-        "BLOKUS"
+        "PARAMOUNT",
+        "WARNER BROS",
+        "UNIVERSAL",
+        "MGM"
       ]
     },
     {
-      "name": "DECK BUILDING",
+      "name": "ICONIC PROPS",
       "color": "purple",
       "words": [
-        "DOMINION",
-        "STAR REALMS",
-        "MARVEL LEGENDARY",
-        "CLANK"
+        "LIGHTSABER",
+        "ROSEBUD",
+        "DELOREAN",
+        "BATARANG"
       ]
     }
   ]
