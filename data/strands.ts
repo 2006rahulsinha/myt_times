@@ -2,84 +2,84 @@ export const strandsData = {
   "themeClue": "Stars and beyond",
   "grid": [
     [
-      "E",
-      "I",
-      "X",
-      "A",
       "L",
       "A",
-      "T",
-      "H"
-    ],
-    [
-      "S",
       "E",
-      "B",
-      "S",
       "T",
-      "E",
       "G",
-      "G"
-    ],
-    [
-      "N",
-      "U",
-      "A",
-      "B",
-      "L",
-      "O",
       "R",
-      "I"
-    ],
-    [
-      "L",
-      "T",
-      "E",
-      "E",
-      "O",
       "A",
-      "I",
-      "L"
-    ],
-    [
-      "A",
-      "E",
-      "T",
-      "H",
-      "L",
-      "C",
-      "D",
-      "R"
-    ],
-    [
-      "E",
-      "N",
-      "R",
-      "I",
-      "K",
-      "T",
-      "M",
-      "A"
+      "V"
     ],
     [
       "P",
+      "N",
+      "A",
+      "P",
+      "I",
+      "S",
+      "Y",
+      "I"
+    ],
+    [
+      "T",
+      "S",
+      "T",
       "L",
+      "E",
+      "H",
+      "T",
+      "T"
+    ],
+    [
+      "F",
+      "R",
+      "B",
+      "U",
+      "A",
+      "L",
+      "S",
+      "A"
+    ],
+    [
       "A",
       "O",
+      "O",
       "E",
-      "E",
+      "N",
+      "A",
+      "T",
+      "R"
+    ],
+    [
+      "C",
+      "R",
+      "N",
+      "M",
+      "Y",
+      "I",
       "S",
-      "T"
+      "E"
+    ],
+    [
+      "E",
+      "C",
+      "A",
+      "P",
+      "S",
+      "C",
+      "E",
+      "L"
     ]
   ],
   "answers": [
-    "STARLIGHT",
-    "GALAXIES",
-    "NEBULAE",
+    "SPACECRAFT",
     "PLANET",
-    "ASTEROID",
-    "METEORITE",
-    "BLACKHOLE"
+    "GRAVITY",
+    "STARSHIP",
+    "ASTRONOMY",
+    "CELESTIAL",
+    "NEBULAE"
   ],
-  "spangram": "STARLIGHT"
+  "spangram": "SPACECRAFT"
 };

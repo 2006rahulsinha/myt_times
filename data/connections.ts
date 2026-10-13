@@ -1,43 +1,43 @@
 export const connectionsData = {
   "groups": [
     {
-      "name": "SOLAR SYSTEM PLANETS",
+      "name": "STAR TYPES",
       "color": "yellow",
       "words": [
-        "MERCURY",
-        "VENUS",
-        "EARTH",
-        "MARS"
+        "RED DWARF",
+        "BLUE GIANT",
+        "NEUTRON STAR",
+        "WHITE DWARF"
       ]
     },
     {
-      "name": "GALILEAN MOONS",
+      "name": "SPACECRAFT",
       "color": "green",
-      "words": [
-        "IO",
-        "EUROPA",
-        "GANYMEDE",
-        "CALLISTO"
-      ]
-    },
-    {
-      "name": "FAMOUS TELESCOPES",
-      "color": "blue",
-      "words": [
-        "HUBBLE",
-        "JAMES WEBB",
-        "KECK",
-        "SPITZER"
-      ]
-    },
-    {
-      "name": "SPACE MISSIONS",
-      "color": "purple",
       "words": [
         "APOLLO",
         "VOYAGER",
-        "CURIOSITY",
+        "SOYUZ",
         "CASSINI"
+      ]
+    },
+    {
+      "name": "MOONS",
+      "color": "blue",
+      "words": [
+        "EUROPA",
+        "TITAN",
+        "GANYMEDE",
+        "PHOBOS"
+      ]
+    },
+    {
+      "name": "ASTRONOMICAL PHENOMENA",
+      "color": "purple",
+      "words": [
+        "BLACK HOLE",
+        "SUPERNOVA",
+        "AURORA",
+        "METEOR SHOWER"
       ]
     }
   ]
