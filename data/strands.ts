@@ -1,85 +1,85 @@
 export const strandsData = {
-  "themeClue": "Silver screen",
+  "themeClue": "Stars and beyond",
   "grid": [
     [
-      "T",
-      "O",
-      "R",
-      "M",
-      "M",
+      "E",
+      "I",
+      "X",
       "A",
-      "K",
-      "E"
+      "L",
+      "A",
+      "T",
+      "H"
     ],
     [
-      "C",
-      "F",
+      "S",
+      "E",
+      "B",
+      "S",
+      "T",
+      "E",
+      "G",
+      "G"
+    ],
+    [
+      "N",
+      "U",
+      "A",
+      "B",
       "L",
-      "E",
-      "E",
+      "O",
       "R",
+      "I"
+    ],
+    [
+      "L",
+      "T",
+      "E",
+      "E",
+      "O",
+      "A",
+      "I",
+      "L"
+    ],
+    [
+      "A",
+      "E",
+      "T",
+      "H",
+      "L",
       "C",
+      "D",
       "R"
     ],
     [
       "E",
-      "I",
       "N",
-      "D",
-      "M",
-      "O",
-      "V",
-      "S"
-    ],
-    [
-      "D",
       "R",
-      "E",
-      "C",
-      "C",
+      "I",
+      "K",
       "T",
-      "E",
-      "I"
-    ],
-    [
-      "T",
-      "I",
-      "N",
-      "I",
-      "I",
-      "A",
       "M",
       "A"
     ],
     [
+      "P",
+      "L",
+      "A",
+      "O",
+      "E",
       "E",
       "S",
-      "F",
-      "O",
-      "N",
-      "E",
-      "A",
-      "N"
-    ],
-    [
-      "F",
-      "M",
-      "L",
-      "I",
-      "I",
-      "T",
-      "M",
-      "I"
+      "T"
     ]
   ],
   "answers": [
-    "FILMFEST",
-    "DIRECTOR",
-    "FILMMAKER",
-    "SCREENED",
-    "MOVIE",
-    "ANIMATION",
-    "CINEMATIC"
+    "STARLIGHT",
+    "GALAXIES",
+    "NEBULAE",
+    "PLANET",
+    "ASTEROID",
+    "METEORITE",
+    "BLACKHOLE"
   ],
-  "spangram": "FILMFEST"
+  "spangram": "STARLIGHT"
 };

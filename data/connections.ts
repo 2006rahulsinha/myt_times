@@ -1,43 +1,43 @@
 export const connectionsData = {
   "groups": [
     {
-      "name": "FILM GENRES",
+      "name": "SOLAR SYSTEM PLANETS",
       "color": "yellow",
       "words": [
-        "THRILLER",
-        "WESTERN",
-        "MUSICAL",
-        "DOCUMENTARY"
+        "MERCURY",
+        "VENUS",
+        "EARTH",
+        "MARS"
       ]
     },
     {
-      "name": "LEGENDARY DIRECTORS",
+      "name": "GALILEAN MOONS",
       "color": "green",
       "words": [
-        "SPIELBERG",
-        "HITCHCOCK",
-        "KUROSAWA",
-        "SCORSESE"
+        "IO",
+        "EUROPA",
+        "GANYMEDE",
+        "CALLISTO"
       ]
     },
     {
-      "name": "CLASSIC STUDIOS",
+      "name": "FAMOUS TELESCOPES",
       "color": "blue",
       "words": [
-        "PARAMOUNT",
-        "WARNER BROS",
-        "UNIVERSAL",
-        "MGM"
+        "HUBBLE",
+        "JAMES WEBB",
+        "KECK",
+        "SPITZER"
       ]
     },
     {
-      "name": "ICONIC PROPS",
+      "name": "SPACE MISSIONS",
       "color": "purple",
       "words": [
-        "LIGHTSABER",
-        "ROSEBUD",
-        "DELOREAN",
-        "BATARANG"
+        "APOLLO",
+        "VOYAGER",
+        "CURIOSITY",
+        "CASSINI"
       ]
     }
   ]
