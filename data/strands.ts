@@ -1,85 +1,85 @@
 export const strandsData = {
-  "themeClue": "Stars and beyond",
+  "themeClue": "Melodic strands await",
   "grid": [
     [
-      "L",
-      "A",
-      "E",
-      "T",
-      "G",
-      "R",
-      "A",
-      "V"
-    ],
-    [
-      "P",
       "N",
-      "A",
-      "P",
-      "I",
-      "S",
-      "Y",
-      "I"
-    ],
-    [
-      "T",
       "S",
       "T",
       "L",
-      "E",
-      "H",
-      "T",
-      "T"
-    ],
-    [
-      "F",
-      "R",
+      "N",
+      "K",
       "B",
-      "U",
-      "A",
-      "L",
-      "S",
       "A"
     ],
     [
-      "A",
       "O",
-      "O",
-      "E",
-      "N",
-      "A",
       "T",
-      "R"
-    ],
-    [
+      "E",
+      "O",
+      "A",
       "C",
-      "R",
-      "N",
-      "M",
-      "Y",
-      "I",
-      "S",
+      "T",
       "E"
     ],
     [
       "E",
       "C",
-      "A",
-      "P",
-      "S",
+      "Y",
       "C",
+      "U",
+      "S",
+      "A",
+      "B"
+    ],
+    [
+      "L",
+      "A",
+      "B",
+      "M",
+      "I",
+      "M",
       "E",
-      "L"
+      "R"
+    ],
+    [
+      "S",
+      "O",
+      "A",
+      "S",
+      "H",
+      "O",
+      "S",
+      "O"
+    ],
+    [
+      "R",
+      "E",
+      "R",
+      "Y",
+      "P",
+      "N",
+      "M",
+      "P"
+    ],
+    [
+      "C",
+      "H",
+      "S",
+      "T",
+      "M",
+      "Y",
+      "C",
+      "O"
     ]
   ],
   "answers": [
-    "SPACECRAFT",
-    "PLANET",
-    "GRAVITY",
-    "STARSHIP",
-    "ASTRONOMY",
-    "CELESTIAL",
-    "NEBULAE"
+    "MUSICALNOTES",
+    "NOTE",
+    "CYMBALS",
+    "ORCHESTRA",
+    "SYMPHONY",
+    "COMPOSER",
+    "BACKBEAT"
   ],
-  "spangram": "SPACECRAFT"
+  "spangram": "MUSICALNOTES"
 };

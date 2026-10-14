@@ -1,43 +1,43 @@
 export const connectionsData = {
   "groups": [
     {
-      "name": "STAR TYPES",
+      "name": "CLASSICAL FORMS",
       "color": "yellow",
       "words": [
-        "RED DWARF",
-        "BLUE GIANT",
-        "NEUTRON STAR",
-        "WHITE DWARF"
+        "SYMPHONY",
+        "CONCERTO",
+        "SONATA",
+        "SUITE"
       ]
     },
     {
-      "name": "SPACECRAFT",
+      "name": "ROCK INSTRUMENTS",
       "color": "green",
       "words": [
-        "APOLLO",
-        "VOYAGER",
-        "SOYUZ",
-        "CASSINI"
+        "ELECTRIC GUITAR",
+        "DRUM KIT",
+        "BASS GUITAR",
+        "KEYBOARD"
       ]
     },
     {
-      "name": "MOONS",
+      "name": "MUSIC GENRES",
       "color": "blue",
       "words": [
-        "EUROPA",
-        "TITAN",
-        "GANYMEDE",
-        "PHOBOS"
+        "JAZZ",
+        "BLUES",
+        "HIP HOP",
+        "REGGAE"
       ]
     },
     {
-      "name": "ASTRONOMICAL PHENOMENA",
+      "name": "FAMOUS CONDUCTORS",
       "color": "purple",
       "words": [
-        "BLACK HOLE",
-        "SUPERNOVA",
-        "AURORA",
-        "METEOR SHOWER"
+        "KARAJAN",
+        "MAHLER",
+        "BERNSTEIN",
+        "TOSCANINI"
       ]
     }
   ]
