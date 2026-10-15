@@ -1,43 +1,43 @@
 export const connectionsData = {
   "groups": [
     {
-      "name": "CLASSICAL FORMS",
+      "name": "MUSICAL INSTRUMENTS",
       "color": "yellow",
       "words": [
-        "SYMPHONY",
-        "CONCERTO",
-        "SONATA",
-        "SUITE"
-      ]
-    },
-    {
-      "name": "ROCK INSTRUMENTS",
-      "color": "green",
-      "words": [
-        "ELECTRIC GUITAR",
-        "DRUM KIT",
-        "BASS GUITAR",
-        "KEYBOARD"
+        "VIOLIN",
+        "TROMBONE",
+        "HARP",
+        "SAXOPHONE"
       ]
     },
     {
       "name": "MUSIC GENRES",
-      "color": "blue",
+      "color": "green",
       "words": [
         "JAZZ",
+        "REGGAE",
         "BLUES",
-        "HIP HOP",
-        "REGGAE"
+        "HIP HOP"
       ]
     },
     {
-      "name": "FAMOUS CONDUCTORS",
+      "name": "CLASSICAL COMPOSERS",
+      "color": "blue",
+      "words": [
+        "MOZART",
+        "BEETHOVEN",
+        "TCHAIKOVSKY",
+        "DEBUSSY"
+      ]
+    },
+    {
+      "name": "MUSICAL TERMS",
       "color": "purple",
       "words": [
-        "KARAJAN",
-        "MAHLER",
-        "BERNSTEIN",
-        "TOSCANINI"
+        "FORTE",
+        "STACCATO",
+        "ALLEGRO",
+        "CRESCENDO"
       ]
     }
   ]

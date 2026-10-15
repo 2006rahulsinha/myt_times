@@ -1,85 +1,85 @@
 export const strandsData = {
-  "themeClue": "Melodic strands await",
+  "themeClue": "Melodic threads",
   "grid": [
     [
-      "N",
-      "S",
-      "T",
       "L",
-      "N",
-      "K",
-      "B",
-      "A"
-    ],
-    [
       "O",
-      "T",
-      "E",
-      "O",
-      "A",
-      "C",
-      "T",
-      "E"
-    ],
-    [
-      "E",
-      "C",
-      "Y",
-      "C",
-      "U",
-      "S",
-      "A",
-      "B"
-    ],
-    [
-      "L",
-      "A",
-      "B",
-      "M",
       "I",
-      "M",
-      "E",
-      "R"
-    ],
-    [
-      "S",
-      "O",
+      "R",
       "A",
-      "S",
-      "H",
       "O",
-      "S",
-      "O"
-    ],
-    [
-      "R",
-      "E",
-      "R",
-      "Y",
-      "P",
-      "N",
-      "M",
+      "H",
       "P"
     ],
     [
+      "I",
+      "N",
+      "D",
+      "V",
+      "T",
+      "C",
+      "N",
+      "M"
+    ],
+    [
+      "H",
+      "O",
+      "I",
+      "O",
+      "I",
+      "G",
+      "I",
+      "Y"
+    ],
+    [
+      "A",
+      "L",
+      "U",
+      "S",
+      "U",
+      "I",
+      "C",
+      "S"
+    ],
+    [
+      "R",
+      "E",
+      "M",
+      "A",
+      "M",
+      "R",
+      "H",
+      "A"
+    ],
+    [
+      "M",
+      "I",
       "C",
       "H",
+      "H",
       "S",
+      "N",
+      "R"
+    ],
+    [
+      "O",
+      "N",
       "T",
-      "M",
       "Y",
-      "C",
-      "O"
+      "E",
+      "I",
+      "O",
+      "M"
     ]
   ],
   "answers": [
-    "MUSICALNOTES",
-    "NOTE",
-    "CYMBALS",
-    "ORCHESTRA",
-    "SYMPHONY",
-    "COMPOSER",
-    "BACKBEAT"
+    "HARMONIES",
+    "RHYTHMIC",
+    "SYMPHONIC",
+    "GUITAR",
+    "VIOLIN",
+    "HARMONICA",
+    "MELODIOUS"
   ],
-  "spangram": "MUSICALNOTES"
+  "spangram": "HARMONIES"
 };
