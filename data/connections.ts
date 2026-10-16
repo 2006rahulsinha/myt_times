@@ -1,43 +1,43 @@
 export const connectionsData = {
   "groups": [
     {
-      "name": "MUSICAL INSTRUMENTS",
+      "name": "TOLKIEN REALMS",
       "color": "yellow",
       "words": [
-        "VIOLIN",
-        "TROMBONE",
-        "HARP",
-        "SAXOPHONE"
+        "MIDDLE EARTH",
+        "ROHAN",
+        "GONDOR",
+        "MORDOR"
       ]
     },
     {
-      "name": "MUSIC GENRES",
+      "name": "WESTEROS SEATS",
       "color": "green",
       "words": [
-        "JAZZ",
-        "REGGAE",
-        "BLUES",
-        "HIP HOP"
+        "WINTERFELL",
+        "KINGS LANDING",
+        "CASTERLY ROCK",
+        "DORNE"
       ]
     },
     {
-      "name": "CLASSICAL COMPOSERS",
+      "name": "GAME REALMS",
       "color": "blue",
       "words": [
-        "MOZART",
-        "BEETHOVEN",
-        "TCHAIKOVSKY",
-        "DEBUSSY"
+        "HYRULE",
+        "AZEROTH",
+        "TAMRIEL",
+        "SKYRIM"
       ]
     },
     {
-      "name": "MUSICAL TERMS",
+      "name": "MYTHIC REALMS",
       "color": "purple",
       "words": [
-        "FORTE",
-        "STACCATO",
-        "ALLEGRO",
-        "CRESCENDO"
+        "AVALON",
+        "ASGARD",
+        "OLYMPUS",
+        "SHANGRI LA"
       ]
     }
   ]

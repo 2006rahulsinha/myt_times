@@ -1,85 +1,85 @@
 export const strandsData = {
-  "themeClue": "Melodic threads",
+  "themeClue": "Realm of magic and myth",
   "grid": [
     [
-      "L",
-      "O",
-      "I",
-      "R",
-      "A",
-      "O",
-      "H",
-      "P"
-    ],
-    [
-      "I",
-      "N",
-      "D",
-      "V",
+      "Y",
       "T",
-      "C",
-      "N",
-      "M"
-    ],
-    [
       "H",
-      "O",
-      "I",
-      "O",
-      "I",
-      "G",
-      "I",
-      "Y"
-    ],
-    [
-      "A",
-      "L",
-      "U",
-      "S",
-      "U",
       "I",
       "C",
-      "S"
-    ],
-    [
       "R",
       "E",
-      "M",
-      "A",
-      "M",
-      "R",
-      "H",
       "A"
     ],
     [
       "M",
-      "I",
-      "C",
-      "H",
-      "H",
-      "S",
       "N",
-      "R"
+      "O",
+      "G",
+      "A",
+      "R",
+      "D",
+      "L"
+    ],
+    [
+      "K",
+      "N",
+      "G",
+      "I",
+      "N",
+      "G",
+      "U",
+      "M"
+    ],
+    [
+      "I",
+      "D",
+      "L",
+      "S",
+      "E",
+      "O",
+      "C",
+      "N"
     ],
     [
       "O",
-      "N",
-      "T",
-      "Y",
-      "E",
-      "I",
+      "M",
+      "S",
+      "M",
       "O",
-      "M"
+      "R",
+      "R",
+      "I"
+    ],
+    [
+      "M",
+      "R",
+      "L",
+      "F",
+      "O",
+      "E",
+      "R",
+      "N"
+    ],
+    [
+      "W",
+      "Y",
+      "L",
+      "A",
+      "N",
+      "C",
+      "O",
+      "S"
     ]
   ],
   "answers": [
-    "HARMONIES",
-    "RHYTHMIC",
-    "SYMPHONIC",
-    "GUITAR",
-    "VIOLIN",
-    "HARMONICA",
-    "MELODIOUS"
+    "MYTHICREALM",
+    "DRAGON",
+    "KINGDOM",
+    "WYRMLING",
+    "UNICORN",
+    "SORCERESS",
+    "MOONFALL"
   ],
-  "spangram": "HARMONIES"
+  "spangram": "MYTHICREALM"
 };
