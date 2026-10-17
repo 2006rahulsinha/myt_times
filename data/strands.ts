@@ -1,85 +1,85 @@
 export const strandsData = {
-  "themeClue": "Realm of magic and myth",
+  "themeClue": "Big top fun",
   "grid": [
     [
-      "Y",
-      "T",
-      "H",
-      "I",
-      "C",
-      "R",
-      "E",
-      "A"
+      "J",
+      "U",
+      "G",
+      "L",
+      "P",
+      "B",
+      "A",
+      "R"
     ],
     [
-      "M",
-      "N",
-      "O",
       "G",
+      "G",
+      "E",
+      "O",
+      "E",
+      "R",
+      "E",
+      "K"
+    ],
+    [
+      "N",
+      "R",
+      "H",
+      "R",
+      "C",
+      "R",
+      "O",
+      "U"
+    ],
+    [
+      "I",
+      "C",
+      "G",
+      "T",
+      "A",
+      "F",
+      "L",
+      "S"
+    ],
+    [
+      "N",
       "A",
       "R",
-      "D",
-      "L"
-    ],
-    [
-      "K",
-      "N",
-      "G",
       "I",
-      "N",
-      "G",
-      "U",
-      "M"
-    ],
-    [
       "I",
-      "D",
-      "L",
-      "S",
+      "R",
       "E",
-      "O",
-      "C",
-      "N"
-    ],
-    [
-      "O",
-      "M",
-      "S",
-      "M",
-      "O",
-      "R",
-      "R",
-      "I"
-    ],
-    [
-      "M",
-      "R",
-      "L",
-      "F",
-      "O",
-      "E",
-      "R",
-      "N"
+      "E"
     ],
     [
       "W",
-      "Y",
-      "L",
-      "A",
-      "N",
       "C",
+      "N",
+      "A",
+      "T",
+      "E",
+      "A",
+      "E"
+    ],
+    [
+      "L",
       "O",
-      "S"
+      "I",
+      "V",
+      "L",
+      "S",
+      "T",
+      "R"
     ]
   ],
   "answers": [
-    "MYTHICREALM",
-    "DRAGON",
-    "KINGDOM",
-    "WYRMLING",
-    "UNICORN",
-    "SORCERESS",
-    "MOONFALL"
+    "CLOWNING",
+    "JUGGLER",
+    "CARNIVALS",
+    "TIGHTROPE",
+    "BARKER",
+    "CAROUSEL",
+    "FIREEATER"
   ],
-  "spangram": "MYTHICREALM"
+  "spangram": "CLOWNING"
 };

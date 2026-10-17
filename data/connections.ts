@@ -1,43 +1,43 @@
 export const connectionsData = {
   "groups": [
     {
-      "name": "TOLKIEN REALMS",
+      "name": "ANIMAL ACTS",
       "color": "yellow",
       "words": [
-        "MIDDLE EARTH",
-        "ROHAN",
-        "GONDOR",
-        "MORDOR"
+        "ELEPHANT",
+        "LION",
+        "TIGER",
+        "HORSE"
       ]
     },
     {
-      "name": "WESTEROS SEATS",
+      "name": "RIDE ATTRACTIONS",
       "color": "green",
       "words": [
-        "WINTERFELL",
-        "KINGS LANDING",
-        "CASTERLY ROCK",
-        "DORNE"
+        "FERRIS WHEEL",
+        "CAROUSEL",
+        "TILT A WHIRL",
+        "BUMPER CARS"
       ]
     },
     {
-      "name": "GAME REALMS",
+      "name": "FOOD STALLS",
       "color": "blue",
       "words": [
-        "HYRULE",
-        "AZEROTH",
-        "TAMRIEL",
-        "SKYRIM"
+        "COTTON CANDY",
+        "POPCORN",
+        "CORN DOG",
+        "FUNNEL CAKE"
       ]
     },
     {
-      "name": "MYTHIC REALMS",
+      "name": "PERFORMANCE ROLES",
       "color": "purple",
       "words": [
-        "AVALON",
-        "ASGARD",
-        "OLYMPUS",
-        "SHANGRI LA"
+        "RINGMASTER",
+        "CLOWN",
+        "ACROBAT",
+        "CONTORTIONIST"
       ]
     }
   ]
