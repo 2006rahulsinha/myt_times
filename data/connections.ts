@@ -1,43 +1,43 @@
 export const connectionsData = {
   "groups": [
     {
-      "name": "ANIMAL ACTS",
+      "name": "MARVEL AVENGERS",
       "color": "yellow",
       "words": [
-        "ELEPHANT",
-        "LION",
-        "TIGER",
-        "HORSE"
+        "IRON MAN",
+        "CAPTAIN AMERICA",
+        "THOR",
+        "HULK"
       ]
     },
     {
-      "name": "RIDE ATTRACTIONS",
+      "name": "DC JUSTICE LEAGUE",
       "color": "green",
       "words": [
-        "FERRIS WHEEL",
-        "CAROUSEL",
-        "TILT A WHIRL",
-        "BUMPER CARS"
+        "SUPERMAN",
+        "BATMAN",
+        "WONDER WOMAN",
+        "FLASH"
       ]
     },
     {
-      "name": "FOOD STALLS",
+      "name": "SECRET IDENTITIES",
       "color": "blue",
       "words": [
-        "COTTON CANDY",
-        "POPCORN",
-        "CORN DOG",
-        "FUNNEL CAKE"
+        "CLARK KENT",
+        "BRUCE WAYNE",
+        "PETER PARKER",
+        "TONY STARK"
       ]
     },
     {
-      "name": "PERFORMANCE ROLES",
+      "name": "SUPER POWERS",
       "color": "purple",
       "words": [
-        "RINGMASTER",
-        "CLOWN",
-        "ACROBAT",
-        "CONTORTIONIST"
+        "FLIGHT",
+        "SUPER STRENGTH",
+        "INVISIBILITY",
+        "TELEPATHY"
       ]
     }
   ]

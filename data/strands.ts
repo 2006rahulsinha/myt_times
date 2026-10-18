@@ -1,85 +1,85 @@
 export const strandsData = {
-  "themeClue": "Big top fun",
+  "themeClue": "Masked crusaders",
   "grid": [
     [
-      "J",
-      "U",
-      "G",
+      "C",
+      "K",
+      "S",
+      "N",
+      "E",
+      "R",
+      "C",
+      "A"
+    ],
+    [
+      "K",
+      "I",
+      "I",
+      "I",
+      "W",
+      "S",
+      "E",
+      "P"
+    ],
+    [
+      "E",
+      "D",
+      "A",
+      "O",
+      "C",
+      "I",
+      "D",
+      "H"
+    ],
+    [
+      "I",
+      "L",
       "L",
       "P",
-      "B",
-      "A",
+      "H",
+      "O",
+      "E",
       "R"
     ],
     [
-      "G",
-      "G",
-      "E",
-      "O",
-      "E",
-      "R",
-      "E",
-      "K"
-    ],
-    [
-      "N",
-      "R",
+      "V",
+      "T",
       "H",
       "R",
-      "C",
+      "E",
       "R",
-      "O",
-      "U"
+      "C",
+      "O"
     ],
     [
       "I",
-      "C",
       "G",
-      "T",
-      "A",
-      "F",
-      "L",
-      "S"
-    ],
-    [
-      "N",
-      "A",
-      "R",
-      "I",
-      "I",
-      "R",
-      "E",
-      "E"
-    ],
-    [
-      "W",
-      "C",
-      "N",
-      "A",
-      "T",
-      "E",
-      "A",
-      "E"
-    ],
-    [
-      "L",
-      "O",
-      "I",
-      "V",
-      "L",
       "S",
+      "E",
+      "P",
+      "M",
       "T",
-      "R"
+      "O"
+    ],
+    [
+      "L",
+      "F",
+      "W",
+      "O",
+      "S",
+      "E",
+      "U",
+      "S"
     ]
   ],
   "answers": [
-    "CLOWNING",
-    "JUGGLER",
-    "CARNIVALS",
-    "TIGHTROPE",
-    "BARKER",
-    "CAROUSEL",
-    "FIREEATER"
+    "HEROICPOWERS",
+    "CAPEDHERO",
+    "COSTUMES",
+    "POWERS",
+    "FLIGHT",
+    "VILLAIN",
+    "SIDEKICK"
   ],
-  "spangram": "CLOWNING"
+  "spangram": "HEROICPOWERS"
 };
