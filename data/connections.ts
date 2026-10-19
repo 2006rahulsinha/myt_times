@@ -1,43 +1,43 @@
 export const connectionsData = {
   "groups": [
     {
-      "name": "MARVEL AVENGERS",
+      "name": "PLANETS",
       "color": "yellow",
       "words": [
-        "IRON MAN",
-        "CAPTAIN AMERICA",
-        "THOR",
-        "HULK"
+        "MERCURY",
+        "VENUS",
+        "EARTH",
+        "MARS"
       ]
     },
     {
-      "name": "DC JUSTICE LEAGUE",
+      "name": "GALAXY TYPES",
       "color": "green",
       "words": [
-        "SUPERMAN",
-        "BATMAN",
-        "WONDER WOMAN",
-        "FLASH"
+        "SPIRAL",
+        "ELLIPTICAL",
+        "IRREGULAR",
+        "LENTICULAR"
       ]
     },
     {
-      "name": "SECRET IDENTITIES",
+      "name": "SPACECRAFT CLASSES",
       "color": "blue",
       "words": [
-        "CLARK KENT",
-        "BRUCE WAYNE",
-        "PETER PARKER",
-        "TONY STARK"
+        "SHUTTLE",
+        "ROVER",
+        "LANDER",
+        "PROBE"
       ]
     },
     {
-      "name": "SUPER POWERS",
+      "name": "ASTRONOMICAL PHENOMENA",
       "color": "purple",
       "words": [
-        "FLIGHT",
-        "SUPER STRENGTH",
-        "INVISIBILITY",
-        "TELEPATHY"
+        "SUPERNOVA",
+        "NEBULA",
+        "BLACK HOLE",
+        "PULSAR"
       ]
     }
   ]

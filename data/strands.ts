@@ -1,85 +1,85 @@
 export const strandsData = {
-  "themeClue": "Masked crusaders",
+  "themeClue": "Celestial strands",
   "grid": [
     [
+      "M",
+      "O",
       "C",
-      "K",
       "S",
-      "N",
+      "D",
       "E",
+      "T",
+      "S"
+    ],
+    [
+      "E",
+      "T",
+      "B",
+      "A",
+      "T",
+      "I",
       "R",
-      "C",
       "A"
     ],
     [
-      "K",
-      "I",
-      "I",
-      "I",
-      "W",
-      "S",
-      "E",
-      "P"
-    ],
-    [
-      "E",
-      "D",
+      "T",
+      "L",
+      "L",
+      "L",
+      "V",
       "A",
       "O",
-      "C",
-      "I",
-      "D",
-      "H"
+      "N"
     ],
     [
+      "E",
       "I",
-      "L",
-      "L",
-      "P",
-      "H",
+      "E",
+      "A",
       "O",
-      "E",
-      "R"
-    ],
-    [
-      "V",
-      "T",
-      "H",
       "R",
-      "E",
-      "R",
-      "C",
-      "O"
-    ],
-    [
-      "I",
-      "G",
-      "S",
-      "E",
-      "P",
-      "M",
-      "T",
-      "O"
-    ],
-    [
-      "L",
-      "F",
-      "W",
-      "O",
-      "S",
-      "E",
       "U",
       "S"
+    ],
+    [
+      "S",
+      "A",
+      "T",
+      "C",
+      "N",
+      "S",
+      "R",
+      "T"
+    ],
+    [
+      "L",
+      "E",
+      "K",
+      "R",
+      "U",
+      "T",
+      "I",
+      "A"
+    ],
+    [
+      "O",
+      "H",
+      "E",
+      "P",
+      "H",
+      "G",
+      "L",
+      "R"
     ]
   ],
   "answers": [
-    "HEROICPOWERS",
-    "CAPEDHERO",
-    "COSTUMES",
-    "POWERS",
-    "FLIGHT",
-    "VILLAIN",
-    "SIDEKICK"
+    "STARLIGHTRUN",
+    "ASTEROID",
+    "STAR",
+    "SUPERNOVA",
+    "COMET",
+    "BLACKHOLE",
+    "SATELLITE"
   ],
-  "spangram": "HEROICPOWERS"
+  "spangram": "STARLIGHTRUN"
 };
