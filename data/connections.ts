@@ -1,43 +1,43 @@
 export const connectionsData = {
   "groups": [
     {
-      "name": "PLANETS",
+      "name": "PERFORMERS",
       "color": "yellow",
       "words": [
-        "MERCURY",
-        "VENUS",
-        "EARTH",
-        "MARS"
+        "CLOWN",
+        "ACROBAT",
+        "LIONTAMER",
+        "TIGHTROPE"
       ]
     },
     {
-      "name": "GALAXY TYPES",
+      "name": "RIDES",
       "color": "green",
       "words": [
-        "SPIRAL",
-        "ELLIPTICAL",
-        "IRREGULAR",
-        "LENTICULAR"
+        "FERRIS WHEEL",
+        "CAROUSEL",
+        "BUMPER CARS",
+        "TILTAWHIRL"
       ]
     },
     {
-      "name": "SPACECRAFT CLASSES",
+      "name": "FOOD",
       "color": "blue",
       "words": [
-        "SHUTTLE",
-        "ROVER",
-        "LANDER",
-        "PROBE"
+        "COTTON CANDY",
+        "POPCORN",
+        "HOTDOG",
+        "PRETZEL"
       ]
     },
     {
-      "name": "ASTRONOMICAL PHENOMENA",
+      "name": "GAMES",
       "color": "purple",
       "words": [
-        "SUPERNOVA",
-        "NEBULA",
-        "BLACK HOLE",
-        "PULSAR"
+        "RING TOSS",
+        "DART BOOTH",
+        "BALLOON DARTS",
+        "SKEE BALL"
       ]
     }
   ]

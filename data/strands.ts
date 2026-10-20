@@ -1,85 +1,85 @@
 export const strandsData = {
-  "themeClue": "Celestial strands",
+  "themeClue": "Under the big top",
   "grid": [
     [
-      "M",
+      "P",
       "O",
-      "C",
-      "S",
-      "D",
+      "P",
       "E",
-      "T",
-      "S"
-    ],
-    [
-      "E",
-      "T",
-      "B",
-      "A",
-      "T",
-      "I",
-      "R",
-      "A"
-    ],
-    [
-      "T",
-      "L",
-      "L",
-      "L",
-      "V",
-      "A",
       "O",
+      "T",
+      "G",
       "N"
     ],
     [
-      "E",
-      "I",
-      "E",
-      "A",
-      "O",
-      "R",
-      "U",
-      "S"
-    ],
-    [
-      "S",
-      "A",
-      "T",
       "C",
-      "N",
-      "S",
-      "R",
-      "T"
-    ],
-    [
-      "L",
-      "E",
-      "K",
-      "R",
-      "U",
-      "T",
-      "I",
-      "A"
-    ],
-    [
       "O",
-      "H",
+      "L",
       "E",
       "P",
-      "H",
+      "R",
+      "I",
+      "I"
+    ],
+    [
+      "R",
       "G",
+      "R",
+      "I",
+      "C",
+      "T",
+      "G",
+      "N"
+    ],
+    [
+      "N",
+      "G",
+      "A",
+      "A",
+      "T",
+      "H",
+      "W",
+      "C"
+    ],
+    [
+      "C",
+      "U",
+      "C",
+      "B",
+      "O",
+      "O",
+      "H",
+      "I"
+    ],
+    [
+      "A",
+      "N",
+      "J",
+      "R",
       "L",
+      "O",
+      "S",
       "R"
+    ],
+    [
+      "N",
+      "N",
+      "O",
+      "C",
+      "W",
+      "S",
+      "U",
+      "C"
     ]
   ],
   "answers": [
-    "STARLIGHTRUN",
-    "ASTEROID",
-    "STAR",
-    "SUPERNOVA",
-    "COMET",
-    "BLACKHOLE",
-    "SATELLITE"
+    "CIRCUSSHOW",
+    "CLOWNING",
+    "TIGHTROPE",
+    "POPCORN",
+    "CANNON",
+    "JUGGLER",
+    "ACROBATIC"
   ],
-  "spangram": "STARLIGHTRUN"
+  "spangram": "CIRCUSSHOW"
 };
