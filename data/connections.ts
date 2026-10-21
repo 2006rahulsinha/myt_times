@@ -1,43 +1,43 @@
 export const connectionsData = {
   "groups": [
     {
-      "name": "PERFORMERS",
+      "name": "CLASSIC AUTHORS",
       "color": "yellow",
       "words": [
-        "CLOWN",
-        "ACROBAT",
-        "LIONTAMER",
-        "TIGHTROPE"
+        "ASIMOV",
+        "CLARKE",
+        "HEINLEIN",
+        "BRADBURY"
       ]
     },
     {
-      "name": "RIDES",
+      "name": "ROBOT ARCHETYPES",
       "color": "green",
       "words": [
-        "FERRIS WHEEL",
-        "CAROUSEL",
-        "BUMPER CARS",
-        "TILTAWHIRL"
+        "ANDROID",
+        "CYBORG",
+        "REPLICANT",
+        "AUTOMATON"
       ]
     },
     {
-      "name": "FOOD",
+      "name": "SPACECRAFT TYPES",
       "color": "blue",
       "words": [
-        "COTTON CANDY",
-        "POPCORN",
-        "HOTDOG",
-        "PRETZEL"
+        "STARSHIP",
+        "SHUTTLE",
+        "CRUISER",
+        "FREIGHTER"
       ]
     },
     {
-      "name": "GAMES",
+      "name": "DYSTOPIAN SETTINGS",
       "color": "purple",
       "words": [
-        "RING TOSS",
-        "DART BOOTH",
-        "BALLOON DARTS",
-        "SKEE BALL"
+        "MEGACITY",
+        "WASTELAND",
+        "ARCOLOGY",
+        "BUNKER"
       ]
     }
   ]

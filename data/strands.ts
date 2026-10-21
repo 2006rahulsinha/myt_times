@@ -1,85 +1,85 @@
 export const strandsData = {
-  "themeClue": "Under the big top",
+  "themeClue": "Interstellar intrigue",
   "grid": [
     [
+      "A",
       "P",
-      "O",
-      "P",
-      "E",
-      "O",
+      "I",
+      "I",
       "T",
-      "G",
-      "N"
-    ],
-    [
-      "C",
-      "O",
       "L",
-      "E",
-      "P",
-      "R",
-      "I",
-      "I"
-    ],
-    [
-      "R",
-      "G",
-      "R",
-      "I",
-      "C",
-      "T",
-      "G",
-      "N"
-    ],
-    [
-      "N",
-      "G",
-      "A",
-      "A",
-      "T",
-      "H",
-      "W",
-      "C"
-    ],
-    [
-      "C",
-      "U",
-      "C",
       "B",
+      "E"
+    ],
+    [
+      "S",
       "O",
-      "O",
+      "I",
       "H",
-      "I"
+      "M",
+      "A",
+      "U",
+      "N"
+    ],
+    [
+      "T",
+      "R",
+      "D",
+      "S",
+      "W",
+      "E",
+      "K",
+      "N"
+    ],
+    [
+      "S",
+      "E",
+      "E",
+      "C",
+      "A",
+      "P",
+      "U",
+      "T"
+    ],
+    [
+      "R",
+      "P",
+      "A",
+      "R",
+      "R",
+      "S",
+      "R",
+      "E"
+    ],
+    [
+      "S",
+      "E",
+      "P",
+      "E",
+      "C",
+      "E",
+      "O",
+      "L"
     ],
     [
       "A",
-      "N",
-      "J",
-      "R",
       "L",
-      "O",
-      "S",
-      "R"
-    ],
-    [
-      "N",
-      "N",
-      "O",
-      "C",
-      "W",
-      "S",
-      "U",
-      "C"
+      "B",
+      "Y",
+      "T",
+      "R",
+      "P",
+      "E"
     ]
   ],
   "answers": [
-    "CIRCUSSHOW",
-    "CLOWNING",
-    "TIGHTROPE",
-    "POPCORN",
-    "CANNON",
-    "JUGGLER",
-    "ACROBATIC"
+    "TELEPORTERS",
+    "CYBERPUNK",
+    "NEBULA",
+    "TIMEWARP",
+    "LASER",
+    "SPACESHIP",
+    "ASTEROID"
   ],
-  "spangram": "CIRCUSSHOW"
+  "spangram": "TELEPORTERS"
 };
