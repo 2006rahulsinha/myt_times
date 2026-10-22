@@ -1,43 +1,43 @@
 export const connectionsData = {
   "groups": [
     {
-      "name": "CLASSIC AUTHORS",
+      "name": "CELESTIAL OBJECTS",
       "color": "yellow",
       "words": [
-        "ASIMOV",
-        "CLARKE",
-        "HEINLEIN",
-        "BRADBURY"
+        "GALAXY",
+        "NEBULA",
+        "SUPERNOVA",
+        "QUASAR"
       ]
     },
     {
-      "name": "ROBOT ARCHETYPES",
+      "name": "SPACE MISSIONS",
       "color": "green",
       "words": [
-        "ANDROID",
-        "CYBORG",
-        "REPLICANT",
-        "AUTOMATON"
+        "APOLLO",
+        "SOYUZ",
+        "FALCON",
+        "VOYAGER"
       ]
     },
     {
-      "name": "SPACECRAFT TYPES",
+      "name": "ASTRONAUTS",
       "color": "blue",
       "words": [
-        "STARSHIP",
-        "SHUTTLE",
-        "CRUISER",
-        "FREIGHTER"
+        "ARMSTRONG",
+        "ALDRIN",
+        "RIDE",
+        "GAGARIN"
       ]
     },
     {
-      "name": "DYSTOPIAN SETTINGS",
+      "name": "ASTRONOMICAL PHENOMENA",
       "color": "purple",
       "words": [
-        "MEGACITY",
-        "WASTELAND",
-        "ARCOLOGY",
-        "BUNKER"
+        "BLACK HOLE",
+        "DARK MATTER",
+        "SOLAR FLARE",
+        "AURORA"
       ]
     }
   ]

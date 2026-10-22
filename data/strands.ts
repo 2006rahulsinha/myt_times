@@ -1,85 +1,85 @@
 export const strandsData = {
-  "themeClue": "Interstellar intrigue",
+  "themeClue": "Cosmic threads",
   "grid": [
     [
-      "A",
       "P",
-      "I",
-      "I",
+      "C",
+      "E",
+      "C",
+      "F",
       "T",
-      "L",
-      "B",
+      "X",
+      "I"
+    ],
+    [
+      "A",
+      "S",
+      "R",
+      "A",
+      "A",
+      "A",
+      "S",
       "E"
     ],
     [
+      "R",
+      "E",
+      "T",
       "S",
-      "O",
-      "I",
-      "H",
-      "M",
+      "L",
       "A",
-      "U",
-      "N"
+      "T",
+      "S"
     ],
     [
+      "O",
+      "I",
       "T",
+      "A",
       "R",
+      "T",
+      "E",
+      "R"
+    ],
+    [
       "D",
-      "S",
-      "W",
       "E",
+      "G",
+      "F",
+      "A",
+      "M",
+      "S",
+      "S"
+    ],
+    [
+      "R",
       "K",
-      "N"
+      "I",
+      "D",
+      "R",
+      "R",
+      "I",
+      "A"
     ],
     [
-      "S",
-      "E",
-      "E",
-      "C",
-      "A",
-      "P",
-      "U",
-      "T"
-    ],
-    [
-      "R",
-      "P",
-      "A",
-      "R",
-      "R",
-      "S",
-      "R",
-      "E"
-    ],
-    [
-      "S",
-      "E",
-      "P",
-      "E",
-      "C",
-      "E",
       "O",
-      "L"
-    ],
-    [
-      "A",
+      "C",
+      "E",
       "L",
-      "B",
-      "Y",
+      "C",
+      "E",
       "T",
-      "R",
-      "P",
-      "E"
+      "S"
     ]
   ],
   "answers": [
-    "TELEPORTERS",
-    "CYBERPUNK",
-    "NEBULA",
-    "TIMEWARP",
-    "LASER",
-    "SPACESHIP",
-    "ASTEROID"
+    "SPACECRAFT",
+    "ASTEROID",
+    "ROCKET",
+    "GALAXIES",
+    "STARFIELD",
+    "CRATERS",
+    "ASTERISM"
   ],
-  "spangram": "TELEPORTERS"
+  "spangram": "SPACECRAFT"
 };
