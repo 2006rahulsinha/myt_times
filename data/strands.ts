@@ -1,85 +1,85 @@
 export const strandsData = {
-  "themeClue": "Cosmic threads",
+  "themeClue": "Find the kitchen terms",
   "grid": [
     [
-      "P",
-      "C",
-      "E",
-      "C",
-      "F",
-      "T",
-      "X",
-      "I"
-    ],
-    [
-      "A",
-      "S",
-      "R",
-      "A",
-      "A",
-      "A",
-      "S",
-      "E"
-    ],
-    [
-      "R",
-      "E",
-      "T",
-      "S",
-      "L",
-      "A",
-      "T",
-      "S"
-    ],
-    [
-      "O",
-      "I",
-      "T",
-      "A",
-      "R",
-      "T",
-      "E",
-      "R"
-    ],
-    [
       "D",
       "E",
+      "R",
       "G",
-      "F",
-      "A",
-      "M",
-      "S",
-      "S"
+      "N",
+      "I",
+      "E",
+      "P"
     ],
     [
-      "R",
-      "K",
       "I",
-      "D",
-      "R",
-      "R",
-      "I",
+      "E",
+      "S",
+      "A",
+      "U",
+      "C",
+      "N",
       "A"
     ],
     [
+      "N",
+      "S",
+      "A",
+      "N",
+      "I",
+      "R",
+      "A",
+      "S"
+    ],
+    [
+      "T",
+      "D",
+      "E",
+      "G",
+      "B",
+      "O",
+      "E",
+      "M"
+    ],
+    [
+      "E",
+      "C",
+      "R",
+      "K",
+      "K",
+      "O",
+      "R",
+      "D"
+    ],
+    [
+      "S",
+      "I",
+      "I",
+      "L",
+      "O",
       "O",
       "C",
+      "A"
+    ],
+    [
+      "S",
+      "P",
+      "D",
+      "D",
       "E",
-      "L",
-      "C",
-      "E",
-      "T",
-      "S"
+      "K",
+      "N",
+      "E"
     ]
   ],
   "answers": [
-    "SPACECRAFT",
-    "ASTEROID",
-    "ROCKET",
-    "GALAXIES",
-    "STARFIELD",
-    "CRATERS",
-    "ASTERISM"
+    "INGREDIENTS",
+    "SAUCEPANS",
+    "MARINADES",
+    "SPICE",
+    "GRIDDLE",
+    "KNEADER",
+    "COOKBOOK"
   ],
-  "spangram": "SPACECRAFT"
+  "spangram": "INGREDIENTS"
 };

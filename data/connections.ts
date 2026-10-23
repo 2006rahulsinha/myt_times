@@ -1,43 +1,43 @@
 export const connectionsData = {
   "groups": [
     {
-      "name": "CELESTIAL OBJECTS",
+      "name": "CULINARY HERBS",
       "color": "yellow",
       "words": [
-        "GALAXY",
-        "NEBULA",
-        "SUPERNOVA",
-        "QUASAR"
+        "BASIL",
+        "ROSEMARY",
+        "THYME",
+        "SAGE"
       ]
     },
     {
-      "name": "SPACE MISSIONS",
+      "name": "COOKING METHODS",
       "color": "green",
       "words": [
-        "APOLLO",
-        "SOYUZ",
-        "FALCON",
-        "VOYAGER"
+        "GRILLING",
+        "STEAMING",
+        "SAUTÉING",
+        "ROASTING"
       ]
     },
     {
-      "name": "ASTRONAUTS",
+      "name": "SPICE BLENDS",
       "color": "blue",
       "words": [
-        "ARMSTRONG",
-        "ALDRIN",
-        "RIDE",
-        "GAGARIN"
+        "GARAM MASALA",
+        "CURRY POWDER",
+        "FIVE SPICE",
+        "TACO SEASONING"
       ]
     },
     {
-      "name": "ASTRONOMICAL PHENOMENA",
+      "name": "KITCHEN TOOLS",
       "color": "purple",
       "words": [
-        "BLACK HOLE",
-        "DARK MATTER",
-        "SOLAR FLARE",
-        "AURORA"
+        "WHISK",
+        "COLANDER",
+        "SPATULA",
+        "MORTAR"
       ]
     }
   ]
