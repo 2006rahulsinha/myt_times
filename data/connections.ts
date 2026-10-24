@@ -1,43 +1,43 @@
 export const connectionsData = {
   "groups": [
     {
-      "name": "CULINARY HERBS",
+      "name": "BEACH ACTIVITIES",
       "color": "yellow",
       "words": [
-        "BASIL",
-        "ROSEMARY",
-        "THYME",
-        "SAGE"
+        "SURFING",
+        "SUNBATHING",
+        "BEACH VOLLEYBALL",
+        "SANDCASTLE"
       ]
     },
     {
-      "name": "COOKING METHODS",
+      "name": "COOL TREATS",
       "color": "green",
       "words": [
-        "GRILLING",
-        "STEAMING",
-        "SAUTÉING",
-        "ROASTING"
+        "LEMONADE",
+        "POPSICLE",
+        "WATERMELON",
+        "FROZEN YOGURT"
       ]
     },
     {
-      "name": "SPICE BLENDS",
+      "name": "SUNSET COLORS",
       "color": "blue",
       "words": [
-        "GARAM MASALA",
-        "CURRY POWDER",
-        "FIVE SPICE",
-        "TACO SEASONING"
+        "CORAL",
+        "AMBER",
+        "LAVENDER",
+        "TURQUOISE"
       ]
     },
     {
-      "name": "KITCHEN TOOLS",
+      "name": "FESTIVAL ESSENTIALS",
       "color": "purple",
       "words": [
-        "WHISK",
-        "COLANDER",
-        "SPATULA",
-        "MORTAR"
+        "SUNGLASSES",
+        "PICNIC BLANKET",
+        "FLIPFLOPS",
+        "BLUETOOTH SPEAKER"
       ]
     }
   ]

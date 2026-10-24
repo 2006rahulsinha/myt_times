@@ -1,85 +1,84 @@
 export const strandsData = {
-  "themeClue": "Find the kitchen terms",
+  "themeClue": "Chill under the sun",
   "grid": [
     [
-      "D",
-      "E",
-      "R",
-      "G",
-      "N",
-      "I",
-      "E",
-      "P"
-    ],
-    [
-      "I",
-      "E",
-      "S",
+      "B",
+      "H",
       "A",
+      "B",
+      "N",
       "U",
-      "C",
       "N",
-      "A"
-    ],
-    [
-      "N",
-      "S",
-      "A",
-      "N",
-      "I",
-      "R",
-      "A",
       "S"
     ],
     [
-      "T",
-      "D",
-      "E",
-      "G",
-      "B",
-      "O",
-      "E",
-      "M"
-    ],
-    [
-      "E",
-      "C",
-      "R",
-      "K",
-      "K",
-      "O",
-      "R",
-      "D"
-    ],
-    [
-      "S",
-      "I",
-      "I",
+      "A",
       "L",
-      "O",
-      "O",
       "C",
+      "E",
+      "F",
+      "D",
+      "U",
+      "E"
+    ],
+    [
+      "E",
+      "S",
+      "L",
+      "E",
+      "A",
+      "H",
+      "D",
+      "N"
+    ],
+    [
+      "A",
+      "H",
+      "E",
+      "V",
+      "E",
+      "T",
+      "S",
       "A"
     ],
     [
       "S",
-      "P",
+      "S",
+      "L",
+      "L",
+      "A",
+      "W",
       "D",
-      "D",
-      "E",
-      "K",
+      "R"
+    ],
+    [
+      "S",
       "N",
-      "E"
+      "R",
+      "E",
+      "N",
+      "R",
+      "O",
+      "A"
+    ],
+    [
+      "U",
+      "S",
+      "C",
+      "E",
+      "S",
+      "U",
+      "F",
+      "B"
     ]
   ],
   "answers": [
-    "INGREDIENTS",
-    "SAUCEPANS",
-    "MARINADES",
-    "SPICE",
-    "GRIDDLE",
-    "KNEADER",
-    "COOKBOOK"
+    "HEATWAVEFUN",
+    "BEACHBALL",
+    "SEASHELLS",
+    "SUNSCREEN",
+    "SURFBOARD",
+    "SANDDUNES"
   ],
-  "spangram": "INGREDIENTS"
+  "spangram": "HEATWAVEFUN"
 };
