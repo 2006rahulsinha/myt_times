@@ -1,84 +1,85 @@
 export const strandsData = {
-  "themeClue": "Chill under the sun",
+  "themeClue": "Entwined hearts",
   "grid": [
     [
-      "B",
-      "H",
-      "A",
-      "B",
-      "N",
-      "U",
-      "N",
-      "S"
-    ],
-    [
-      "A",
-      "L",
       "C",
       "E",
       "F",
-      "D",
+      "F",
+      "E",
+      "C",
+      "T",
+      "I"
+    ],
+    [
+      "N",
+      "A",
+      "O",
+      "M",
+      "A",
+      "N",
+      "N",
+      "O"
+    ],
+    [
+      "A",
       "U",
+      "R",
+      "E",
+      "A",
+      "Y",
+      "E",
+      "S"
+    ],
+    [
+      "M",
+      "E",
+      "T",
+      "B",
+      "T",
+      "H",
+      "L",
+      "W"
+    ],
+    [
+      "O",
+      "D",
+      "O",
+      "R",
+      "A",
+      "E",
+      "G",
       "E"
     ],
     [
       "E",
-      "S",
+      "R",
       "L",
-      "E",
-      "A",
-      "H",
-      "D",
-      "N"
-    ],
-    [
-      "A",
-      "H",
-      "E",
       "V",
+      "I",
+      "N",
       "E",
-      "T",
-      "S",
-      "A"
+      "E"
     ],
     [
-      "S",
-      "S",
       "L",
-      "L",
-      "A",
-      "W",
       "D",
-      "R"
-    ],
-    [
-      "S",
-      "N",
-      "R",
-      "E",
-      "N",
-      "R",
-      "O",
-      "A"
-    ],
-    [
+      "D",
       "U",
-      "S",
       "C",
-      "E",
       "S",
-      "U",
-      "F",
-      "B"
+      "I",
+      "T"
     ]
   ],
   "answers": [
-    "HEATWAVEFUN",
-    "BEACHBALL",
-    "SEASHELLS",
-    "SUNSCREEN",
-    "SURFBOARD",
-    "SANDDUNES"
+    "SWEETIES",
+    "CUDDLE",
+    "ROMANCE",
+    "AFFECTION",
+    "ENAMOURED",
+    "LOVINGLY",
+    "HEARTBEAT"
   ],
-  "spangram": "HEATWAVEFUN"
+  "spangram": "SWEETIES"
 };

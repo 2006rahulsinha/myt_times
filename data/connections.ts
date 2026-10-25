@@ -1,43 +1,43 @@
 export const connectionsData = {
   "groups": [
     {
-      "name": "BEACH ACTIVITIES",
+      "name": "ROMANTIC GESTURES",
       "color": "yellow",
       "words": [
-        "SURFING",
-        "SUNBATHING",
-        "BEACH VOLLEYBALL",
-        "SANDCASTLE"
+        "LOVE LETTER",
+        "RED ROSES",
+        "CANDLELIT DINNER",
+        "SURPRISE PICNIC"
       ]
     },
     {
-      "name": "COOL TREATS",
+      "name": "FAMOUS LOVERS",
       "color": "green",
       "words": [
-        "LEMONADE",
-        "POPSICLE",
-        "WATERMELON",
-        "FROZEN YOGURT"
+        "ROMEO AND JULIET",
+        "CLEOPATRA AND ANTONY",
+        "TRISTAN AND ISOLDE",
+        "ELIZABETH BENNET"
       ]
     },
     {
-      "name": "SUNSET COLORS",
+      "name": "LOVE LANGUAGES",
       "color": "blue",
       "words": [
-        "CORAL",
-        "AMBER",
-        "LAVENDER",
-        "TURQUOISE"
+        "WORDS OF AFFIRMATION",
+        "PHYSICAL TOUCH",
+        "ACTS OF SERVICE",
+        "QUALITY TIME"
       ]
     },
     {
-      "name": "FESTIVAL ESSENTIALS",
+      "name": "VALENTINE SYMBOLS",
       "color": "purple",
       "words": [
-        "SUNGLASSES",
-        "PICNIC BLANKET",
-        "FLIPFLOPS",
-        "BLUETOOTH SPEAKER"
+        "HEART",
+        "CUPID",
+        "CHOCOLATE",
+        "TEDDY BEAR"
       ]
     }
   ]
