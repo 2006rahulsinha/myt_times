@@ -1,85 +1,85 @@
 export const strandsData = {
-  "themeClue": "Entwined hearts",
+  "themeClue": "Big top extravaganza",
   "grid": [
     [
+      "U",
       "C",
-      "E",
-      "F",
-      "F",
-      "E",
+      "R",
       "C",
+      "R",
       "T",
+      "G",
       "I"
     ],
     [
-      "N",
+      "S",
       "A",
+      "I",
+      "I",
+      "C",
       "O",
-      "M",
-      "A",
-      "N",
-      "N",
-      "O"
+      "H",
+      "T"
     ],
     [
+      "C",
+      "T",
+      "K",
+      "C",
+      "I",
       "A",
-      "U",
-      "R",
-      "E",
-      "A",
-      "Y",
-      "E",
-      "S"
+      "P",
+      "N"
     ],
     [
-      "M",
+      "T",
+      "P",
+      "T",
       "E",
       "T",
       "B",
-      "T",
-      "H",
-      "L",
+      "E",
       "W"
     ],
     [
-      "O",
-      "D",
+      "E",
+      "R",
+      "F",
+      "M",
       "O",
       "R",
       "A",
-      "E",
-      "G",
-      "E"
+      "O"
     ],
     [
+      "M",
       "E",
-      "R",
-      "L",
-      "V",
+      "O",
       "I",
-      "N",
-      "E",
-      "E"
-    ],
-    [
-      "L",
-      "D",
-      "D",
-      "U",
+      "Y",
       "C",
-      "S",
-      "I",
-      "T"
+      "L",
+      "C"
+    ],
+    [
+      "R",
+      "R",
+      "D",
+      "W",
+      "A",
+      "F",
+      "U",
+      "N"
     ]
   ],
   "answers": [
-    "SWEETIES",
-    "CUDDLE",
-    "ROMANCE",
-    "AFFECTION",
-    "ENAMOURED",
-    "LOVINGLY",
-    "HEARTBEAT"
+    "MIDWAYFUN",
+    "CLOWN",
+    "TIGHTROPE",
+    "ACROBATIC",
+    "CIRCUSACT",
+    "TICKET",
+    "PERFORMER"
   ],
-  "spangram": "SWEETIES"
+  "spangram": "MIDWAYFUN"
 };

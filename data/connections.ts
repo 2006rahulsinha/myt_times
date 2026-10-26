@@ -1,43 +1,43 @@
 export const connectionsData = {
   "groups": [
     {
-      "name": "ROMANTIC GESTURES",
+      "name": "BIG TOP ACTS",
       "color": "yellow",
       "words": [
-        "LOVE LETTER",
-        "RED ROSES",
-        "CANDLELIT DINNER",
-        "SURPRISE PICNIC"
+        "ACROBATS",
+        "CLOWNS",
+        "TIGHTROPE",
+        "FIREBREATHER"
       ]
     },
     {
-      "name": "FAMOUS LOVERS",
+      "name": "CARNIVAL RIDES",
       "color": "green",
       "words": [
-        "ROMEO AND JULIET",
-        "CLEOPATRA AND ANTONY",
-        "TRISTAN AND ISOLDE",
-        "ELIZABETH BENNET"
+        "FERRISWHEEL",
+        "TILTAWHIRL",
+        "CAROUSEL",
+        "BUMPERCARS"
       ]
     },
     {
-      "name": "LOVE LANGUAGES",
+      "name": "CONCESSION TREATS",
       "color": "blue",
       "words": [
-        "WORDS OF AFFIRMATION",
-        "PHYSICAL TOUCH",
-        "ACTS OF SERVICE",
-        "QUALITY TIME"
+        "COTTONCANDY",
+        "POPCORN",
+        "CORNDOG",
+        "LEMONADE"
       ]
     },
     {
-      "name": "VALENTINE SYMBOLS",
+      "name": "GAME BOOTHS",
       "color": "purple",
       "words": [
-        "HEART",
-        "CUPID",
-        "CHOCOLATE",
-        "TEDDY BEAR"
+        "RINGTOSS",
+        "BALLOONDART",
+        "STRONGMAN",
+        "WATERGUN"
       ]
     }
   ]
