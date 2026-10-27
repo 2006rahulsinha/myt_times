@@ -1,43 +1,43 @@
 export const connectionsData = {
   "groups": [
     {
-      "name": "BIG TOP ACTS",
+      "name": "CLASSIC EUROGAMES",
       "color": "yellow",
       "words": [
-        "ACROBATS",
-        "CLOWNS",
-        "TIGHTROPE",
-        "FIREBREATHER"
+        "CATAN",
+        "CARCASSONNE",
+        "TICKET TO RIDE",
+        "POWER GRID"
       ]
     },
     {
-      "name": "CARNIVAL RIDES",
+      "name": "DICE ROLLING GAMES",
       "color": "green",
       "words": [
-        "FERRISWHEEL",
-        "TILTAWHIRL",
-        "CAROUSEL",
-        "BUMPERCARS"
+        "DICE FORGE",
+        "ROLL FOR THE GALAXY",
+        "QWIXX",
+        "KING OF TOKYO"
       ]
     },
     {
-      "name": "CONCESSION TREATS",
+      "name": "WORKER PLACEMENT GAMES",
       "color": "blue",
       "words": [
-        "COTTONCANDY",
-        "POPCORN",
-        "CORNDOG",
-        "LEMONADE"
+        "AGRICOLA",
+        "VITICULTURE",
+        "LORDS OF WATERDEEP",
+        "STONE AGE"
       ]
     },
     {
-      "name": "GAME BOOTHS",
+      "name": "ABSTRACT STRATEGY GAMES",
       "color": "purple",
       "words": [
-        "RINGTOSS",
-        "BALLOONDART",
-        "STRONGMAN",
-        "WATERGUN"
+        "GO",
+        "CHESS",
+        "HIVE",
+        "BLOKUS"
       ]
     }
   ]

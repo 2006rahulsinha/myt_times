@@ -1,85 +1,85 @@
 export const strandsData = {
-  "themeClue": "Big top extravaganza",
+  "themeClue": "Classic tabletop fun",
   "grid": [
     [
-      "U",
-      "C",
-      "R",
-      "C",
-      "R",
-      "T",
       "G",
+      "A",
+      "E",
+      "S",
+      "L",
+      "A",
+      "L",
+      "G"
+    ],
+    [
+      "D",
+      "M",
+      "T",
+      "P",
+      "Y",
+      "L",
+      "N",
       "I"
     ],
     [
-      "S",
-      "A",
-      "I",
-      "I",
-      "C",
-      "O",
-      "H",
-      "T"
-    ],
-    [
-      "C",
-      "T",
-      "K",
-      "C",
-      "I",
-      "A",
-      "P",
-      "N"
-    ],
-    [
-      "T",
-      "P",
-      "T",
-      "E",
-      "T",
-      "B",
-      "E",
-      "W"
-    ],
-    [
-      "E",
-      "R",
-      "F",
       "M",
+      "R",
       "O",
-      "R",
-      "A",
-      "O"
-    ],
-    [
-      "M",
-      "E",
-      "O",
-      "I",
-      "Y",
-      "C",
-      "L",
-      "C"
-    ],
-    [
-      "R",
-      "R",
       "D",
-      "W",
+      "T",
+      "O",
+      "R",
+      "E"
+    ],
+    [
+      "E",
       "A",
-      "F",
-      "U",
-      "N"
+      "A",
+      "K",
+      "R",
+      "I",
+      "M",
+      "B"
+    ],
+    [
+      "P",
+      "L",
+      "G",
+      "C",
+      "E",
+      "A",
+      "O",
+      "E"
+    ],
+    [
+      "A",
+      "O",
+      "R",
+      "G",
+      "E",
+      "N",
+      "M",
+      "A"
+    ],
+    [
+      "Y",
+      "B",
+      "A",
+      "D",
+      "A",
+      "M",
+      "S",
+      "G"
     ]
   ],
   "answers": [
-    "MIDWAYFUN",
-    "CLOWN",
-    "TIGHTROPE",
-    "ACROBATIC",
-    "CIRCUSACT",
-    "TICKET",
-    "PERFORMER"
+    "GAMEPLAY",
+    "BOARDGAME",
+    "CARDGAMES",
+    "TOKENS",
+    "GAMEBOARD",
+    "PLAYTIME",
+    "ROLLING"
   ],
-  "spangram": "MIDWAYFUN"
+  "spangram": "GAMEPLAY"
 };
