@@ -1,85 +1,85 @@
 export const strandsData = {
-  "themeClue": "Classic tabletop fun",
+  "themeClue": "Leaves turn, colors fall",
   "grid": [
     [
-      "G",
-      "A",
-      "E",
-      "S",
-      "L",
-      "A",
-      "L",
-      "G"
-    ],
-    [
-      "D",
-      "M",
-      "T",
-      "P",
-      "Y",
-      "L",
-      "N",
-      "I"
-    ],
-    [
-      "M",
-      "R",
-      "O",
-      "D",
-      "T",
-      "O",
-      "R",
-      "E"
-    ],
-    [
-      "E",
-      "A",
-      "A",
-      "K",
-      "R",
-      "I",
-      "M",
-      "B"
-    ],
-    [
-      "P",
-      "L",
-      "G",
       "C",
       "E",
-      "A",
-      "O",
-      "E"
-    ],
-    [
-      "A",
-      "O",
       "R",
-      "G",
-      "E",
-      "N",
-      "M",
+      "T",
+      "S",
+      "V",
+      "H",
       "A"
     ],
     [
-      "Y",
-      "B",
+      "R",
+      "W",
+      "W",
       "A",
+      "E",
+      "E",
+      "R",
+      "R"
+    ],
+    [
+      "O",
+      "D",
+      "N",
+      "I",
+      "C",
       "D",
       "A",
-      "M",
+      "V"
+    ],
+    [
+      "N",
+      "C",
+      "I",
+      "L",
       "S",
-      "G"
+      "H",
+      "S",
+      "E"
+    ],
+    [
+      "A",
+      "G",
+      "H",
+      "L",
+      "N",
+      "O",
+      "M",
+      "S"
+    ],
+    [
+      "O",
+      "R",
+      "E",
+      "C",
+      "R",
+      "I",
+      "U",
+      "T"
+    ],
+    [
+      "S",
+      "N",
+      "I",
+      "K",
+      "P",
+      "M",
+      "P",
+      "S"
     ]
   ],
   "answers": [
-    "GAMEPLAY",
-    "BOARDGAME",
-    "CARDGAMES",
-    "TOKENS",
-    "GAMEBOARD",
-    "PLAYTIME",
-    "ROLLING"
+    "HARVESTS",
+    "PUMPKINS",
+    "ORANGE",
+    "CRIMSON",
+    "HARVESTED",
+    "SCARECROW",
+    "WINDCHILL"
   ],
-  "spangram": "GAMEPLAY"
+  "spangram": "HARVESTS"
 };

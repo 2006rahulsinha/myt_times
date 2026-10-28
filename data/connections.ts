@@ -1,43 +1,43 @@
 export const connectionsData = {
   "groups": [
     {
-      "name": "CLASSIC EUROGAMES",
+      "name": "HARVEST CROPS",
       "color": "yellow",
       "words": [
-        "CATAN",
-        "CARCASSONNE",
-        "TICKET TO RIDE",
-        "POWER GRID"
+        "PUMPKIN",
+        "CORN",
+        "APPLE",
+        "SQUASH"
       ]
     },
     {
-      "name": "DICE ROLLING GAMES",
+      "name": "FALL COLORS",
       "color": "green",
       "words": [
-        "DICE FORGE",
-        "ROLL FOR THE GALAXY",
-        "QWIXX",
-        "KING OF TOKYO"
+        "AMBER",
+        "CRIMSON",
+        "OCHRE",
+        "RUSSET"
       ]
     },
     {
-      "name": "WORKER PLACEMENT GAMES",
+      "name": "SEASONAL ACTIVITIES",
       "color": "blue",
       "words": [
-        "AGRICOLA",
-        "VITICULTURE",
-        "LORDS OF WATERDEEP",
-        "STONE AGE"
+        "LEAF PILE",
+        "HAY RIDE",
+        "BONFIRE",
+        "SWEATER WEATHER"
       ]
     },
     {
-      "name": "ABSTRACT STRATEGY GAMES",
+      "name": "THANKSGIVING FOODS",
       "color": "purple",
       "words": [
-        "GO",
-        "CHESS",
-        "HIVE",
-        "BLOKUS"
+        "TURKEY",
+        "STUFFING",
+        "CRANBERRY",
+        "GRAVY"
       ]
     }
   ]
