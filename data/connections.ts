@@ -1,43 +1,43 @@
 export const connectionsData = {
   "groups": [
     {
-      "name": "HARVEST CROPS",
+      "name": "FAMOUS ROMANTIC COUPLES",
       "color": "yellow",
       "words": [
-        "PUMPKIN",
-        "CORN",
-        "APPLE",
-        "SQUASH"
+        "ROMEO",
+        "JULIET",
+        "TRISTAN",
+        "ISOLDE"
       ]
     },
     {
-      "name": "FALL COLORS",
+      "name": "TYPES OF LOVE",
       "color": "green",
       "words": [
-        "AMBER",
-        "CRIMSON",
-        "OCHRE",
-        "RUSSET"
+        "PASSION",
+        "FRIENDSHIP",
+        "INFATUATION",
+        "COMPASSION"
       ]
     },
     {
-      "name": "SEASONAL ACTIVITIES",
+      "name": "ROMANTIC GESTURES",
       "color": "blue",
       "words": [
-        "LEAF PILE",
-        "HAY RIDE",
-        "BONFIRE",
-        "SWEATER WEATHER"
+        "CANDLELIGHT DINNER",
+        "LOVE LETTER",
+        "ROSE BOUQUET",
+        "SLOW DANCE"
       ]
     },
     {
-      "name": "THANKSGIVING FOODS",
+      "name": "SYMBOLS OF ROMANCE",
       "color": "purple",
       "words": [
-        "TURKEY",
-        "STUFFING",
-        "CRANBERRY",
-        "GRAVY"
+        "HEART",
+        "CUPID",
+        "RED ROSE",
+        "CHOCOLATE"
       ]
     }
   ]

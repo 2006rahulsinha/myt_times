@@ -1,85 +1,85 @@
 export const strandsData = {
-  "themeClue": "Leaves turn, colors fall",
+  "themeClue": "Heartfelt connections",
   "grid": [
     [
-      "C",
-      "E",
+      "D",
+      "N",
       "R",
-      "T",
-      "S",
-      "V",
-      "H",
-      "A"
+      "A",
+      "M",
+      "R",
+      "E",
+      "H"
     ],
     [
-      "R",
-      "W",
-      "W",
+      "E",
       "A",
       "E",
       "E",
-      "R",
-      "R"
-    ],
-    [
+      "N",
       "O",
       "D",
-      "N",
-      "I",
-      "C",
-      "D",
-      "A",
-      "V"
+      "S"
     ],
     [
-      "N",
-      "C",
-      "I",
-      "L",
-      "S",
-      "H",
-      "S",
-      "E"
-    ],
-    [
-      "A",
       "G",
-      "H",
-      "L",
-      "N",
-      "O",
-      "M",
-      "S"
+      "I",
+      "R",
+      "D",
+      "T",
+      "C",
+      "I",
+      "G"
     ],
     [
-      "O",
-      "R",
+      "F",
+      "N",
+      "N",
       "E",
-      "C",
+      "E",
       "R",
+      "C",
+      "N"
+    ],
+    [
+      "A",
+      "F",
+      "E",
+      "S",
+      "E",
+      "H",
       "I",
-      "U",
-      "T"
+      "D"
     ],
     [
       "S",
-      "N",
+      "T",
+      "W",
+      "C",
       "I",
-      "K",
-      "P",
-      "M",
-      "P",
-      "S"
+      "L",
+      "D",
+      "U"
+    ],
+    [
+      "E",
+      "T",
+      "E",
+      "E",
+      "T",
+      "O",
+      "N",
+      "C"
     ]
   ],
   "answers": [
-    "HARVESTS",
-    "PUMPKINS",
-    "ORANGE",
-    "CRIMSON",
-    "HARVESTED",
-    "SCARECROW",
-    "WINDCHILL"
+    "SWEETEST",
+    "AFFECTION",
+    "CUDDLING",
+    "CHERISHED",
+    "ROMANCE",
+    "TENDER",
+    "ENDEARING"
   ],
-  "spangram": "HARVESTS"
+  "spangram": "SWEETEST"
 };
