@@ -1,85 +1,84 @@
 export const strandsData = {
-  "themeClue": "Heartfelt connections",
+  "themeClue": "Heroes in disguise",
   "grid": [
     [
-      "D",
-      "N",
-      "R",
-      "A",
-      "M",
-      "R",
-      "E",
-      "H"
-    ],
-    [
-      "E",
-      "A",
-      "E",
-      "E",
-      "N",
-      "O",
-      "D",
-      "S"
-    ],
-    [
-      "G",
-      "I",
-      "R",
-      "D",
+      "B",
       "T",
-      "C",
-      "I",
-      "G"
-    ],
-    [
-      "F",
-      "N",
-      "N",
+      "S",
+      "U",
+      "A",
       "E",
-      "E",
-      "R",
-      "C",
-      "N"
+      "N",
+      "A"
     ],
     [
       "A",
-      "F",
-      "E",
+      "C",
       "S",
+      "E",
+      "Q",
+      "R",
+      "T",
+      "L"
+    ],
+    [
+      "H",
+      "K",
+      "T",
+      "Y",
       "E",
       "H",
+      "C",
+      "I"
+    ],
+    [
+      "T",
+      "S",
+      "R",
+      "O",
+      "D",
+      "E",
+      "G",
+      "I"
+    ],
+    [
+      "R",
+      "G",
+      "S",
       "I",
-      "D"
+      "N",
+      "E",
+      "R",
+      "V"
+    ],
+    [
+      "T",
+      "E",
+      "N",
+      "E",
+      "V",
+      "M",
+      "E",
+      "K"
     ],
     [
       "S",
-      "T",
-      "W",
-      "C",
-      "I",
-      "L",
+      "Y",
+      "M",
+      "A",
+      "S",
       "D",
-      "U"
-    ],
-    [
-      "E",
-      "T",
-      "E",
-      "E",
-      "T",
-      "O",
-      "N",
-      "C"
+      "A",
+      "S"
     ]
   ],
   "answers": [
-    "SWEETEST",
-    "AFFECTION",
-    "CUDDLING",
-    "CHERISHED",
-    "ROMANCE",
-    "TENDER",
-    "ENDEARING"
+    "MASKEDSAVER",
+    "VIGILANTE",
+    "ARCHENEMY",
+    "STRENGTHS",
+    "SIDEQUEST",
+    "BACKSTORY"
   ],
-  "spangram": "SWEETEST"
+  "spangram": "MASKEDSAVER"
 };

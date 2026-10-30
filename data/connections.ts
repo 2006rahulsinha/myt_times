@@ -1,43 +1,43 @@
 export const connectionsData = {
   "groups": [
     {
-      "name": "FAMOUS ROMANTIC COUPLES",
+      "name": "MARVEL AVENGERS",
       "color": "yellow",
       "words": [
-        "ROMEO",
-        "JULIET",
-        "TRISTAN",
-        "ISOLDE"
+        "IRON MAN",
+        "CAPTAIN AMERICA",
+        "THOR",
+        "HULK"
       ]
     },
     {
-      "name": "TYPES OF LOVE",
+      "name": "DC JUSTICE LEAGUE",
       "color": "green",
       "words": [
-        "PASSION",
-        "FRIENDSHIP",
-        "INFATUATION",
-        "COMPASSION"
+        "SUPERMAN",
+        "BATMAN",
+        "WONDER WOMAN",
+        "FLASH"
       ]
     },
     {
-      "name": "ROMANTIC GESTURES",
+      "name": "SECRET IDENTITIES",
       "color": "blue",
       "words": [
-        "CANDLELIGHT DINNER",
-        "LOVE LETTER",
-        "ROSE BOUQUET",
-        "SLOW DANCE"
+        "CLARK KENT",
+        "BRUCE WAYNE",
+        "PETER PARKER",
+        "DIANA PRINCE"
       ]
     },
     {
-      "name": "SYMBOLS OF ROMANCE",
+      "name": "ICONIC GEAR",
       "color": "purple",
       "words": [
-        "HEART",
-        "CUPID",
-        "RED ROSE",
-        "CHOCOLATE"
+        "BATARANG",
+        "WEB SHOOTER",
+        "UTILITY BELT",
+        "MJOLNIR"
       ]
     }
   ]
