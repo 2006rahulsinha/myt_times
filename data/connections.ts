@@ -1,43 +1,43 @@
 export const connectionsData = {
   "groups": [
     {
-      "name": "MARVEL AVENGERS",
+      "name": "WINTER SPORTS",
       "color": "yellow",
       "words": [
-        "IRON MAN",
-        "CAPTAIN AMERICA",
-        "THOR",
-        "HULK"
+        "SKIING",
+        "SNOWBOARDING",
+        "ICE SKATING",
+        "LUGE"
       ]
     },
     {
-      "name": "DC JUSTICE LEAGUE",
+      "name": "SNOWFLAKE TYPES",
       "color": "green",
       "words": [
-        "SUPERMAN",
-        "BATMAN",
-        "WONDER WOMAN",
-        "FLASH"
+        "DENDRITE",
+        "STELLAR",
+        "NEEDLE",
+        "PLATE"
       ]
     },
     {
-      "name": "SECRET IDENTITIES",
+      "name": "HOLIDAY TREATS",
       "color": "blue",
       "words": [
-        "CLARK KENT",
-        "BRUCE WAYNE",
-        "PETER PARKER",
-        "DIANA PRINCE"
+        "GINGERBREAD",
+        "PEPPERMINT",
+        "HOT COCOA",
+        "MULLED WINE"
       ]
     },
     {
-      "name": "ICONIC GEAR",
+      "name": "WINTER WEATHER PHENOMENA",
       "color": "purple",
       "words": [
-        "BATARANG",
-        "WEB SHOOTER",
-        "UTILITY BELT",
-        "MJOLNIR"
+        "BLIZZARD",
+        "FROST",
+        "SLEET",
+        "HAIL"
       ]
     }
   ]

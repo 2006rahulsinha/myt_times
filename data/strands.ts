@@ -1,84 +1,85 @@
 export const strandsData = {
-  "themeClue": "Heroes in disguise",
+  "themeClue": "Cold strands of white",
   "grid": [
     [
+      "O",
+      "R",
       "B",
-      "T",
-      "S",
-      "U",
-      "A",
-      "E",
-      "N",
+      "L",
+      "I",
+      "Z",
+      "Z",
       "A"
     ],
     [
-      "A",
-      "C",
-      "S",
-      "E",
-      "Q",
-      "R",
       "T",
-      "L"
-    ],
-    [
-      "H",
-      "K",
-      "T",
-      "Y",
-      "E",
-      "H",
-      "C",
-      "I"
-    ],
-    [
+      "M",
+      "W",
+      "N",
       "T",
       "S",
-      "R",
+      "D",
+      "R"
+    ],
+    [
+      "S",
       "O",
-      "D",
-      "E",
-      "G",
-      "I"
-    ],
-    [
-      "R",
-      "G",
-      "S",
-      "I",
-      "N",
-      "E",
-      "R",
-      "V"
-    ],
-    [
-      "T",
-      "E",
-      "N",
-      "E",
-      "V",
+      "A",
       "M",
-      "E",
-      "K"
-    ],
-    [
-      "S",
+      "D",
       "Y",
-      "M",
-      "A",
+      "O",
+      "F"
+    ],
+    [
+      "I",
+      "W",
+      "N",
       "S",
+      "N",
+      "B",
+      "S",
+      "R"
+    ],
+    [
+      "R",
+      "F",
+      "O",
+      "U",
+      "O",
+      "E",
+      "E",
+      "N"
+    ],
+    [
+      "W",
       "D",
-      "A",
-      "S"
+      "T",
+      "N",
+      "C",
+      "I",
+      "O",
+      "O"
+    ],
+    [
+      "O",
+      "N",
+      "S",
+      "S",
+      "S",
+      "H",
+      "S",
+      "W"
     ]
   ],
   "answers": [
-    "MASKEDSAVER",
-    "VIGILANTE",
-    "ARCHENEMY",
-    "STRENGTHS",
-    "SIDEQUEST",
-    "BACKSTORY"
+    "SNOWDRIFTS",
+    "SNOWSTORM",
+    "BLIZZARD",
+    "FROSTY",
+    "SNOWSHOE",
+    "ICEBOUND",
+    "SNOWMAN"
   ],
-  "spangram": "MASKEDSAVER"
+  "spangram": "SNOWDRIFTS"
 };
