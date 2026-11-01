@@ -1,85 +1,85 @@
 export const strandsData = {
-  "themeClue": "Cold strands of white",
+  "themeClue": "Big top fun",
   "grid": [
     [
+      "Z",
+      "E",
+      "P",
+      "W",
       "O",
+      "L",
+      "W",
+      "S"
+    ],
+    [
+      "E",
+      "E",
+      "E",
+      "A",
+      "N",
+      "C",
+      "O",
+      "U"
+    ],
+    [
+      "S",
+      "S",
+      "T",
       "R",
-      "B",
+      "S",
+      "D",
+      "R",
+      "C"
+    ],
+    [
+      "A",
+      "A",
+      "I",
+      "C",
+      "T",
       "L",
       "I",
-      "Z",
-      "Z",
-      "A"
-    ],
-    [
-      "T",
-      "M",
-      "W",
-      "N",
-      "T",
-      "S",
-      "D",
       "R"
     ],
     [
-      "S",
-      "O",
-      "A",
-      "M",
-      "D",
-      "Y",
-      "O",
-      "F"
-    ],
-    [
-      "I",
       "W",
-      "N",
-      "S",
-      "N",
       "B",
-      "S",
-      "R"
-    ],
-    [
-      "R",
-      "F",
-      "O",
-      "U",
-      "O",
-      "E",
-      "E",
+      "M",
+      "D",
+      "W",
+      "C",
+      "W",
       "N"
     ],
     [
-      "W",
-      "D",
-      "T",
-      "N",
-      "C",
+      "S",
+      "O",
       "I",
+      "A",
+      "S",
       "O",
-      "O"
-    ],
-    [
-      "O",
-      "N",
-      "S",
-      "S",
-      "S",
-      "H",
       "S",
       "W"
+    ],
+    [
+      "A",
+      "C",
+      "R",
+      "Y",
+      "C",
+      "L",
+      "O",
+      "H"
     ]
   ],
   "answers": [
-    "SNOWDRIFTS",
-    "SNOWSTORM",
-    "BLIZZARD",
-    "FROSTY",
-    "SNOWSHOE",
-    "ICEBOUND",
-    "SNOWMAN"
+    "CIRCUSWORLD",
+    "CLOWNS",
+    "TRAPEZE",
+    "SEESAWS",
+    "ACROBATIC",
+    "MIDWAYS",
+    "CLOWNSHOW"
   ],
-  "spangram": "SNOWDRIFTS"
+  "spangram": "CIRCUSWORLD"
 };

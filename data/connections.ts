@@ -1,43 +1,43 @@
 export const connectionsData = {
   "groups": [
     {
-      "name": "WINTER SPORTS",
+      "name": "BIG TOP ACTS",
       "color": "yellow",
       "words": [
-        "SKIING",
-        "SNOWBOARDING",
-        "ICE SKATING",
-        "LUGE"
+        "ACROBAT",
+        "CLOWN",
+        "LION TAMER",
+        "FIRE BREATHER"
       ]
     },
     {
-      "name": "SNOWFLAKE TYPES",
+      "name": "RIDE ATTRACTIONS",
       "color": "green",
       "words": [
-        "DENDRITE",
-        "STELLAR",
-        "NEEDLE",
-        "PLATE"
+        "FERRIS WHEEL",
+        "CAROUSEL",
+        "BUMPER CARS",
+        "FUNHOUSE"
       ]
     },
     {
-      "name": "HOLIDAY TREATS",
+      "name": "FOOD STANDS",
       "color": "blue",
       "words": [
-        "GINGERBREAD",
-        "PEPPERMINT",
-        "HOT COCOA",
-        "MULLED WINE"
+        "COTTON CANDY",
+        "POPCORN",
+        "HOT DOG",
+        "FUNNEL CAKE"
       ]
     },
     {
-      "name": "WINTER WEATHER PHENOMENA",
+      "name": "GAME BOOTHS",
       "color": "purple",
       "words": [
-        "BLIZZARD",
-        "FROST",
-        "SLEET",
-        "HAIL"
+        "RING TOSS",
+        "SHOOTING GALLERY",
+        "BALLOON DARTS",
+        "MILK BOTTLE"
       ]
     }
   ]
