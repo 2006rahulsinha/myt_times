@@ -1,43 +1,43 @@
 export const connectionsData = {
   "groups": [
     {
-      "name": "BIG TOP ACTS",
+      "name": "CLASSIC PLATFORMERS",
       "color": "yellow",
       "words": [
-        "ACROBAT",
-        "CLOWN",
-        "LION TAMER",
-        "FIRE BREATHER"
+        "MARIO",
+        "SONIC",
+        "DONKEY KONG",
+        "PACMAN"
       ]
     },
     {
-      "name": "RIDE ATTRACTIONS",
+      "name": "FIRST PERSON SHOOTERS",
       "color": "green",
       "words": [
-        "FERRIS WHEEL",
-        "CAROUSEL",
-        "BUMPER CARS",
-        "FUNHOUSE"
+        "DOOM",
+        "HALO",
+        "COUNTERSTRIKE",
+        "CALL OF DUTY"
       ]
     },
     {
-      "name": "FOOD STANDS",
+      "name": "ACTION RPGS",
       "color": "blue",
       "words": [
-        "COTTON CANDY",
-        "POPCORN",
-        "HOT DOG",
-        "FUNNEL CAKE"
+        "DIABLO",
+        "DARK SOULS",
+        "WITCHER",
+        "FINAL FANTASY"
       ]
     },
     {
-      "name": "GAME BOOTHS",
+      "name": "FIGHTING GAMES",
       "color": "purple",
       "words": [
-        "RING TOSS",
-        "SHOOTING GALLERY",
-        "BALLOON DARTS",
-        "MILK BOTTLE"
+        "STREET FIGHTER",
+        "MORTAL KOMBAT",
+        "TEKKEN",
+        "SOULCALIBUR"
       ]
     }
   ]

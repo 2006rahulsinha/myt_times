@@ -1,85 +1,85 @@
 export const strandsData = {
-  "themeClue": "Big top fun",
+  "themeClue": "Pixels and power‑ups",
   "grid": [
     [
-      "Z",
+      "R",
+      "I",
+      "T",
+      "S",
+      "T",
+      "I",
       "E",
+      "D"
+    ],
+    [
       "P",
-      "W",
+      "E",
+      "S",
+      "Y",
+      "C",
+      "K",
+      "Q",
+      "I"
+    ],
+    [
+      "S",
+      "C",
+      "N",
+      "J",
       "O",
-      "L",
-      "W",
+      "E",
+      "U",
       "S"
     ],
     [
-      "E",
-      "E",
-      "E",
-      "A",
-      "N",
-      "C",
-      "O",
-      "U"
-    ],
-    [
-      "S",
-      "S",
       "T",
-      "R",
+      "M",
+      "O",
+      "I",
+      "F",
       "S",
       "D",
-      "R",
-      "C"
-    ],
-    [
-      "A",
-      "A",
-      "I",
-      "C",
-      "T",
-      "L",
-      "I",
       "R"
     ],
     [
-      "W",
-      "B",
-      "M",
-      "D",
-      "W",
-      "C",
-      "W",
-      "N"
-    ],
-    [
-      "S",
-      "O",
-      "I",
-      "A",
-      "S",
-      "O",
-      "S",
-      "W"
-    ],
-    [
-      "A",
-      "C",
+      "H",
+      "P",
       "R",
-      "Y",
-      "C",
-      "L",
       "O",
-      "H"
+      "T",
+      "T",
+      "L",
+      "O"
+    ],
+    [
+      "I",
+      "G",
+      "L",
+      "A",
+      "B",
+      "A",
+      "W",
+      "E"
+    ],
+    [
+      "F",
+      "S",
+      "S",
+      "O",
+      "R",
+      "C",
+      "A",
+      "D"
     ]
   ],
   "answers": [
-    "CIRCUSWORLD",
-    "CLOWNS",
-    "TRAPEZE",
-    "SEESAWS",
-    "ACROBATIC",
-    "MIDWAYS",
-    "CLOWNSHOW"
+    "ARCADEWORLD",
+    "SIDEQUEST",
+    "BOSSFIGHT",
+    "PLATFORM",
+    "SPRITE",
+    "COINS",
+    "JOYSTICK"
   ],
-  "spangram": "CIRCUSWORLD"
+  "spangram": "ARCADEWORLD"
 };
