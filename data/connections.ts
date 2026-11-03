@@ -1,43 +1,43 @@
 export const connectionsData = {
   "groups": [
     {
-      "name": "CLASSIC PLATFORMERS",
+      "name": "HERBIVOROUS GIANTS",
       "color": "yellow",
       "words": [
-        "MARIO",
-        "SONIC",
-        "DONKEY KONG",
-        "PACMAN"
+        "BRACHIOSAURUS",
+        "DIPLODOCUS",
+        "TRICERATOPS",
+        "STEGOSAURUS"
       ]
     },
     {
-      "name": "FIRST PERSON SHOOTERS",
+      "name": "FEROCIOUS CARNIVORES",
       "color": "green",
       "words": [
-        "DOOM",
-        "HALO",
-        "COUNTERSTRIKE",
-        "CALL OF DUTY"
+        "TYRANNOSAURUS",
+        "VELOCIRAPTOR",
+        "ALLOSAURUS",
+        "SPINOSAURUS"
       ]
     },
     {
-      "name": "ACTION RPGS",
+      "name": "GEOLOGIC PERIODS",
       "color": "blue",
       "words": [
-        "DIABLO",
-        "DARK SOULS",
-        "WITCHER",
-        "FINAL FANTASY"
+        "TRIASSIC",
+        "JURASSIC",
+        "CRETACEOUS",
+        "PERMIAN"
       ]
     },
     {
-      "name": "FIGHTING GAMES",
+      "name": "FAMOUS FOSSIL SITES",
       "color": "purple",
       "words": [
-        "STREET FIGHTER",
-        "MORTAL KOMBAT",
-        "TEKKEN",
-        "SOULCALIBUR"
+        "HELL CREEK",
+        "MORRISON FORMATION",
+        "YIXIAN",
+        "DJADO"
       ]
     }
   ]

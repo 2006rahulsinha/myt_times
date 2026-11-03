@@ -1,85 +1,84 @@
 export const strandsData = {
-  "themeClue": "Pixels and power‑ups",
+  "themeClue": "Ancient reptile fossils",
   "grid": [
     [
+      "A",
       "R",
       "I",
-      "T",
-      "S",
-      "T",
-      "I",
-      "E",
-      "D"
-    ],
-    [
-      "P",
-      "E",
-      "S",
-      "Y",
-      "C",
-      "K",
-      "Q",
-      "I"
-    ],
-    [
-      "S",
-      "C",
-      "N",
-      "J",
       "O",
-      "E",
-      "U",
-      "S"
-    ],
-    [
-      "T",
-      "M",
-      "O",
-      "I",
-      "F",
-      "S",
-      "D",
-      "R"
-    ],
-    [
-      "H",
-      "P",
       "R",
-      "O",
-      "T",
-      "T",
-      "L",
+      "I",
+      "S",
       "O"
     ],
     [
-      "I",
-      "G",
+      "C",
+      "N",
+      "V",
+      "E",
       "L",
+      "Z",
+      "S",
+      "F"
+    ],
+    [
+      "O",
+      "S",
+      "H",
+      "E",
+      "I",
+      "E",
       "A",
-      "B",
+      "N"
+    ],
+    [
+      "N",
+      "S",
+      "R",
+      "R",
+      "F",
       "A",
-      "W",
+      "U",
       "E"
     ],
     [
-      "F",
-      "S",
-      "S",
-      "O",
-      "R",
-      "C",
+      "D",
+      "I",
       "A",
-      "D"
+      "U",
+      "B",
+      "A",
+      "G",
+      "M"
+    ],
+    [
+      "I",
+      "C",
+      "T",
+      "S",
+      "P",
+      "I",
+      "E",
+      "R"
+    ],
+    [
+      "R",
+      "O",
+      "I",
+      "H",
+      "E",
+      "R",
+      "V",
+      "O"
     ]
   ],
   "answers": [
-    "ARCADEWORLD",
-    "SIDEQUEST",
-    "BOSSFIGHT",
-    "PLATFORM",
-    "SPRITE",
-    "COINS",
-    "JOYSTICK"
+    "PREHISTORIC",
+    "DINOSAURS",
+    "CARNIVORE",
+    "HERBIVORE",
+    "MEGAFAUNA",
+    "FOSSILIZE"
   ],
-  "spangram": "ARCADEWORLD"
+  "spangram": "PREHISTORIC"
 };
