@@ -1,84 +1,85 @@
 export const strandsData = {
-  "themeClue": "Ancient reptile fossils",
+  "themeClue": "Caped crusaders",
   "grid": [
     [
-      "A",
-      "R",
-      "I",
-      "O",
-      "R",
-      "I",
-      "S",
-      "O"
-    ],
-    [
-      "C",
-      "N",
-      "V",
-      "E",
-      "L",
-      "Z",
-      "S",
-      "F"
-    ],
-    [
-      "O",
-      "S",
       "H",
       "E",
-      "I",
       "E",
-      "A",
-      "N"
-    ],
-    [
-      "N",
+      "M",
+      "Y",
       "S",
-      "R",
-      "R",
-      "F",
-      "A",
-      "U",
-      "E"
-    ],
-    [
-      "D",
-      "I",
-      "A",
-      "U",
-      "B",
-      "A",
-      "G",
-      "M"
-    ],
-    [
-      "I",
-      "C",
       "T",
-      "S",
-      "P",
-      "I",
-      "E",
       "R"
     ],
     [
+      "C",
+      "N",
+      "E",
+      "N",
+      "V",
+      "T",
+      "N",
+      "E"
+    ],
+    [
       "R",
-      "O",
+      "T",
       "I",
+      "S",
+      "I",
+      "H",
+      "G",
+      "H"
+    ],
+    [
+      "A",
+      "N",
+      "L",
+      "E",
+      "I",
+      "V",
+      "E",
+      "K"
+    ],
+    [
+      "E",
+      "L",
+      "A",
+      "B",
+      "I",
+      "R",
+      "S",
+      "C"
+    ],
+    [
+      "U",
+      "M",
+      "I",
+      "G",
+      "O",
+      "A",
+      "M",
+      "I"
+    ],
+    [
+      "T",
+      "S",
+      "O",
+      "C",
       "H",
       "E",
       "R",
-      "V",
       "O"
     ]
   ],
   "answers": [
-    "PREHISTORIC",
-    "DINOSAURS",
-    "CARNIVORE",
-    "HERBIVORE",
-    "MEGAFAUNA",
-    "FOSSILIZE"
+    "HEROICMASK",
+    "HERO",
+    "COSTUME",
+    "ARCHENEMY",
+    "STRENGTH",
+    "VIGILANTE",
+    "INVISIBLE"
   ],
-  "spangram": "PREHISTORIC"
+  "spangram": "HEROICMASK"
 };

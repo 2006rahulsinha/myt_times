@@ -1,43 +1,43 @@
 export const connectionsData = {
   "groups": [
     {
-      "name": "HERBIVOROUS GIANTS",
+      "name": "SECRET IDENTITIES",
       "color": "yellow",
       "words": [
-        "BRACHIOSAURUS",
-        "DIPLODOCUS",
-        "TRICERATOPS",
-        "STEGOSAURUS"
+        "CLARK KENT",
+        "BRUCE WAYNE",
+        "PETER PARKER",
+        "DIANA PRINCE"
       ]
     },
     {
-      "name": "FEROCIOUS CARNIVORES",
+      "name": "ICONIC GADGETS",
       "color": "green",
       "words": [
-        "TYRANNOSAURUS",
-        "VELOCIRAPTOR",
-        "ALLOSAURUS",
-        "SPINOSAURUS"
+        "WEB SHOOTERS",
+        "BATARANG",
+        "MJOLNIR",
+        "POWER RING"
       ]
     },
     {
-      "name": "GEOLOGIC PERIODS",
+      "name": "SUPERHERO TEAMS",
       "color": "blue",
       "words": [
-        "TRIASSIC",
-        "JURASSIC",
-        "CRETACEOUS",
-        "PERMIAN"
+        "JUSTICE LEAGUE",
+        "AVENGERS",
+        "X MEN",
+        "FANTASTIC FOUR"
       ]
     },
     {
-      "name": "FAMOUS FOSSIL SITES",
+      "name": "ARCH ENEMIES",
       "color": "purple",
       "words": [
-        "HELL CREEK",
-        "MORRISON FORMATION",
-        "YIXIAN",
-        "DJADO"
+        "LEX LUTHOR",
+        "JOKER",
+        "GREEN GOBLIN",
+        "DOCTOR DOOM"
       ]
     }
   ]
