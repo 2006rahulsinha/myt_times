@@ -1,43 +1,43 @@
 export const connectionsData = {
   "groups": [
     {
-      "name": "SECRET IDENTITIES",
+      "name": "CLASSICAL COMPOSERS",
       "color": "yellow",
       "words": [
-        "CLARK KENT",
-        "BRUCE WAYNE",
-        "PETER PARKER",
-        "DIANA PRINCE"
+        "BEETHOVEN",
+        "MOZART",
+        "TCHAIKOVSKY",
+        "BRAHMS"
       ]
     },
     {
-      "name": "ICONIC GADGETS",
+      "name": "STRING INSTRUMENTS",
       "color": "green",
       "words": [
-        "WEB SHOOTERS",
-        "BATARANG",
-        "MJOLNIR",
-        "POWER RING"
+        "VIOLIN",
+        "CELLO",
+        "DOUBLE BASS",
+        "HARP"
       ]
     },
     {
-      "name": "SUPERHERO TEAMS",
+      "name": "MUSIC GENRES",
       "color": "blue",
       "words": [
-        "JUSTICE LEAGUE",
-        "AVENGERS",
-        "X MEN",
-        "FANTASTIC FOUR"
+        "JAZZ",
+        "BLUES",
+        "REGGAE",
+        "HIP HOP"
       ]
     },
     {
-      "name": "ARCH ENEMIES",
+      "name": "FAMOUS ALBUMS",
       "color": "purple",
       "words": [
-        "LEX LUTHOR",
-        "JOKER",
-        "GREEN GOBLIN",
-        "DOCTOR DOOM"
+        "THRILLER",
+        "RUMOURS",
+        "THE WALL",
+        "ABBEY ROAD"
       ]
     }
   ]

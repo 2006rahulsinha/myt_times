@@ -1,85 +1,85 @@
 export const strandsData = {
-  "themeClue": "Caped crusaders",
+  "themeClue": "Melodies intertwine",
   "grid": [
     [
-      "H",
-      "E",
-      "E",
       "M",
-      "Y",
-      "S",
-      "T",
-      "R"
-    ],
-    [
-      "C",
-      "N",
-      "E",
-      "N",
-      "V",
-      "T",
-      "N",
-      "E"
-    ],
-    [
-      "R",
-      "T",
-      "I",
-      "S",
-      "I",
-      "H",
-      "G",
-      "H"
-    ],
-    [
-      "A",
-      "N",
-      "L",
-      "E",
-      "I",
-      "V",
-      "E",
-      "K"
-    ],
-    [
-      "E",
-      "L",
-      "A",
-      "B",
-      "I",
-      "R",
-      "S",
-      "C"
-    ],
-    [
-      "U",
-      "M",
-      "I",
-      "G",
       "O",
+      "H",
+      "O",
+      "D",
       "A",
-      "M",
+      "O",
+      "D"
+    ],
+    [
+      "R",
+      "N",
+      "C",
+      "R",
+      "L",
+      "L",
+      "O",
       "I"
     ],
     [
-      "T",
-      "S",
-      "O",
+      "A",
+      "I",
       "C",
+      "M",
+      "E",
+      "O",
+      "S",
+      "U"
+    ],
+    [
+      "T",
       "H",
+      "O",
+      "S",
+      "N",
+      "A",
+      "R",
+      "S"
+    ],
+    [
       "E",
       "R",
-      "O"
+      "N",
+      "G",
+      "T",
+      "A",
+      "O",
+      "M"
+    ],
+    [
+      "N",
+      "C",
+      "D",
+      "B",
+      "I",
+      "H",
+      "A",
+      "N"
+    ],
+    [
+      "O",
+      "C",
+      "R",
+      "I",
+      "N",
+      "A",
+      "C",
+      "I"
     ]
   ],
   "answers": [
-    "HEROICMASK",
-    "HERO",
-    "COSTUME",
-    "ARCHENEMY",
-    "STRENGTH",
-    "VIGILANTE",
-    "INVISIBLE"
+    "SONGBIRD",
+    "CONCERT",
+    "HARMONIC",
+    "CHORDAL",
+    "MELODIOUS",
+    "SONATINA",
+    "HARMONICA"
   ],
-  "spangram": "HEROICMASK"
+  "spangram": "SONGBIRD"
 };
