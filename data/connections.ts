@@ -1,43 +1,43 @@
 export const connectionsData = {
   "groups": [
     {
-      "name": "CLASSICAL COMPOSERS",
+      "name": "TENT TYPES",
       "color": "yellow",
       "words": [
-        "BEETHOVEN",
-        "MOZART",
-        "TCHAIKOVSKY",
-        "BRAHMS"
+        "DOME",
+        "CABIN",
+        "TUNNEL",
+        "AFRAME"
       ]
     },
     {
-      "name": "STRING INSTRUMENTS",
+      "name": "CAMPFIRE FOODS",
       "color": "green",
       "words": [
-        "VIOLIN",
-        "CELLO",
-        "DOUBLE BASS",
-        "HARP"
+        "MARSHMALLOWS",
+        "HOTDOGS",
+        "BACON",
+        "CORN ON THE COB"
       ]
     },
     {
-      "name": "MUSIC GENRES",
+      "name": "HIKING GEAR",
       "color": "blue",
       "words": [
-        "JAZZ",
-        "BLUES",
-        "REGGAE",
-        "HIP HOP"
+        "BACKPACK",
+        "TREKKING POLES",
+        "WATER BOTTLE",
+        "TRAIL MAP"
       ]
     },
     {
-      "name": "FAMOUS ALBUMS",
+      "name": "NATIONAL PARKS",
       "color": "purple",
       "words": [
-        "THRILLER",
-        "RUMOURS",
-        "THE WALL",
-        "ABBEY ROAD"
+        "YOSEMITE",
+        "YELLOWSTONE",
+        "ACADIA",
+        "GRAND TETON"
       ]
     }
   ]

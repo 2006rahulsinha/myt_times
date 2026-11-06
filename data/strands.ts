@@ -1,85 +1,85 @@
 export const strandsData = {
-  "themeClue": "Melodies intertwine",
+  "themeClue": "Under the stars with campfire",
   "grid": [
     [
-      "M",
-      "O",
+      "E",
+      "N",
+      "I",
+      "G",
+      "T",
       "H",
-      "O",
-      "D",
+      "E",
+      "A"
+    ],
+    [
+      "T",
+      "T",
+      "N",
+      "R",
+      "L",
+      "M",
       "A",
-      "O",
       "D"
     ],
     [
-      "R",
+      "F",
       "N",
+      "A",
+      "I",
+      "W",
+      "E",
+      "P",
+      "C"
+    ],
+    [
+      "E",
+      "U",
       "C",
+      "I",
+      "I",
+      "V",
       "R",
+      "F"
+    ],
+    [
+      "R",
+      "A",
       "L",
-      "L",
+      "R",
+      "E",
+      "M",
       "O",
       "I"
     ],
     [
-      "A",
-      "I",
-      "C",
       "M",
-      "E",
-      "O",
-      "S",
-      "U"
-    ],
-    [
-      "T",
-      "H",
-      "O",
-      "S",
-      "N",
-      "A",
-      "R",
-      "S"
-    ],
-    [
-      "E",
-      "R",
-      "N",
-      "G",
-      "T",
-      "A",
-      "O",
-      "M"
-    ],
-    [
-      "N",
-      "C",
-      "D",
-      "B",
       "I",
-      "H",
+      "D",
+      "E",
+      "R",
+      "U",
+      "T",
+      "I"
+    ],
+    [
+      "P",
+      "F",
+      "L",
+      "I",
+      "F",
+      "N",
       "A",
       "N"
-    ],
-    [
-      "O",
-      "C",
-      "R",
-      "I",
-      "N",
-      "A",
-      "C",
-      "I"
     ]
   ],
   "answers": [
-    "SONGBIRD",
-    "CONCERT",
-    "HARMONIC",
-    "CHORDAL",
-    "MELODIOUS",
-    "SONATINA",
-    "HARMONICA"
+    "CAMPFIREFUN",
+    "TENTING",
+    "TRAILHEAD",
+    "CAMPFIRE",
+    "WILDLIFE",
+    "RIVER",
+    "MOUNTAIN"
   ],
-  "spangram": "SONGBIRD"
+  "spangram": "CAMPFIREFUN"
 };
