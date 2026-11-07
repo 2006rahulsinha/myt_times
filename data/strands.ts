@@ -1,85 +1,85 @@
 export const strandsData = {
-  "themeClue": "Under the stars with campfire",
+  "themeClue": "Melodic threads",
   "grid": [
     [
-      "E",
-      "N",
-      "I",
-      "G",
+      "Y",
       "T",
+      "M",
+      "S",
+      "S",
+      "Y",
+      "M",
+      "P"
+    ],
+    [
+      "H",
       "H",
       "E",
-      "A"
+      "H",
+      "A",
+      "O",
+      "T",
+      "H"
     ],
     [
-      "T",
-      "T",
-      "N",
       "R",
-      "L",
-      "M",
-      "A",
-      "D"
-    ],
-    [
-      "F",
+      "V",
+      "S",
+      "R",
       "N",
       "A",
-      "I",
-      "W",
-      "E",
-      "P",
-      "C"
+      "T",
+      "O"
     ],
     [
+      "O",
+      "A",
+      "M",
+      "N",
+      "A",
       "E",
-      "U",
+      "D",
+      "N"
+    ],
+    [
+      "T",
+      "P",
+      "T",
+      "O",
+      "I",
       "C",
       "I",
-      "I",
-      "V",
-      "R",
-      "F"
-    ],
-    [
-      "R",
-      "A",
-      "L",
-      "R",
-      "E",
-      "M",
-      "O",
       "I"
     ],
     [
-      "M",
-      "I",
-      "D",
+      "L",
       "E",
+      "M",
+      "C",
+      "O",
+      "C",
       "R",
+      "N"
+    ],
+    [
+      "A",
+      "T",
+      "N",
+      "E",
+      "M",
       "U",
       "T",
-      "I"
-    ],
-    [
-      "P",
-      "F",
-      "L",
-      "I",
-      "F",
-      "N",
-      "A",
-      "N"
+      "S"
     ]
   ],
   "answers": [
-    "CAMPFIREFUN",
-    "TENTING",
-    "TRAILHEAD",
-    "CAMPFIRE",
-    "WILDLIFE",
-    "RIVER",
-    "MOUNTAIN"
+    "INSTRUMENTAL",
+    "TEMPO",
+    "RHYTHMS",
+    "SYMPHONIC",
+    "OCTAVES",
+    "HARMONICA",
+    "NOTATED"
   ],
-  "spangram": "CAMPFIREFUN"
+  "spangram": "INSTRUMENTAL"
 };
