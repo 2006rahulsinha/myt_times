@@ -1,43 +1,43 @@
 export const connectionsData = {
   "groups": [
     {
-      "name": "ORCHESTRAL INSTRUMENTS",
+      "name": "OSCAR BEST PICTURE WINNERS",
       "color": "yellow",
       "words": [
-        "VIOLIN",
-        "CELLO",
-        "FLUTE",
-        "TRUMPET"
+        "PARASITE",
+        "MOONLIGHT",
+        "SPOTLIGHT",
+        "ARGO"
       ]
     },
     {
-      "name": "MUSICAL FORMS",
+      "name": "FILM GENRES",
       "color": "green",
       "words": [
-        "SONATA",
-        "SYMPHONY",
-        "CONCERTO",
-        "OPERA"
+        "WESTERN",
+        "ROMANCE",
+        "DOCUMENTARY",
+        "HORROR"
       ]
     },
     {
-      "name": "MUSIC GENRES",
+      "name": "FAMOUS DIRECTORS",
       "color": "blue",
       "words": [
-        "JAZZ",
-        "ROCK",
-        "HIP HOP",
-        "REGGAE"
+        "KUBRICK",
+        "SPIELBERG",
+        "SCORSESE",
+        "COPPOLA"
       ]
     },
     {
-      "name": "NOTATION SYMBOLS",
+      "name": "ICONIC FILM SCORES",
       "color": "purple",
       "words": [
-        "CLEF",
-        "REST",
-        "SHARP",
-        "FLAT"
+        "STARWARS",
+        "TITANIC",
+        "INCEPTION",
+        "GODFATHER"
       ]
     }
   ]

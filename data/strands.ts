@@ -1,85 +1,85 @@
 export const strandsData = {
-  "themeClue": "Melodic threads",
+  "themeClue": "Movie magic",
   "grid": [
     [
-      "Y",
-      "T",
-      "M",
-      "S",
-      "S",
-      "Y",
-      "M",
-      "P"
-    ],
-    [
-      "H",
-      "H",
-      "E",
-      "H",
-      "A",
+      "C",
       "O",
-      "T",
-      "H"
-    ],
-    [
-      "R",
-      "V",
+      "N",
       "S",
-      "R",
-      "N",
-      "A",
       "T",
-      "O"
+      "O",
+      "R",
+      "Y"
     ],
     [
-      "O",
-      "A",
-      "M",
-      "N",
-      "A",
+      "P",
+      "R",
+      "S",
       "E",
-      "D",
+      "E",
+      "A",
+      "I",
+      "L"
+    ],
+    [
+      "E",
+      "O",
+      "S",
+      "C",
+      "N",
+      "K",
+      "M",
       "N"
     ],
     [
-      "T",
+      "N",
+      "D",
       "P",
+      "R",
+      "E",
+      "M",
+      "F",
+      "E"
+    ],
+    [
+      "E",
+      "E",
+      "E",
+      "R",
+      "L",
+      "I",
+      "S",
+      "C"
+    ],
+    [
+      "K",
       "T",
-      "O",
-      "I",
+      "S",
       "C",
-      "I",
+      "F",
+      "A",
+      "M",
       "I"
     ],
     [
+      "C",
+      "I",
+      "T",
+      "M",
       "L",
+      "I",
       "E",
-      "M",
-      "C",
-      "O",
-      "C",
-      "R",
       "N"
-    ],
-    [
-      "A",
-      "T",
-      "N",
-      "E",
-      "M",
-      "U",
-      "T",
-      "S"
     ]
   ],
   "answers": [
-    "INSTRUMENTAL",
-    "TEMPO",
-    "RHYTHMS",
-    "SYMPHONIC",
-    "OCTAVES",
-    "HARMONICA",
-    "NOTATED"
+    "FILMTICKET",
+    "SCREENED",
+    "POPCORNS",
+    "STORYLINE",
+    "CINEMAS",
+    "FILMMAKER",
+    "SCENE"
   ],
-  "spangram": "INSTRUMENTAL"
+  "spangram": "FILMTICKET"
 };
