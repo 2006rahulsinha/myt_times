@@ -1,43 +1,43 @@
 export const connectionsData = {
   "groups": [
     {
-      "name": "OSCAR BEST PICTURE WINNERS",
+      "name": "GREEK DEITIES",
       "color": "yellow",
       "words": [
-        "PARASITE",
-        "MOONLIGHT",
-        "SPOTLIGHT",
-        "ARGO"
+        "ZEUS",
+        "HERA",
+        "POSEIDON",
+        "ATHENA"
       ]
     },
     {
-      "name": "FILM GENRES",
+      "name": "NORSE CREATURES",
       "color": "green",
       "words": [
-        "WESTERN",
-        "ROMANCE",
-        "DOCUMENTARY",
-        "HORROR"
+        "FENRIR",
+        "JORMUNGANDR",
+        "VALKYRIE",
+        "TROLL"
       ]
     },
     {
-      "name": "FAMOUS DIRECTORS",
+      "name": "EGYPTIAN SYMBOLS",
       "color": "blue",
       "words": [
-        "KUBRICK",
-        "SPIELBERG",
-        "SCORSESE",
-        "COPPOLA"
+        "ANKH",
+        "SCARAB",
+        "SPHINX",
+        "EYE OF RA"
       ]
     },
     {
-      "name": "ICONIC FILM SCORES",
+      "name": "ROMAN HEROES",
       "color": "purple",
       "words": [
-        "STARWARS",
-        "TITANIC",
-        "INCEPTION",
-        "GODFATHER"
+        "AENEAS",
+        "ROMULUS",
+        "REMUS",
+        "HORATIUS"
       ]
     }
   ]

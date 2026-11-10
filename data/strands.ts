@@ -1,85 +1,85 @@
 export const strandsData = {
-  "themeClue": "Movie magic",
+  "themeClue": "Divine threads of legend",
   "grid": [
     [
-      "C",
-      "O",
+      "F",
+      "I",
       "N",
-      "S",
-      "T",
       "O",
-      "R",
+      "E",
+      "H",
+      "M",
       "Y"
     ],
     [
-      "P",
-      "R",
-      "S",
+      "L",
       "E",
       "E",
       "A",
-      "I",
-      "L"
-    ],
-    [
       "E",
-      "O",
-      "S",
       "C",
-      "N",
-      "K",
-      "M",
-      "N"
+      "P",
+      "T"
     ],
     [
-      "N",
-      "D",
       "P",
       "R",
-      "E",
-      "M",
+      "T",
       "F",
-      "E"
+      "H",
+      "Y",
+      "O",
+      "H"
     ],
     [
-      "E",
-      "E",
-      "E",
+      "S",
+      "A",
+      "N",
+      "T",
+      "D",
+      "G",
       "R",
-      "L",
-      "I",
+      "I"
+    ],
+    [
+      "Y",
+      "S",
+      "E",
+      "D",
+      "O",
+      "P",
       "S",
       "C"
     ],
     [
-      "K",
-      "T",
-      "S",
       "C",
-      "F",
-      "A",
-      "M",
-      "I"
+      "C",
+      "L",
+      "O",
+      "P",
+      "E",
+      "D",
+      "L"
     ],
     [
-      "C",
-      "I",
-      "T",
-      "M",
-      "L",
-      "I",
       "E",
-      "N"
+      "L",
+      "C",
+      "A",
+      "R",
+      "O",
+      "N",
+      "A"
     ]
   ],
   "answers": [
-    "FILMTICKET",
-    "SCREENED",
-    "POPCORNS",
-    "STORYLINE",
-    "CINEMAS",
-    "FILMMAKER",
-    "SCENE"
+    "MYTHICLAND",
+    "ORACLE",
+    "CYCLOPES",
+    "PROPHECY",
+    "GODDESS",
+    "PANTHEON",
+    "AFTERLIFE"
   ],
-  "spangram": "FILMTICKET"
+  "spangram": "MYTHICLAND"
 };
