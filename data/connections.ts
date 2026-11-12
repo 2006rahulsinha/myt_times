@@ -1,43 +1,43 @@
 export const connectionsData = {
   "groups": [
     {
-      "name": "VOCAL RANGES",
+      "name": "CLASSICAL FORMS",
       "color": "yellow",
       "words": [
-        "SOPRANO",
-        "ALTO",
-        "TENOR",
-        "BASS"
+        "SYMPHONY",
+        "CONCERTO",
+        "SONATA",
+        "SUITE"
       ]
     },
     {
-      "name": "STRING INSTRUMENTS",
+      "name": "JAZZ INSTRUMENTS",
       "color": "green",
       "words": [
-        "VIOLIN",
-        "CELLO",
-        "DOUBLE BASS",
-        "HARP"
+        "SAXOPHONE",
+        "TRUMPET",
+        "PIANO",
+        "DOUBLE BASS"
       ]
     },
     {
-      "name": "MUSIC GENRES",
+      "name": "POP ICONS",
       "color": "blue",
       "words": [
-        "JAZZ",
-        "BLUES",
-        "ROCK",
-        "REGGAE"
+        "MADONNA",
+        "BEYONCE",
+        "ELTON JOHN",
+        "PRINCE"
       ]
     },
     {
-      "name": "CLASSICAL FORMS",
+      "name": "MUSICAL NOTATION",
       "color": "purple",
       "words": [
-        "SYMPHONY",
-        "SONATA",
-        "CONCERTO",
-        "SUITE"
+        "TREBLE CLEF",
+        "BASS CLEF",
+        "SHARP",
+        "FLAT"
       ]
     }
   ]

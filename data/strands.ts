@@ -1,84 +1,85 @@
 export const strandsData = {
-  "themeClue": "Notes woven together",
+  "themeClue": "Sounds woven together",
   "grid": [
     [
-      "R",
-      "A",
-      "H",
+      "Y",
+      "M",
       "P",
-      "O",
+      "S",
+      "I",
       "N",
-      "Y",
-      "B"
+      "E",
+      "C"
     ],
     [
-      "M",
-      "N",
-      "M",
+      "S",
       "H",
-      "B",
       "S",
-      "D",
-      "E"
-    ],
-    [
-      "O",
-      "Y",
-      "Y",
-      "S",
-      "G",
-      "I",
-      "R",
-      "A"
-    ],
-    [
-      "M",
-      "S",
-      "S",
-      "R",
-      "O",
-      "N",
-      "A",
-      "T"
-    ],
-    [
-      "U",
-      "I",
-      "C",
-      "S",
-      "E",
-      "K",
-      "M",
-      "R"
-    ],
-    [
-      "C",
       "L",
-      "D",
-      "I",
-      "N",
-      "O",
-      "M",
-      "A"
+      "R",
+      "E",
+      "C",
+      "O"
     ],
     [
+      "A",
+      "O",
+      "A",
+      "T",
+      "S",
+      "U",
+      "D",
+      "N"
+    ],
+    [
+      "C",
+      "N",
+      "B",
       "M",
-      "E",
       "O",
       "I",
       "O",
-      "U",
+      "M"
+    ],
+    [
+      "I",
+      "N",
+      "I",
+      "C",
+      "E",
+      "L",
+      "H",
+      "H"
+    ],
+    [
+      "N",
       "S",
+      "O",
+      "M",
+      "R",
+      "A",
+      "T",
+      "Y"
+    ],
+    [
+      "O",
+      "G",
+      "B",
+      "O",
+      "O",
+      "K",
+      "R",
       "H"
     ]
   ],
   "answers": [
-    "HARMONYMUSIC",
-    "MELODIOUS",
-    "HARMONICS",
-    "SYMPHONY",
-    "BEATMAKER",
-    "SONGBIRDS"
+    "SONGBOOK",
+    "RHYTHM",
+    "HARMONICA",
+    "SYMPHONIC",
+    "BASSLINE",
+    "CONCERT",
+    "MELODIOUS"
   ],
-  "spangram": "HARMONYMUSIC"
+  "spangram": "SONGBOOK"
 };
