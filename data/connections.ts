@@ -1,43 +1,43 @@
 export const connectionsData = {
   "groups": [
     {
-      "name": "GREEK DEITIES",
+      "name": "VOCAL RANGES",
       "color": "yellow",
       "words": [
-        "ZEUS",
-        "HERA",
-        "POSEIDON",
-        "ATHENA"
+        "SOPRANO",
+        "ALTO",
+        "TENOR",
+        "BASS"
       ]
     },
     {
-      "name": "NORSE CREATURES",
+      "name": "STRING INSTRUMENTS",
       "color": "green",
       "words": [
-        "FENRIR",
-        "JORMUNGANDR",
-        "VALKYRIE",
-        "TROLL"
+        "VIOLIN",
+        "CELLO",
+        "DOUBLE BASS",
+        "HARP"
       ]
     },
     {
-      "name": "EGYPTIAN SYMBOLS",
+      "name": "MUSIC GENRES",
       "color": "blue",
       "words": [
-        "ANKH",
-        "SCARAB",
-        "SPHINX",
-        "EYE OF RA"
+        "JAZZ",
+        "BLUES",
+        "ROCK",
+        "REGGAE"
       ]
     },
     {
-      "name": "ROMAN HEROES",
+      "name": "CLASSICAL FORMS",
       "color": "purple",
       "words": [
-        "AENEAS",
-        "ROMULUS",
-        "REMUS",
-        "HORATIUS"
+        "SYMPHONY",
+        "SONATA",
+        "CONCERTO",
+        "SUITE"
       ]
     }
   ]

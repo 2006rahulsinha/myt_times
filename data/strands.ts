@@ -1,85 +1,84 @@
 export const strandsData = {
-  "themeClue": "Divine threads of legend",
+  "themeClue": "Notes woven together",
   "grid": [
     [
-      "F",
-      "I",
-      "N",
-      "O",
-      "E",
+      "R",
+      "A",
       "H",
-      "M",
-      "Y"
+      "P",
+      "O",
+      "N",
+      "Y",
+      "B"
     ],
     [
-      "L",
-      "E",
-      "E",
+      "M",
+      "N",
+      "M",
+      "H",
+      "B",
+      "S",
+      "D",
+      "E"
+    ],
+    [
+      "O",
+      "Y",
+      "Y",
+      "S",
+      "G",
+      "I",
+      "R",
+      "A"
+    ],
+    [
+      "M",
+      "S",
+      "S",
+      "R",
+      "O",
+      "N",
       "A",
-      "E",
-      "C",
-      "P",
       "T"
     ],
     [
-      "P",
-      "R",
-      "T",
-      "F",
-      "H",
-      "Y",
-      "O",
-      "H"
-    ],
-    [
-      "S",
-      "A",
-      "N",
-      "T",
-      "D",
-      "G",
-      "R",
-      "I"
-    ],
-    [
-      "Y",
+      "U",
+      "I",
+      "C",
       "S",
       "E",
-      "D",
-      "O",
-      "P",
-      "S",
-      "C"
+      "K",
+      "M",
+      "R"
     ],
     [
-      "C",
       "C",
       "L",
-      "O",
-      "P",
-      "E",
       "D",
-      "L"
-    ],
-    [
-      "E",
-      "L",
-      "C",
-      "A",
-      "R",
-      "O",
+      "I",
       "N",
+      "O",
+      "M",
       "A"
+    ],
+    [
+      "M",
+      "E",
+      "O",
+      "I",
+      "O",
+      "U",
+      "S",
+      "H"
     ]
   ],
   "answers": [
-    "MYTHICLAND",
-    "ORACLE",
-    "CYCLOPES",
-    "PROPHECY",
-    "GODDESS",
-    "PANTHEON",
-    "AFTERLIFE"
+    "HARMONYMUSIC",
+    "MELODIOUS",
+    "HARMONICS",
+    "SYMPHONY",
+    "BEATMAKER",
+    "SONGBIRDS"
   ],
-  "spangram": "MYTHICLAND"
+  "spangram": "HARMONYMUSIC"
 };
