@@ -1,85 +1,85 @@
 export const strandsData = {
-  "themeClue": "Sounds woven together",
+  "themeClue": "Colors on canvas",
   "grid": [
     [
-      "Y",
-      "M",
       "P",
-      "S",
-      "I",
-      "N",
-      "E",
-      "C"
-    ],
-    [
-      "S",
-      "H",
-      "S",
-      "L",
-      "R",
-      "E",
-      "C",
-      "O"
-    ],
-    [
-      "A",
-      "O",
-      "A",
-      "T",
-      "S",
-      "U",
-      "D",
-      "N"
-    ],
-    [
-      "C",
-      "N",
-      "B",
-      "M",
-      "O",
-      "I",
-      "O",
-      "M"
-    ],
-    [
-      "I",
-      "N",
-      "I",
-      "C",
-      "E",
-      "L",
-      "H",
-      "H"
-    ],
-    [
-      "N",
-      "S",
-      "O",
-      "M",
-      "R",
-      "A",
-      "T",
-      "Y"
-    ],
-    [
-      "O",
       "G",
-      "B",
+      "M",
+      "E",
+      "N",
+      "T",
+      "M",
+      "I"
+    ],
+    [
+      "I",
+      "H",
+      "W",
       "O",
+      "E",
+      "E",
+      "E",
+      "X"
+    ],
+    [
+      "S",
       "O",
-      "K",
       "R",
-      "H"
+      "S",
+      "K",
+      "P",
+      "P",
+      "S"
+    ],
+    [
+      "U",
+      "R",
+      "T",
+      "S",
+      "T",
+      "O",
+      "A",
+      "G"
+    ],
+    [
+      "R",
+      "K",
+      "I",
+      "N",
+      "R",
+      "C",
+      "L",
+      "A"
+    ],
+    [
+      "T",
+      "B",
+      "T",
+      "T",
+      "S",
+      "A",
+      "Y",
+      "L"
+    ],
+    [
+      "I",
+      "A",
+      "R",
+      "D",
+      "N",
+      "R",
+      "E",
+      "L"
     ]
   ],
   "answers": [
-    "SONGBOOK",
-    "RHYTHM",
-    "HARMONICA",
-    "SYMPHONIC",
-    "BASSLINE",
-    "CONCERT",
-    "MELODIOUS"
+    "PIGMENTMIXES",
+    "GALLERY",
+    "LANDSCAPE",
+    "PORTRAIT",
+    "BRUSHWORK",
+    "TINT",
+    "STROKES"
   ],
-  "spangram": "SONGBOOK"
+  "spangram": "PIGMENTMIXES"
 };

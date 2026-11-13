@@ -1,43 +1,43 @@
 export const connectionsData = {
   "groups": [
     {
-      "name": "CLASSICAL FORMS",
+      "name": "FAMOUS PAINTERS",
       "color": "yellow",
       "words": [
-        "SYMPHONY",
-        "CONCERTO",
-        "SONATA",
-        "SUITE"
+        "LEONARDO",
+        "VAN GOGH",
+        "PICASSO",
+        "REMBRANDT"
       ]
     },
     {
-      "name": "JAZZ INSTRUMENTS",
+      "name": "PAINTING TECHNIQUES",
       "color": "green",
       "words": [
-        "SAXOPHONE",
-        "TRUMPET",
-        "PIANO",
-        "DOUBLE BASS"
+        "IMPASTO",
+        "GLAZING",
+        "SCUMBLING",
+        "SFUMATO"
       ]
     },
     {
-      "name": "POP ICONS",
+      "name": "COLOR TERMS",
       "color": "blue",
       "words": [
-        "MADONNA",
-        "BEYONCE",
-        "ELTON JOHN",
-        "PRINCE"
+        "COBALT",
+        "CERULEAN",
+        "OCHRE",
+        "VIRIDIAN"
       ]
     },
     {
-      "name": "MUSICAL NOTATION",
+      "name": "ART MOVEMENTS",
       "color": "purple",
       "words": [
-        "TREBLE CLEF",
-        "BASS CLEF",
-        "SHARP",
-        "FLAT"
+        "BAROQUE",
+        "CUBISM",
+        "SURREALISM",
+        "RENAISSANCE"
       ]
     }
   ]
