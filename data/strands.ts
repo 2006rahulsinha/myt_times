@@ -1,85 +1,85 @@
 export const strandsData = {
-  "themeClue": "Colors on canvas",
+  "themeClue": "ancient reptile world",
   "grid": [
     [
-      "P",
-      "G",
-      "M",
-      "E",
-      "N",
-      "T",
-      "M",
-      "I"
-    ],
-    [
-      "I",
-      "H",
-      "W",
-      "O",
-      "E",
-      "E",
-      "E",
-      "X"
-    ],
-    [
-      "S",
-      "O",
-      "R",
-      "S",
-      "K",
-      "P",
-      "P",
-      "S"
-    ],
-    [
-      "U",
-      "R",
-      "T",
-      "S",
-      "T",
-      "O",
-      "A",
-      "G"
-    ],
-    [
-      "R",
-      "K",
       "I",
       "N",
-      "R",
+      "I",
+      "N",
+      "I",
+      "D",
       "C",
-      "L",
+      "R"
+    ],
+    [
+      "O",
+      "D",
+      "D",
+      "O",
+      "S",
+      "O",
+      "H",
       "A"
     ],
     [
-      "T",
-      "B",
-      "T",
-      "T",
+      "S",
+      "N",
+      "K",
+      "K",
       "S",
       "A",
-      "Y",
-      "L"
+      "R",
+      "N"
+    ],
+    [
+      "A",
+      "O",
+      "G",
+      "C",
+      "E",
+      "U",
+      "O",
+      "T"
+    ],
+    [
+      "U",
+      "O",
+      "L",
+      "N",
+      "E",
+      "L",
+      "E",
+      "D"
+    ],
+    [
+      "R",
+      "F",
+      "S",
+      "R",
+      "O",
+      "T",
+      "A",
+      "E"
     ],
     [
       "I",
       "A",
-      "R",
-      "D",
       "N",
-      "R",
-      "E",
-      "L"
+      "S",
+      "I",
+      "L",
+      "P",
+      "R"
     ]
   ],
   "answers": [
-    "PIGMENTMIXES",
-    "GALLERY",
-    "LANDSCAPE",
-    "PORTRAIT",
-    "BRUSHWORK",
-    "TINT",
-    "STROKES"
+    "DINOSAURIAN",
+    "FOSSIL",
+    "PREDATOR",
+    "LONGNECK",
+    "DINOID",
+    "SKELETON",
+    "ARCHOSAUR"
   ],
-  "spangram": "PIGMENTMIXES"
+  "spangram": "DINOSAURIAN"
 };

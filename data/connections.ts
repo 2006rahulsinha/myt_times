@@ -1,43 +1,43 @@
 export const connectionsData = {
   "groups": [
     {
-      "name": "FAMOUS PAINTERS",
+      "name": "THEROPOD PREDATORS",
       "color": "yellow",
       "words": [
-        "LEONARDO",
-        "VAN GOGH",
-        "PICASSO",
-        "REMBRANDT"
+        "TYRANNOSAURUS",
+        "VELOCIRAPTOR",
+        "ALLOSAURUS",
+        "SPINOSAURUS"
       ]
     },
     {
-      "name": "PAINTING TECHNIQUES",
+      "name": "HERBIVOROUS GIANTS",
       "color": "green",
       "words": [
-        "IMPASTO",
-        "GLAZING",
-        "SCUMBLING",
-        "SFUMATO"
+        "BRACHIOSAURUS",
+        "TRICERATOPS",
+        "ANKYLOSAURUS",
+        "DIPLODOCUS"
       ]
     },
     {
-      "name": "COLOR TERMS",
+      "name": "JURASSIC ICONS",
       "color": "blue",
       "words": [
-        "COBALT",
-        "CERULEAN",
-        "OCHRE",
-        "VIRIDIAN"
+        "DILOPHOSAURUS",
+        "STEGOSAURUS",
+        "ARCHAEOPTERYX",
+        "CAMARASAURUS"
       ]
     },
     {
-      "name": "ART MOVEMENTS",
+      "name": "FAMOUS FOSSIL SITES",
       "color": "purple",
       "words": [
-        "BAROQUE",
-        "CUBISM",
-        "SURREALISM",
-        "RENAISSANCE"
+        "HELL CREEK",
+        "LIAONING",
+        "GOBI DESERT",
+        "MORRISON FORMATION"
       ]
     }
   ]
