@@ -1,43 +1,43 @@
 export const connectionsData = {
   "groups": [
     {
-      "name": "THEROPOD PREDATORS",
+      "name": "BIRDS OF PREY",
       "color": "yellow",
       "words": [
-        "TYRANNOSAURUS",
-        "VELOCIRAPTOR",
-        "ALLOSAURUS",
-        "SPINOSAURUS"
+        "EAGLE",
+        "HAWK",
+        "FALCON",
+        "KESTREL"
       ]
     },
     {
-      "name": "HERBIVOROUS GIANTS",
+      "name": "TREE SPECIES",
       "color": "green",
       "words": [
-        "BRACHIOSAURUS",
-        "TRICERATOPS",
-        "ANKYLOSAURUS",
-        "DIPLODOCUS"
+        "OAK",
+        "MAPLE",
+        "PINE",
+        "BIRCH"
       ]
     },
     {
-      "name": "JURASSIC ICONS",
+      "name": "MARINE MAMMALS",
       "color": "blue",
       "words": [
-        "DILOPHOSAURUS",
-        "STEGOSAURUS",
-        "ARCHAEOPTERYX",
-        "CAMARASAURUS"
+        "DOLPHIN",
+        "SEAL",
+        "WHALE",
+        "MANATEE"
       ]
     },
     {
-      "name": "FAMOUS FOSSIL SITES",
+      "name": "DESERT PLANTS",
       "color": "purple",
       "words": [
-        "HELL CREEK",
-        "LIAONING",
-        "GOBI DESERT",
-        "MORRISON FORMATION"
+        "CACTUS",
+        "SAGEBRUSH",
+        "YUCCA",
+        "CREOSOTE"
       ]
     }
   ]

@@ -1,85 +1,85 @@
 export const strandsData = {
-  "themeClue": "ancient reptile world",
+  "themeClue": "Nature tangled trails",
   "grid": [
     [
-      "I",
-      "N",
-      "I",
-      "N",
-      "I",
+      "E",
+      "A",
+      "E",
+      "G",
       "D",
-      "C",
-      "R"
-    ],
-    [
-      "O",
-      "D",
-      "D",
-      "O",
+      "L",
       "S",
-      "O",
-      "H",
       "A"
     ],
     [
-      "S",
-      "N",
-      "K",
-      "K",
-      "S",
-      "A",
-      "R",
-      "N"
-    ],
-    [
-      "A",
-      "O",
       "G",
-      "C",
-      "E",
-      "U",
-      "O",
-      "T"
-    ],
-    [
-      "U",
-      "O",
-      "L",
-      "N",
-      "E",
       "L",
       "E",
-      "D"
-    ],
-    [
       "R",
-      "F",
-      "S",
-      "R",
-      "O",
-      "T",
       "A",
+      "A",
+      "S",
+      "R"
+    ],
+    [
+      "L",
+      "Y",
+      "E",
+      "S",
+      "B",
+      "N",
+      "G",
+      "M"
+    ],
+    [
+      "F",
+      "R",
+      "T",
+      "L",
+      "D",
+      "S",
+      "O",
       "E"
     ],
     [
+      "B",
+      "U",
+      "T",
       "I",
-      "A",
       "N",
+      "U",
+      "R",
+      "A"
+    ],
+    [
+      "D",
       "S",
+      "Z",
+      "I",
+      "N",
+      "U",
+      "T",
+      "N"
+    ],
+    [
+      "R",
+      "A",
+      "A",
+      "T",
+      "W",
       "I",
       "L",
-      "P",
-      "R"
+      "D"
     ]
   ],
   "answers": [
-    "DINOSAURIAN",
-    "FOSSIL",
-    "PREDATOR",
-    "LONGNECK",
-    "DINOID",
-    "SKELETON",
-    "ARCHOSAUR"
+    "WILDNATURE",
+    "MOUNTAINS",
+    "GRASSLAND",
+    "BADGERS",
+    "LIZARDS",
+    "BUTTERFLY",
+    "EAGLE"
   ],
-  "spangram": "DINOSAURIAN"
+  "spangram": "WILDNATURE"
 };
