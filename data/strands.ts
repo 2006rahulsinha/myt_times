@@ -1,85 +1,85 @@
 export const strandsData = {
-  "themeClue": "Nature tangled trails",
+  "themeClue": "board game classics",
   "grid": [
     [
-      "E",
-      "A",
-      "E",
-      "G",
-      "D",
-      "L",
       "S",
-      "A"
-    ],
-    [
-      "G",
-      "L",
-      "E",
-      "R",
-      "A",
-      "A",
-      "S",
-      "R"
-    ],
-    [
-      "L",
-      "Y",
-      "E",
-      "S",
-      "B",
       "N",
-      "G",
-      "M"
-    ],
-    [
-      "F",
-      "R",
-      "T",
-      "L",
-      "D",
-      "S",
+      "E",
       "O",
+      "M",
+      "A",
+      "R",
       "E"
     ],
     [
-      "B",
-      "U",
+      "P",
+      "L",
+      "A",
+      "K",
       "T",
-      "I",
-      "N",
-      "U",
-      "R",
-      "A"
+      "E",
+      "G",
+      "D"
     ],
     [
-      "D",
-      "S",
-      "Z",
-      "I",
+      "R",
+      "C",
+      "E",
+      "Y",
       "N",
-      "U",
       "T",
+      "R",
       "N"
     ],
     [
+      "A",
+      "D",
+      "E",
       "R",
-      "A",
-      "A",
+      "E",
+      "O",
+      "O",
+      "R"
+    ],
+    [
+      "C",
+      "O",
+      "R",
+      "S",
+      "K",
+      "E",
       "T",
-      "W",
+      "U"
+    ],
+    [
+      "Y",
+      "S",
+      "T",
+      "V",
+      "B",
+      "M",
+      "A",
+      "G"
+    ],
+    [
+      "R",
+      "O",
+      "C",
       "I",
-      "L",
+      "O",
+      "A",
+      "R",
       "D"
     ]
   ],
   "answers": [
-    "WILDNATURE",
-    "MOUNTAINS",
-    "GRASSLAND",
-    "BADGERS",
-    "LIZARDS",
-    "BUTTERFLY",
-    "EAGLE"
+    "BOARDGAME",
+    "TURNORDER",
+    "GAMETOKEN",
+    "TOKENS",
+    "PLAYERS",
+    "VICTORY",
+    "SCORECARD"
   ],
-  "spangram": "WILDNATURE"
+  "spangram": "BOARDGAME"
 };

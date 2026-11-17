@@ -1,43 +1,43 @@
 export const connectionsData = {
   "groups": [
     {
-      "name": "BIRDS OF PREY",
+      "name": "EUROGAMES",
       "color": "yellow",
       "words": [
-        "EAGLE",
-        "HAWK",
-        "FALCON",
-        "KESTREL"
+        "CATAN",
+        "CARCASSONNE",
+        "PUERTO RICO",
+        "TICKET TO RIDE"
       ]
     },
     {
-      "name": "TREE SPECIES",
+      "name": "AMERICAN CLASSICS",
       "color": "green",
       "words": [
-        "OAK",
-        "MAPLE",
-        "PINE",
-        "BIRCH"
+        "MONOPOLY",
+        "RISK",
+        "CLUE",
+        "BATTLESHIP"
       ]
     },
     {
-      "name": "MARINE MAMMALS",
+      "name": "PARTY GAMES",
       "color": "blue",
       "words": [
-        "DOLPHIN",
-        "SEAL",
-        "WHALE",
-        "MANATEE"
+        "CODENAMES",
+        "TABOO",
+        "PICTIONARY",
+        "BALDERDASH"
       ]
     },
     {
-      "name": "DESERT PLANTS",
+      "name": "ABSTRACT STRATEGY",
       "color": "purple",
       "words": [
-        "CACTUS",
-        "SAGEBRUSH",
-        "YUCCA",
-        "CREOSOTE"
+        "GO",
+        "CHESS",
+        "CHECKERS",
+        "HIVE"
       ]
     }
   ]
