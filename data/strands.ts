@@ -1,85 +1,85 @@
 export const strandsData = {
-  "themeClue": "board game classics",
+  "themeClue": "Plants, tools, and soil",
   "grid": [
-    [
-      "S",
-      "N",
-      "E",
-      "O",
-      "M",
-      "A",
-      "R",
-      "E"
-    ],
     [
       "P",
       "L",
-      "A",
-      "K",
-      "T",
+      "N",
+      "S",
       "E",
-      "G",
+      "B",
+      "E",
       "D"
     ],
     [
-      "R",
-      "C",
       "E",
-      "Y",
-      "N",
-      "T",
-      "R",
-      "N"
-    ],
-    [
       "A",
+      "T",
+      "E",
       "D",
-      "E",
-      "R",
-      "E",
-      "O",
-      "O",
-      "R"
+      "C",
+      "L",
+      "M"
     ],
     [
-      "C",
-      "O",
+      "U",
       "R",
-      "S",
-      "K",
-      "E",
-      "T",
+      "R",
+      "H",
+      "H",
+      "N",
+      "G",
       "U"
     ],
     [
-      "Y",
-      "S",
       "T",
-      "V",
-      "B",
-      "M",
-      "A",
-      "G"
+      "U",
+      "O",
+      "T",
+      "I",
+      "W",
+      "O",
+      "F"
     ],
     [
+      "L",
       "R",
-      "O",
       "C",
       "I",
+      "E",
+      "S",
+      "E",
+      "L"
+    ],
+    [
       "O",
-      "A",
-      "R",
-      "D"
+      "U",
+      "P",
+      "G",
+      "L",
+      "E",
+      "D",
+      "R"
+    ],
+    [
+      "T",
+      "S",
+      "S",
+      "N",
+      "I",
+      "D",
+      "E",
+      "B"
     ]
   ],
   "answers": [
-    "BOARDGAME",
-    "TURNORDER",
-    "GAMETOKEN",
-    "TOKENS",
-    "PLAYERS",
-    "VICTORY",
-    "SCORECARD"
+    "HORTICULTURE",
+    "PLANT",
+    "SEEDBED",
+    "MULCHING",
+    "FLOWERBED",
+    "SEEDLING",
+    "SPROUTS"
   ],
-  "spangram": "BOARDGAME"
+  "spangram": "HORTICULTURE"
 };

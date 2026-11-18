@@ -1,43 +1,43 @@
 export const connectionsData = {
   "groups": [
     {
-      "name": "EUROGAMES",
+      "name": "TOOLS",
       "color": "yellow",
       "words": [
-        "CATAN",
-        "CARCASSONNE",
-        "PUERTO RICO",
-        "TICKET TO RIDE"
+        "TROWEL",
+        "PRUNING SHEARS",
+        "GARDEN HOSE",
+        "WHEELBARROW"
       ]
     },
     {
-      "name": "AMERICAN CLASSICS",
+      "name": "PLANTS",
       "color": "green",
       "words": [
-        "MONOPOLY",
-        "RISK",
-        "CLUE",
-        "BATTLESHIP"
+        "TOMATO",
+        "LAVENDER",
+        "ZUCCHINI",
+        "ROSE BUSH"
       ]
     },
     {
-      "name": "PARTY GAMES",
+      "name": "SOIL AMENDMENTS",
       "color": "blue",
       "words": [
-        "CODENAMES",
-        "TABOO",
-        "PICTIONARY",
-        "BALDERDASH"
+        "COMPOST",
+        "PEAT MOSS",
+        "PERLITE",
+        "VERMICULITE"
       ]
     },
     {
-      "name": "ABSTRACT STRATEGY",
+      "name": "GARDEN PESTS",
       "color": "purple",
       "words": [
-        "GO",
-        "CHESS",
-        "CHECKERS",
-        "HIVE"
+        "APHID",
+        "SLUGS",
+        "WHITEFLY",
+        "SPIDER MITE"
       ]
     }
   ]
