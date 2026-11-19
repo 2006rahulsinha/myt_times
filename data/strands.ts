@@ -1,85 +1,85 @@
 export const strandsData = {
-  "themeClue": "Plants, tools, and soil",
+  "themeClue": "Cold curls and crystal paths",
   "grid": [
     [
-      "P",
-      "L",
+      "O",
       "N",
       "S",
+      "S",
       "E",
-      "B",
-      "E",
-      "D"
-    ],
-    [
-      "E",
-      "A",
-      "T",
-      "E",
-      "D",
-      "C",
+      "K",
       "L",
-      "M"
-    ],
-    [
-      "U",
-      "R",
-      "R",
-      "H",
-      "H",
-      "N",
-      "G",
-      "U"
-    ],
-    [
-      "T",
-      "U",
-      "O",
-      "T",
-      "I",
-      "W",
-      "O",
       "F"
     ],
     [
-      "L",
-      "R",
-      "C",
-      "I",
-      "E",
+      "W",
+      "A",
+      "N",
       "S",
+      "L",
       "E",
-      "L"
+      "A",
+      "W"
     ],
     [
+      "M",
+      "C",
+      "A",
+      "R",
+      "E",
+      "T",
+      "E",
+      "O"
+    ],
+    [
+      "K",
+      "W",
+      "S",
+      "N",
+      "C",
+      "C",
+      "S",
+      "N"
+    ],
+    [
+      "H",
+      "T",
+      "K",
+      "A",
       "O",
+      "I",
+      "N",
+      "S"
+    ],
+    [
+      "I",
       "U",
-      "P",
-      "G",
       "L",
       "E",
-      "D",
-      "R"
+      "W",
+      "T",
+      "R",
+      "O"
     ],
     [
       "T",
-      "S",
-      "S",
-      "N",
+      "E",
+      "O",
+      "F",
+      "F",
       "I",
       "D",
-      "E",
-      "B"
+      "W"
     ]
   ],
   "answers": [
-    "HORTICULTURE",
-    "PLANT",
-    "SEEDBED",
-    "MULCHING",
-    "FLOWERBED",
-    "SEEDLING",
-    "SPROUTS"
+    "SNOWFLAKES",
+    "SNOWMAN",
+    "SLEET",
+    "SNOWDRIFT",
+    "ICECRACK",
+    "WHITEOUT",
+    "SNOWFLAKE"
   ],
-  "spangram": "HORTICULTURE"
+  "spangram": "SNOWFLAKES"
 };

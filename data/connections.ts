@@ -1,43 +1,43 @@
 export const connectionsData = {
   "groups": [
     {
-      "name": "TOOLS",
+      "name": "WINTER SPORTS",
       "color": "yellow",
       "words": [
-        "TROWEL",
-        "PRUNING SHEARS",
-        "GARDEN HOSE",
-        "WHEELBARROW"
+        "SKIING",
+        "SNOWBOARDING",
+        "ICE SKATING",
+        "SLEDDING"
       ]
     },
     {
-      "name": "PLANTS",
+      "name": "SNOWY ANIMALS",
       "color": "green",
       "words": [
-        "TOMATO",
-        "LAVENDER",
-        "ZUCCHINI",
-        "ROSE BUSH"
+        "REINDEER",
+        "ARCTIC FOX",
+        "PENGUIN",
+        "SNOWY OWL"
       ]
     },
     {
-      "name": "SOIL AMENDMENTS",
+      "name": "COLD WEATHER GEAR",
       "color": "blue",
       "words": [
-        "COMPOST",
-        "PEAT MOSS",
-        "PERLITE",
-        "VERMICULITE"
+        "PARKA",
+        "MITTENS",
+        "SCARF",
+        "SNOWSHOES"
       ]
     },
     {
-      "name": "GARDEN PESTS",
+      "name": "FESTIVE TREATS",
       "color": "purple",
       "words": [
-        "APHID",
-        "SLUGS",
-        "WHITEFLY",
-        "SPIDER MITE"
+        "EGGNOG",
+        "MULLED WINE",
+        "HOT CHOCOLATE",
+        "GINGERBREAD"
       ]
     }
   ]
