@@ -1,85 +1,85 @@
 export const strandsData = {
-  "themeClue": "Cold curls and crystal paths",
+  "themeClue": "Woodland wonders",
   "grid": [
     [
-      "O",
-      "N",
-      "S",
-      "S",
-      "E",
-      "K",
+      "P",
+      "A",
+      "D",
       "L",
+      "I",
+      "W",
+      "E",
       "F"
     ],
     [
-      "W",
-      "A",
-      "N",
-      "S",
-      "L",
       "E",
-      "A",
-      "W"
-    ],
-    [
       "M",
       "C",
-      "A",
-      "R",
-      "E",
-      "T",
-      "E",
-      "O"
-    ],
-    [
-      "K",
+      "S",
       "W",
-      "S",
-      "N",
-      "C",
-      "C",
-      "S",
-      "N"
-    ],
-    [
-      "H",
       "T",
-      "K",
       "A",
-      "O",
-      "I",
-      "N",
-      "S"
+      "F"
     ],
     [
-      "I",
-      "U",
+      "O",
+      "N",
+      "T",
       "L",
+      "A",
+      "F",
       "E",
-      "W",
-      "T",
-      "R",
-      "O"
+      "A"
     ],
     [
-      "T",
+      "U",
+      "A",
       "E",
+      "L",
       "O",
+      "E",
+      "R",
+      "R"
+    ],
+    [
+      "I",
       "F",
-      "F",
+      "S",
+      "S",
+      "R",
+      "H",
+      "S",
+      "I"
+    ],
+    [
+      "N",
+      "L",
+      "I",
+      "P",
+      "E",
+      "A",
+      "G",
+      "W"
+    ],
+    [
+      "W",
       "I",
       "D",
-      "W"
+      "L",
+      "A",
+      "R",
+      "R",
+      "O"
     ]
   ],
   "answers": [
-    "SNOWFLAKES",
-    "SNOWMAN",
-    "SLEET",
-    "SNOWDRIFT",
-    "ICECRACK",
-    "WHITEOUT",
-    "SNOWFLAKE"
+    "WILDSCAPE",
+    "MOUNTAIN",
+    "WILDLIFE",
+    "SPARROW",
+    "GIRAFFE",
+    "WATERFALL",
+    "SEASHORE"
   ],
-  "spangram": "SNOWFLAKES"
+  "spangram": "WILDSCAPE"
 };
