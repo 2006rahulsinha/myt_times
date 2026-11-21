@@ -1,43 +1,43 @@
 export const connectionsData = {
   "groups": [
     {
-      "name": "FILM GENRES",
+      "name": "HARVEST FOODS",
       "color": "yellow",
       "words": [
-        "DRAMA",
-        "COMEDY",
-        "THRILLER",
-        "WESTERN"
+        "PUMPKIN",
+        "APPLE",
+        "SQUASH",
+        "CORN"
       ]
     },
     {
-      "name": "BEST PICTURE WINNERS",
+      "name": "FOLIAGE COLORS",
       "color": "green",
       "words": [
-        "CASABLANCA",
-        "GLADIATOR",
-        "TITANIC",
-        "SPOTLIGHT"
+        "AMBER",
+        "RUSSET",
+        "CRIMSON",
+        "GOLD"
       ]
     },
     {
-      "name": "CINEMA TECHNOLOGIES",
+      "name": "SEASONAL ACTIVITIES",
       "color": "blue",
       "words": [
-        "DOLBY",
-        "IMAX",
-        "TECHNICOLOR",
-        "PANAVISION"
+        "HAYRIDE",
+        "CORN MAZE",
+        "APPLE PICKING",
+        "PUMPKIN CARVING"
       ]
     },
     {
-      "name": "RENOWNED DIRECTORS",
+      "name": "AUTUMN WEATHER",
       "color": "purple",
       "words": [
-        "SPIELBERG",
-        "KUBRICK",
-        "TARANTINO",
-        "SCORSESE"
+        "CHILL",
+        "FOG",
+        "DRIZZLE",
+        "GUST"
       ]
     }
   ]

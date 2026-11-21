@@ -1,85 +1,85 @@
 export const strandsData = {
-  "themeClue": "Movie magic on the screen",
+  "themeClue": "Crisp colors, falling leaves",
   "grid": [
     [
+      "I",
       "E",
-      "M",
+      "H",
+      "C",
+      "E",
+      "A",
+      "F",
+      "F"
+    ],
+    [
       "T",
-      "O",
-      "Y",
+      "M",
+      "I",
+      "G",
+      "I",
+      "L",
+      "L",
+      "A"
+    ],
+    [
+      "A",
+      "L",
       "L",
       "N",
+      "R",
+      "E",
+      "A",
+      "L"
+    ],
+    [
+      "G",
+      "T",
+      "H",
+      "E",
+      "A",
+      "W",
+      "R",
+      "H"
+    ],
+    [
+      "N",
+      "R",
+      "E",
+      "T",
+      "S",
+      "N",
+      "I",
+      "V"
+    ],
+    [
+      "O",
+      "P",
+      "U",
+      "M",
+      "P",
+      "K",
+      "E",
       "E"
     ],
     [
-      "N",
-      "A",
-      "P",
       "S",
-      "R",
-      "I",
-      "N",
-      "A"
-    ],
-    [
+      "M",
       "I",
       "R",
       "C",
-      "V",
-      "M",
-      "E",
-      "I",
-      "M"
-    ],
-    [
-      "E",
-      "C",
-      "I",
-      "O",
-      "I",
-      "M",
+      "D",
       "T",
-      "A"
-    ],
-    [
-      "M",
-      "S",
-      "L",
-      "G",
-      "A",
-      "E",
-      "O",
-      "I"
-    ],
-    [
-      "E",
-      "I",
-      "E",
-      "R",
-      "I",
-      "E",
-      "R",
-      "N"
-    ],
-    [
-      "R",
-      "E",
-      "E",
-      "G",
-      "N",
-      "N",
-      "C",
       "S"
     ]
   ],
   "answers": [
-    "MOVIEMAGIC",
-    "STORYLINE",
-    "ANIMATION",
-    "SCREENING",
-    "REELS",
-    "CINEMA",
-    "PREMIERE"
+    "LEAFFALL",
+    "HARVESTED",
+    "CRIMSON",
+    "PUMPKIN",
+    "SWEATER",
+    "GATHERING",
+    "CHILLTIME"
   ],
-  "spangram": "MOVIEMAGIC"
+  "spangram": "LEAFFALL"
 };
