@@ -1,43 +1,43 @@
 export const connectionsData = {
   "groups": [
     {
-      "name": "FOREST TREES",
+      "name": "FILM GENRES",
       "color": "yellow",
       "words": [
-        "OAK",
-        "PINE",
-        "BIRCH",
-        "REDWOOD"
+        "DRAMA",
+        "COMEDY",
+        "THRILLER",
+        "WESTERN"
       ]
     },
     {
-      "name": "OCEAN MAMMALS",
+      "name": "BEST PICTURE WINNERS",
       "color": "green",
       "words": [
-        "DOLPHIN",
-        "WHALE",
-        "SEAL",
-        "MANATEE"
+        "CASABLANCA",
+        "GLADIATOR",
+        "TITANIC",
+        "SPOTLIGHT"
       ]
     },
     {
-      "name": "BIRDS OF PREY",
+      "name": "CINEMA TECHNOLOGIES",
       "color": "blue",
       "words": [
-        "EAGLE",
-        "HAWK",
-        "OSPREY",
-        "KESTREL"
+        "DOLBY",
+        "IMAX",
+        "TECHNICOLOR",
+        "PANAVISION"
       ]
     },
     {
-      "name": "INSECT ORDERS",
+      "name": "RENOWNED DIRECTORS",
       "color": "purple",
       "words": [
-        "COLEOPTERA",
-        "LEPIDOPTERA",
-        "ODONATA",
-        "ORTHOPTERA"
+        "SPIELBERG",
+        "KUBRICK",
+        "TARANTINO",
+        "SCORSESE"
       ]
     }
   ]

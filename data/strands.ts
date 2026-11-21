@@ -1,85 +1,85 @@
 export const strandsData = {
-  "themeClue": "Woodland wonders",
+  "themeClue": "Movie magic on the screen",
   "grid": [
-    [
-      "P",
-      "A",
-      "D",
-      "L",
-      "I",
-      "W",
-      "E",
-      "F"
-    ],
     [
       "E",
       "M",
-      "C",
-      "S",
-      "W",
       "T",
-      "A",
-      "F"
+      "O",
+      "Y",
+      "L",
+      "N",
+      "E"
     ],
     [
-      "O",
       "N",
-      "T",
-      "L",
       "A",
-      "F",
-      "E",
+      "P",
+      "S",
+      "R",
+      "I",
+      "N",
       "A"
     ],
     [
-      "U",
-      "A",
-      "E",
-      "L",
-      "O",
-      "E",
+      "I",
       "R",
-      "R"
+      "C",
+      "V",
+      "M",
+      "E",
+      "I",
+      "M"
     ],
     [
+      "E",
+      "C",
       "I",
-      "F",
+      "O",
+      "I",
+      "M",
+      "T",
+      "A"
+    ],
+    [
+      "M",
       "S",
-      "S",
-      "R",
-      "H",
-      "S",
+      "L",
+      "G",
+      "A",
+      "E",
+      "O",
       "I"
     ],
     [
-      "N",
-      "L",
-      "I",
-      "P",
       "E",
-      "A",
-      "G",
-      "W"
+      "I",
+      "E",
+      "R",
+      "I",
+      "E",
+      "R",
+      "N"
     ],
     [
-      "W",
-      "I",
-      "D",
-      "L",
-      "A",
       "R",
-      "R",
-      "O"
+      "E",
+      "E",
+      "G",
+      "N",
+      "N",
+      "C",
+      "S"
     ]
   ],
   "answers": [
-    "WILDSCAPE",
-    "MOUNTAIN",
-    "WILDLIFE",
-    "SPARROW",
-    "GIRAFFE",
-    "WATERFALL",
-    "SEASHORE"
+    "MOVIEMAGIC",
+    "STORYLINE",
+    "ANIMATION",
+    "SCREENING",
+    "REELS",
+    "CINEMA",
+    "PREMIERE"
   ],
-  "spangram": "WILDSCAPE"
+  "spangram": "MOVIEMAGIC"
 };
