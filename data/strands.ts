@@ -1,85 +1,85 @@
 export const strandsData = {
-  "themeClue": "Crisp colors, falling leaves",
+  "themeClue": "Detective mystery puzzle",
   "grid": [
     [
-      "I",
-      "E",
-      "H",
+      "L",
       "C",
       "E",
       "A",
-      "F",
-      "F"
-    ],
-    [
-      "T",
-      "M",
-      "I",
-      "G",
-      "I",
-      "L",
-      "L",
-      "A"
-    ],
-    [
-      "A",
-      "L",
-      "L",
-      "N",
       "R",
-      "E",
-      "A",
-      "L"
-    ],
-    [
-      "G",
-      "T",
+      "C",
       "H",
-      "E",
-      "A",
-      "W",
-      "R",
-      "H"
+      "D"
     ],
     [
-      "N",
-      "R",
-      "E",
-      "T",
-      "S",
-      "N",
-      "I",
-      "V"
-    ],
-    [
-      "O",
-      "P",
       "U",
-      "M",
+      "S",
       "P",
-      "K",
+      "S",
+      "U",
+      "C",
       "E",
       "E"
     ],
     [
+      "E",
+      "E",
+      "O",
       "S",
-      "M",
-      "I",
-      "R",
+      "T",
+      "S",
+      "T",
+      "T"
+    ],
+    [
       "C",
+      "O",
+      "T",
+      "E",
+      "S",
+      "E",
+      "E",
+      "I"
+    ],
+    [
+      "T",
+      "F",
+      "P",
+      "C",
+      "A",
+      "M",
+      "Y",
+      "V"
+    ],
+    [
+      "W",
+      "N",
+      "S",
+      "O",
+      "C",
+      "S",
+      "E",
+      "R"
+    ],
+    [
+      "I",
+      "T",
+      "E",
+      "S",
+      "L",
       "D",
       "T",
-      "S"
+      "Y"
     ]
   ],
   "answers": [
-    "LEAFFALL",
-    "HARVESTED",
-    "CRIMSON",
-    "PUMPKIN",
-    "SWEATER",
-    "GATHERING",
-    "CHILLTIME"
+    "CLUESEARCH",
+    "DETECTIVE",
+    "SUSPECT",
+    "WITNESS",
+    "FOOTSTEP",
+    "COLDCASE",
+    "MYSTERY"
   ],
-  "spangram": "LEAFFALL"
+  "spangram": "CLUESEARCH"
 };

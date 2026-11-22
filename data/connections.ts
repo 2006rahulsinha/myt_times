@@ -1,43 +1,43 @@
 export const connectionsData = {
   "groups": [
     {
-      "name": "HARVEST FOODS",
+      "name": "DETECTIVE AUTHORS",
       "color": "yellow",
       "words": [
-        "PUMPKIN",
-        "APPLE",
-        "SQUASH",
-        "CORN"
+        "ARTHUR CONAN DOYLE",
+        "AGATHA CHRISTIE",
+        "EDGAR ALLAN POE",
+        "RAYMOND CHANDLER"
       ]
     },
     {
-      "name": "FOLIAGE COLORS",
+      "name": "FAMOUS SLEUTHS",
       "color": "green",
       "words": [
-        "AMBER",
-        "RUSSET",
-        "CRIMSON",
-        "GOLD"
+        "SHERLOCK HOLMES",
+        "HERCULE POIROT",
+        "MISS MARPLE",
+        "PHILIP MARLOWE"
       ]
     },
     {
-      "name": "SEASONAL ACTIVITIES",
+      "name": "COMMON CLUES",
       "color": "blue",
       "words": [
-        "HAYRIDE",
-        "CORN MAZE",
-        "APPLE PICKING",
-        "PUMPKIN CARVING"
+        "FINGERPRINT",
+        "FOOTPRINT",
+        "MOTIVE",
+        "ALIBI"
       ]
     },
     {
-      "name": "AUTUMN WEATHER",
+      "name": "MYSTERY SETTINGS",
       "color": "purple",
       "words": [
-        "CHILL",
-        "FOG",
-        "DRIZZLE",
-        "GUST"
+        "BAKER STREET",
+        "COUNTRY MANOR",
+        "TRAIN CAR",
+        "DARK ALLEY"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 export const wordleData = {
-  "answer": "CRISP",
+  "answer": "CLUES",
   "validGuesses": [
     "ACTOR",
     "ADORE",
@@ -21,6 +21,7 @@ export const wordleData = {
     "CIDER",
     "CLAWS",
     "CLOWN",
+    "CLUES",
     "COMET",
     "CRISP",
     "DANCE",
