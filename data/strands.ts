@@ -1,85 +1,84 @@
 export const strandsData = {
-  "themeClue": "Detective mystery puzzle",
+  "themeClue": "Frosty puzzles",
   "grid": [
     [
+      "W",
+      "D",
+      "I",
+      "F",
+      "T",
+      "B",
       "L",
-      "C",
-      "E",
-      "A",
-      "R",
-      "C",
-      "H",
-      "D"
-    ],
-    [
-      "U",
-      "S",
-      "P",
-      "S",
-      "U",
-      "C",
-      "E",
-      "E"
-    ],
-    [
-      "E",
-      "E",
-      "O",
-      "S",
-      "T",
-      "S",
-      "T",
-      "T"
-    ],
-    [
-      "C",
-      "O",
-      "T",
-      "E",
-      "S",
-      "E",
-      "E",
       "I"
     ],
     [
-      "T",
+      "O",
+      "R",
+      "E",
+      "K",
+      "L",
       "F",
-      "P",
-      "C",
       "A",
-      "M",
-      "Y",
-      "V"
+      "Z"
     ],
     [
-      "W",
       "N",
+      "C",
+      "T",
+      "O",
+      "A",
+      "W",
+      "R",
+      "Z"
+    ],
+    [
       "S",
       "O",
-      "C",
-      "S",
-      "E",
-      "R"
+      "N",
+      "R",
+      "F",
+      "O",
+      "D",
+      "F"
     ],
     [
-      "I",
       "T",
       "E",
-      "S",
       "L",
       "D",
+      "N",
+      "S",
+      "R",
+      "T"
+    ],
+    [
+      "S",
+      "I",
+      "B",
       "T",
-      "Y"
+      "S",
+      "O",
+      "R",
+      "A"
+    ],
+    [
+      "N",
+      "O",
+      "W",
+      "F",
+      "L",
+      "A",
+      "K",
+      "E"
     ]
   ],
   "answers": [
-    "CLUESEARCH",
-    "DETECTIVE",
-    "SUSPECT",
-    "WITNESS",
-    "FOOTSTEP",
-    "COLDCASE",
-    "MYSTERY"
+    "SNOWFLAKEART",
+    "FROSTBITE",
+    "SNOWDRIFT",
+    "BLIZZARD",
+    "SNOWFLAKE",
+    "COLDFRONT"
   ],
-  "spangram": "CLUESEARCH"
+  "spangram": "SNOWFLAKEART"
 };

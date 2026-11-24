@@ -1,43 +1,43 @@
 export const connectionsData = {
   "groups": [
     {
-      "name": "DETECTIVE AUTHORS",
+      "name": "WINTER SPORTS",
       "color": "yellow",
       "words": [
-        "ARTHUR CONAN DOYLE",
-        "AGATHA CHRISTIE",
-        "EDGAR ALLAN POE",
-        "RAYMOND CHANDLER"
+        "ICE SKATING",
+        "SNOWBOARDING",
+        "SKI JUMPING",
+        "CURLING"
       ]
     },
     {
-      "name": "FAMOUS SLEUTHS",
+      "name": "SNOWY WEATHER PHENOMENA",
       "color": "green",
       "words": [
-        "SHERLOCK HOLMES",
-        "HERCULE POIROT",
-        "MISS MARPLE",
-        "PHILIP MARLOWE"
+        "BLIZZARD",
+        "FROST",
+        "SLEET",
+        "HAIL"
       ]
     },
     {
-      "name": "COMMON CLUES",
+      "name": "WINTER HOLIDAY TREATS",
       "color": "blue",
       "words": [
-        "FINGERPRINT",
-        "FOOTPRINT",
-        "MOTIVE",
-        "ALIBI"
+        "HOT CHOCOLATE",
+        "GINGERBREAD",
+        "MULLED WINE",
+        "PEPPERMINT BARK"
       ]
     },
     {
-      "name": "MYSTERY SETTINGS",
+      "name": "COLD RESISTANT ANIMALS",
       "color": "purple",
       "words": [
-        "BAKER STREET",
-        "COUNTRY MANOR",
-        "TRAIN CAR",
-        "DARK ALLEY"
+        "ARCTIC FOX",
+        "SNOWSHOE HARE",
+        "REINDEER",
+        "EMPEROR PENGUIN"
       ]
     }
   ]
