@@ -1,43 +1,43 @@
 export const connectionsData = {
   "groups": [
     {
-      "name": "WINTER SPORTS",
+      "name": "TRACK AND FIELD EVENTS",
       "color": "yellow",
       "words": [
-        "ICE SKATING",
-        "SNOWBOARDING",
-        "SKI JUMPING",
+        "SPRINT",
+        "LONG JUMP",
+        "SHOT PUT",
+        "DISCUS"
+      ]
+    },
+    {
+      "name": "HANDBALL SPORTS",
+      "color": "green",
+      "words": [
+        "BASKETBALL",
+        "VOLLEYBALL",
+        "HANDBALL",
+        "RUGBY"
+      ]
+    },
+    {
+      "name": "ICE SPORTS",
+      "color": "blue",
+      "words": [
+        "FIGURE SKATING",
+        "ICE HOCKEY",
+        "SPEED SKATING",
         "CURLING"
       ]
     },
     {
-      "name": "SNOWY WEATHER PHENOMENA",
-      "color": "green",
-      "words": [
-        "BLIZZARD",
-        "FROST",
-        "SLEET",
-        "HAIL"
-      ]
-    },
-    {
-      "name": "WINTER HOLIDAY TREATS",
-      "color": "blue",
-      "words": [
-        "HOT CHOCOLATE",
-        "GINGERBREAD",
-        "MULLED WINE",
-        "PEPPERMINT BARK"
-      ]
-    },
-    {
-      "name": "COLD RESISTANT ANIMALS",
+      "name": "COMBAT SPORTS",
       "color": "purple",
       "words": [
-        "ARCTIC FOX",
-        "SNOWSHOE HARE",
-        "REINDEER",
-        "EMPEROR PENGUIN"
+        "BOXING",
+        "WRESTLING",
+        "JUDO",
+        "TAEKWONDO"
       ]
     }
   ]

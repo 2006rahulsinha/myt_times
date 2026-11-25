@@ -1,84 +1,85 @@
 export const strandsData = {
-  "themeClue": "Frosty puzzles",
+  "themeClue": "Athletic contests",
   "grid": [
     [
-      "W",
-      "D",
-      "I",
-      "F",
-      "T",
-      "B",
-      "L",
-      "I"
-    ],
-    [
-      "O",
-      "R",
       "E",
       "K",
-      "L",
-      "F",
-      "A",
-      "Z"
-    ],
-    [
-      "N",
       "C",
-      "T",
-      "O",
-      "A",
-      "W",
-      "R",
-      "Z"
-    ],
-    [
-      "S",
-      "O",
-      "N",
-      "R",
-      "F",
-      "O",
-      "D",
-      "F"
-    ],
-    [
-      "T",
       "E",
-      "L",
-      "D",
-      "N",
-      "S",
+      "M",
+      "C",
       "R",
       "T"
     ],
     [
-      "S",
-      "I",
-      "B",
       "T",
-      "S",
-      "O",
-      "R",
-      "A"
+      "C",
+      "C",
+      "I",
+      "E",
+      "K",
+      "A",
+      "N"
     ],
     [
-      "N",
       "O",
-      "W",
-      "F",
-      "L",
+      "S",
+      "C",
+      "I",
+      "R",
+      "T",
+      "O",
+      "T"
+    ],
+    [
       "A",
-      "K",
-      "E"
+      "H",
+      "M",
+      "P",
+      "T",
+      "C",
+      "I",
+      "I"
+    ],
+    [
+      "C",
+      "A",
+      "N",
+      "I",
+      "E",
+      "H",
+      "C",
+      "T"
+    ],
+    [
+      "H",
+      "C",
+      "O",
+      "S",
+      "L",
+      "T",
+      "E",
+      "O"
+    ],
+    [
+      "S",
+      "O",
+      "C",
+      "E",
+      "R",
+      "A",
+      "P",
+      "M"
     ]
   ],
   "answers": [
-    "SNOWFLAKEART",
-    "FROSTBITE",
-    "SNOWDRIFT",
-    "BLIZZARD",
-    "SNOWFLAKE",
-    "COLDFRONT"
+    "COMPETITION",
+    "TRACKMEET",
+    "CRICKET",
+    "COACH",
+    "SOCCER",
+    "ATHLETICS",
+    "CHAMPIONS"
   ],
-  "spangram": "SNOWFLAKEART"
+  "spangram": "COMPETITION"
 };
