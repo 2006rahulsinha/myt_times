@@ -1,85 +1,85 @@
 export const strandsData = {
-  "themeClue": "Athletic contests",
+  "themeClue": "Sizzling kitchen fun",
   "grid": [
     [
-      "E",
-      "K",
-      "C",
-      "E",
-      "M",
-      "C",
-      "R",
-      "T"
-    ],
-    [
+      "S",
       "T",
-      "C",
-      "C",
-      "I",
-      "E",
       "K",
-      "A",
-      "N"
+      "O",
+      "O",
+      "C",
+      "S",
+      "E"
     ],
     [
+      "D",
+      "U",
+      "B",
       "O",
       "S",
       "C",
-      "I",
-      "R",
-      "T",
-      "O",
-      "T"
+      "H",
+      "D"
     ],
     [
-      "A",
-      "H",
-      "M",
-      "P",
-      "T",
-      "C",
-      "I",
+      "F",
+      "O",
+      "O",
+      "O",
+      "K",
+      "E",
+      "E",
+      "A"
+    ],
+    [
+      "F",
+      "V",
+      "F",
+      "S",
+      "S",
+      "E",
+      "N",
       "I"
     ],
     [
-      "C",
+      "E",
+      "G",
+      "M",
+      "E",
+      "M",
       "A",
-      "N",
-      "I",
-      "E",
-      "H",
-      "C",
-      "T"
-    ],
-    [
-      "H",
-      "C",
-      "O",
-      "S",
-      "L",
-      "T",
-      "E",
-      "O"
-    ],
-    [
-      "S",
-      "O",
-      "C",
-      "E",
       "R",
-      "A",
+      "S"
+    ],
+    [
+      "E",
+      "B",
+      "O",
+      "E",
+      "C",
+      "I",
       "P",
-      "M"
+      "E"
+    ],
+    [
+      "T",
+      "A",
+      "L",
+      "E",
+      "L",
+      "E",
+      "T",
+      "T"
     ]
   ],
   "answers": [
-    "COMPETITION",
-    "TRACKMEET",
-    "CRICKET",
-    "COACH",
-    "SOCCER",
-    "ATHLETICS",
-    "CHAMPIONS"
+    "FOODSTUFF",
+    "VEGETABLE",
+    "OMELETTE",
+    "SPICES",
+    "MARINADES",
+    "CHEESE",
+    "COOKBOOKS"
   ],
-  "spangram": "COMPETITION"
+  "spangram": "FOODSTUFF"
 };

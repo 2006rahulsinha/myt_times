@@ -1,43 +1,43 @@
 export const connectionsData = {
   "groups": [
     {
-      "name": "TRACK AND FIELD EVENTS",
+      "name": "HERBS AND SPICES",
       "color": "yellow",
       "words": [
-        "SPRINT",
-        "LONG JUMP",
-        "SHOT PUT",
-        "DISCUS"
+        "BASIL",
+        "CUMIN",
+        "ROSEMARY",
+        "THYME"
       ]
     },
     {
-      "name": "HANDBALL SPORTS",
+      "name": "COOKING TECHNIQUES",
       "color": "green",
       "words": [
-        "BASKETBALL",
-        "VOLLEYBALL",
-        "HANDBALL",
-        "RUGBY"
+        "SAUTE",
+        "BRAISE",
+        "ROAST",
+        "STEAM"
       ]
     },
     {
-      "name": "ICE SPORTS",
+      "name": "KITCHEN TOOLS",
       "color": "blue",
       "words": [
-        "FIGURE SKATING",
-        "ICE HOCKEY",
-        "SPEED SKATING",
-        "CURLING"
+        "WHISK",
+        "COLANDER",
+        "SPATULA",
+        "TONGS"
       ]
     },
     {
-      "name": "COMBAT SPORTS",
+      "name": "PASTA SHAPES",
       "color": "purple",
       "words": [
-        "BOXING",
-        "WRESTLING",
-        "JUDO",
-        "TAEKWONDO"
+        "SPAGHETTI",
+        "FETTUCCINE",
+        "PENNE",
+        "RAVIOLI"
       ]
     }
   ]
