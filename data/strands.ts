@@ -1,85 +1,85 @@
 export const strandsData = {
-  "themeClue": "Sizzling kitchen fun",
+  "themeClue": "Under the stars",
   "grid": [
     [
-      "S",
+      "A",
+      "M",
+      "F",
+      "I",
+      "R",
+      "E",
       "T",
-      "K",
-      "O",
-      "O",
-      "C",
-      "S",
       "E"
+    ],
+    [
+      "C",
+      "P",
+      "H",
+      "S",
+      "G",
+      "N",
+      "I",
+      "N"
+    ],
+    [
+      "E",
+      "E",
+      "R",
+      "O",
+      "T",
+      "D",
+      "O",
+      "T"
     ],
     [
       "D",
+      "L",
+      "E",
       "U",
-      "B",
-      "O",
-      "S",
-      "C",
-      "H",
-      "D"
-    ],
-    [
-      "F",
-      "O",
-      "O",
-      "O",
-      "K",
-      "E",
-      "E",
-      "A"
-    ],
-    [
-      "F",
-      "V",
-      "F",
-      "S",
-      "S",
-      "E",
-      "N",
-      "I"
-    ],
-    [
-      "E",
-      "G",
-      "M",
-      "E",
-      "M",
       "A",
-      "R",
-      "S"
+      "B",
+      "S",
+      "O"
     ],
     [
-      "E",
-      "B",
-      "O",
-      "E",
-      "C",
       "I",
+      "S",
+      "T",
+      "C",
+      "K",
       "P",
-      "E"
+      "O",
+      "R"
     ],
     [
-      "T",
+      "I",
+      "R",
+      "E",
+      "C",
       "A",
-      "L",
-      "E",
-      "L",
-      "E",
-      "T",
+      "F",
+      "R",
       "T"
+    ],
+    [
+      "F",
+      "P",
+      "M",
+      "A",
+      "C",
+      "K",
+      "S",
+      "E"
     ]
   ],
   "answers": [
-    "FOODSTUFF",
-    "VEGETABLE",
-    "OMELETTE",
-    "SPICES",
-    "MARINADES",
-    "CHEESE",
-    "COOKBOOKS"
+    "CAMPFIRESIDE",
+    "CAMPFIRE",
+    "TENTING",
+    "SHELTER",
+    "OUTDOORS",
+    "BACKPACK",
+    "FOREST"
   ],
-  "spangram": "FOODSTUFF"
+  "spangram": "CAMPFIRESIDE"
 };

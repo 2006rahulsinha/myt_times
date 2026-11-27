@@ -1,43 +1,43 @@
 export const connectionsData = {
   "groups": [
     {
-      "name": "HERBS AND SPICES",
+      "name": "TENT TYPES",
       "color": "yellow",
       "words": [
-        "BASIL",
-        "CUMIN",
-        "ROSEMARY",
-        "THYME"
+        "DOME",
+        "CABIN",
+        "BELL",
+        "WALL"
       ]
     },
     {
-      "name": "COOKING TECHNIQUES",
+      "name": "CAMPING GEAR",
       "color": "green",
       "words": [
-        "SAUTE",
-        "BRAISE",
-        "ROAST",
-        "STEAM"
+        "SLEEPING BAG",
+        "CAMP STOVE",
+        "LANTERN",
+        "COOLER"
       ]
     },
     {
-      "name": "KITCHEN TOOLS",
+      "name": "OUTDOOR ACTIVITIES",
       "color": "blue",
       "words": [
-        "WHISK",
-        "COLANDER",
-        "SPATULA",
-        "TONGS"
+        "HIKING",
+        "BIRDWATCHING",
+        "KAYAKING",
+        "ROCK CLIMBING"
       ]
     },
     {
-      "name": "PASTA SHAPES",
+      "name": "NATURE SOUNDS",
       "color": "purple",
       "words": [
-        "SPAGHETTI",
-        "FETTUCCINE",
-        "PENNE",
-        "RAVIOLI"
+        "CRACKLE",
+        "RUSTLE",
+        "CHIRP",
+        "HOWL"
       ]
     }
   ]
