@@ -1,85 +1,85 @@
 export const strandsData = {
-  "themeClue": "Under the stars",
+  "themeClue": "Wander the world",
   "grid": [
     [
-      "A",
-      "M",
+      "R",
+      "I",
       "F",
+      "K",
       "I",
-      "R",
-      "E",
-      "T",
-      "E"
-    ],
-    [
-      "C",
-      "P",
       "H",
-      "S",
-      "G",
-      "N",
-      "I",
-      "N"
-    ],
-    [
-      "E",
-      "E",
-      "R",
-      "O",
       "T",
-      "D",
-      "O",
-      "T"
+      "D"
     ],
     [
-      "D",
-      "L",
       "E",
-      "U",
-      "A",
-      "B",
+      "J",
+      "O",
+      "P",
+      "I",
       "S",
+      "R",
+      "A"
+    ],
+    [
+      "N",
+      "R",
+      "U",
+      "M",
+      "N",
+      "P",
+      "I",
       "O"
     ],
     [
-      "I",
-      "S",
-      "T",
-      "C",
-      "K",
-      "P",
-      "O",
+      "E",
+      "Y",
+      "E",
+      "A",
+      "G",
+      "R",
+      "E",
       "R"
     ],
     [
-      "I",
-      "R",
-      "E",
+      "N",
+      "G",
+      "X",
       "C",
-      "A",
-      "F",
-      "R",
-      "T"
+      "U",
+      "D",
+      "B",
+      "A"
     ],
     [
-      "F",
+      "R",
+      "I",
       "P",
-      "M",
+      "T",
+      "V",
       "A",
-      "C",
+      "A",
+      "C"
+    ],
+    [
+      "O",
+      "L",
+      "N",
+      "E",
       "K",
-      "S",
-      "E"
+      "C",
+      "P",
+      "K"
     ]
   ],
   "answers": [
-    "CAMPFIRESIDE",
-    "CAMPFIRE",
-    "TENTING",
-    "SHELTER",
-    "OUTDOORS",
     "BACKPACK",
-    "FOREST"
+    "ADVENTURE",
+    "ROADTRIPS",
+    "HIKING",
+    "CAMPFIRE",
+    "JOURNEY",
+    "EXPLORING"
   ],
-  "spangram": "CAMPFIRESIDE"
+  "spangram": "BACKPACK"
 };

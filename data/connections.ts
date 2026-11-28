@@ -1,43 +1,43 @@
 export const connectionsData = {
   "groups": [
     {
-      "name": "TENT TYPES",
+      "name": "MODES OF TRANSPORT",
       "color": "yellow",
       "words": [
-        "DOME",
-        "CABIN",
-        "BELL",
-        "WALL"
+        "AIRPLANE",
+        "TRAIN",
+        "SAILBOAT",
+        "MOTORBIKE"
       ]
     },
     {
-      "name": "CAMPING GEAR",
+      "name": "FAMOUS TRAILS",
       "color": "green",
       "words": [
-        "SLEEPING BAG",
-        "CAMP STOVE",
-        "LANTERN",
-        "COOLER"
+        "INCA TRAIL",
+        "SILK ROAD",
+        "APPALACHIAN TRAIL",
+        "CAMINO DE SANTIAGO"
       ]
     },
     {
-      "name": "OUTDOOR ACTIVITIES",
+      "name": "ADVENTURE SPORTS",
       "color": "blue",
       "words": [
-        "HIKING",
-        "BIRDWATCHING",
-        "KAYAKING",
-        "ROCK CLIMBING"
+        "ROCK CLIMBING",
+        "WHITEWATER RAFTING",
+        "PARAGLIDING",
+        "BUNGEE JUMPING"
       ]
     },
     {
-      "name": "NATURE SOUNDS",
+      "name": "TRAVEL DOCUMENTS",
       "color": "purple",
       "words": [
-        "CRACKLE",
-        "RUSTLE",
-        "CHIRP",
-        "HOWL"
+        "PASSPORT",
+        "VISA",
+        "TRAVEL INSURANCE",
+        "ITINERARY"
       ]
     }
   ]
